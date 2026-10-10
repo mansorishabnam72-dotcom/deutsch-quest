@@ -1,0 +1,154 @@
+{
+  "sourceFile": "2_5352838262358582714.pdf",
+  "pdfPages": 134,
+  "availableLessons": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "missingLessons": [
+    1,
+    2,
+    3
+  ],
+  "audit": [
+    {
+      "lesson": 4,
+      "startOffset": 99,
+      "endOffset": 22285,
+      "characters": 22186,
+      "lines": 474,
+      "linesContainingLatinCharacters": 224,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 297
+    },
+    {
+      "lesson": 5,
+      "startOffset": 22285,
+      "endOffset": 55858,
+      "characters": 33573,
+      "lines": 676,
+      "linesContainingLatinCharacters": 330,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 434
+    },
+    {
+      "lesson": 6,
+      "startOffset": 55858,
+      "endOffset": 71557,
+      "characters": 15699,
+      "lines": 220,
+      "linesContainingLatinCharacters": 140,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 60
+    },
+    {
+      "lesson": 7,
+      "startOffset": 71557,
+      "endOffset": 100924,
+      "characters": 29367,
+      "lines": 399,
+      "linesContainingLatinCharacters": 272,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 143
+    },
+    {
+      "lesson": 8,
+      "startOffset": 100924,
+      "endOffset": 137695,
+      "characters": 36771,
+      "lines": 597,
+      "linesContainingLatinCharacters": 261,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 118
+    },
+    {
+      "lesson": 9,
+      "startOffset": 137695,
+      "endOffset": 183586,
+      "characters": 45891,
+      "lines": 775,
+      "linesContainingLatinCharacters": 351,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 163
+    },
+    {
+      "lesson": 10,
+      "startOffset": 183586,
+      "endOffset": 224931,
+      "characters": 41345,
+      "lines": 1233,
+      "linesContainingLatinCharacters": 358,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 166
+    },
+    {
+      "lesson": 11,
+      "startOffset": 224931,
+      "endOffset": 280437,
+      "characters": 55506,
+      "lines": 1499,
+      "linesContainingLatinCharacters": 419,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 144
+    },
+    {
+      "lesson": 12,
+      "startOffset": 280437,
+      "endOffset": 329296,
+      "characters": 48859,
+      "lines": 1281,
+      "linesContainingLatinCharacters": 395,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 202
+    },
+    {
+      "lesson": 13,
+      "startOffset": 329296,
+      "endOffset": 376939,
+      "characters": 47643,
+      "lines": 1158,
+      "linesContainingLatinCharacters": 337,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 100
+    },
+    {
+      "lesson": 14,
+      "startOffset": 376939,
+      "endOffset": 412813,
+      "characters": 35874,
+      "lines": 1083,
+      "linesContainingLatinCharacters": 288,
+      "status": "automatically_extracted_candidates_needs_human_audit",
+      "candidateEntries": 111
+    }
+  ],
+  "candidateCounts": {
+    "4": 297,
+    "5": 434,
+    "6": 60,
+    "7": 143,
+    "8": 118,
+    "9": 163,
+    "10": 166,
+    "11": 144,
+    "12": 202,
+    "13": 100,
+    "14": 111
+  },
+  "totalCandidateEntries": 1938,
+  "qualityStatus": "automatic_candidates_not_human_audited; do not claim complete or error-free",
+  "importantLimitations": [
+    "PDF lesson vocabulary layout is multi-column; some Persian translations may be mispaired with German terms.",
+    "Lessons 1–3 were not found in the supplied PDF.",
+    "The vocabulary browser exposes all extracted candidate entries; quiz questions sample from the lesson bank."
+  ]
+}

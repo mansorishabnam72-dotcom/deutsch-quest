@@ -1,0 +1,1058 @@
+{
+  "lesson": 4,
+  "source": "PDF user supplied",
+  "status": "automatic draft; verify every entry before claiming completeness",
+  "candidateCount": 210,
+  "entries": [
+    {
+      "german": "die Besprechung, -en",
+      "persian": "ﺟﻠﺴﻪ /ﮐﻤﯿﺴﯿﻮن /ﻧﺸﺴﺖ اداری",
+      "sourceLine": "ﺟﻠﺴﻪ  /ﮐﻤﯿﺴﯿﻮن  /ﻧﺸﺴﺖ اداری         die Besprechung, -en"
+    },
+    {
+      "german": "die Tagesordnung, -en",
+      "persian": "دﺳﺘﻮر ﺟﻠﺴﻪ /ﺑﺮﻧﺎﻣﻬﯽ ﮐﺎری ﺟﻠﺴﻪ",
+      "sourceLine": "دﺳﺘﻮر ﺟﻠﺴﻪ  /ﺑﺮﻧﺎﻣﻬﯽ ﮐﺎری ﺟﻠﺴﻪ        die Tagesordnung, -en"
+    },
+    {
+      "german": "der Tagesordnungspunkt (TOP), -e",
+      "persian": "ﺑﻨﺪ ﯾﺎ آﯾﺘﻢ دﺳﺘﻮر ﺟﻠﺴﻪ",
+      "sourceLine": "ﺑﻨﺪ ﯾﺎ آﯾﺘﻢ دﺳﺘﻮر ﺟﻠﺴﻪ    der Tagesordnungspunkt (TOP), -e"
+    },
+    {
+      "german": "die Weiterbildung, -en",
+      "persian": "آﻣﻮزش ﺗﮑﻤﯿﻠﯽ /دوره ارﺗﻘﺎی ﺷﻐﻠﯽ",
+      "sourceLine": "آﻣﻮزش ﺗﮑﻤﯿﻠﯽ  /دوره ارﺗﻘﺎی ﺷﻐﻠﯽ        die Weiterbildung, -en"
+    },
+    {
+      "german": "die Fortbildung, -en",
+      "persian": "دوره آﻣﻮزﺷﯽ ﺿﻤﻦ ﺧﺪﻣﺖ",
+      "sourceLine": "دوره آﻣﻮزﺷﯽ ﺿﻤﻦ ﺧﺪﻣﺖ           die Fortbildung, -en"
+    },
+    {
+      "german": "die Abteilung, -en",
+      "persian": "دﭘﺎرﺗﻤﺎن /ﺑﺨﺶ /واﺣﺪ ادار",
+      "sourceLine": "دﭘﺎرﺗﻤﺎن  /ﺑﺨﺶ  /واﺣﺪ ادار      die Abteilung, -en"
+    },
+    {
+      "german": "der Bericht, -e",
+      "persian": "ﮔﺰارش",
+      "sourceLine": "ﮔﺰارش      der Bericht, -e"
+    },
+    {
+      "german": "das Protokoll, -e",
+      "persian": "ﺻﻮرﺗﺠﻠﺴﻪ",
+      "sourceLine": "ﺻﻮرﺗﺠﻠﺴﻪ       das Protokoll, -e"
+    },
+    {
+      "german": "der Protokollführer, - / die",
+      "persian": "ﺻﻮرﺗﺠﻠﺴﻬﻨﻮﯾﺲ /ﻣﻨﺸﯽ ﺟﻠﺴﻪ",
+      "sourceLine": "ﺻﻮرﺗﺠﻠﺴﻬﻨﻮﯾﺲ  /ﻣﻨﺸﯽ ﺟﻠﺴﻪ           der Protokollführer, - / die"
+    },
+    {
+      "german": "die Maßnahme, -n",
+      "persian": "اﻗﺪام /ﺗﺪﺑﯿﺮ",
+      "sourceLine": "اﻗﺪام  /ﺗﺪﺑﯿﺮ   die Maßnahme, -n"
+    },
+    {
+      "german": "Maßnahmen ergreifen",
+      "persian": "اﻗﺪاﻣﺎت ﻻزم را اﺗﺨﺎذ ﮐﺮدن",
+      "sourceLine": "اﻗﺪاﻣﺎت ﻻزم را اﺗﺨﺎذ ﮐﺮدن      Maßnahmen ergreifen"
+    },
+    {
+      "german": "die Frist, -en",
+      "persian": "ﻣﻬﻠﺖ /ﻣﻮﻋﺪ ﻣﻘﺮر /ددﻻﯾﻦ",
+      "sourceLine": "ﻣﻬﻠﺖ  /ﻣﻮﻋﺪ ﻣﻘﺮر  /ددﻻﯾﻦ       die Frist, -en"
+    },
+    {
+      "german": "eine Frist einhalten",
+      "persian": "ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ را رﻋﺎﯾﺖ ﮐﺮدن /ﺑﻪ ددﻻﯾﻦ ﻣﺘﻌﻬﺪ ﺑﻮدن",
+      "sourceLine": "ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ را رﻋﺎﯾﺖ ﮐﺮدن  /ﺑﻪ ددﻻﯾﻦ ﻣﺘﻌﻬﺪ ﺑﻮدن      eine Frist einhalten"
+    },
+    {
+      "german": "dringend",
+      "persian": "ﻓﻮری /اﺿﻄﺮاری /ﻣﺒﺮم",
+      "sourceLine": "ﻓﻮری  /اﺿﻄﺮاری  /ﻣﺒﺮم       dringend"
+    },
+    {
+      "german": "fristgerecht",
+      "persian": "در ﻣﻮﻋﺪ ﻣﻘﺮر /ﻃﺒﻖ ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ",
+      "sourceLine": "در ﻣﻮﻋﺪ ﻣﻘﺮر  /ﻃﺒﻖ ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ        fristgerecht"
+    },
+    {
+      "german": "wichtig",
+      "persian": "ﻣﻬﻢ",
+      "sourceLine": "ﻣﻬﻢ    wichtig"
+    },
+    {
+      "german": "verpflichtend",
+      "persian": "اﻟﺰاﻣﯽ /اﺟﺒﺎری /ﺗﻌﻬﺪآور",
+      "sourceLine": "اﻟﺰاﻣﯽ  /اﺟﺒﺎری  /ﺗﻌﻬﺪآور    verpflichtend"
+    },
+    {
+      "german": "der Tourismus",
+      "persian": "ﮔﺮدﺷﮕﺮی /ﺻﻨﻌﺖ ﺗﻮرﯾﺴﻢ",
+      "sourceLine": "ﮔﺮدﺷﮕﺮی  /ﺻﻨﻌﺖ ﺗﻮرﯾﺴﻢ          der Tourismus"
+    },
+    {
+      "german": "die Pauschalreise, -n",
+      "persian": "ﺳﻔﺮ ﺑﺎ ﺗﻮر )ﻫﻤﻪ ﺧﺪﻣﺎت از ﻗﺒﻞ رزرو و ﭘﺮداﺧﺖ ﺷﺪه اﺳﺖ(",
+      "sourceLine": "ﺳﻔﺮ ﺑﺎ ﺗﻮر )ﻫﻤﻪ ﺧﺪﻣﺎت از ﻗﺒﻞ رزرو و ﭘﺮداﺧﺖ ﺷﺪه اﺳﺖ(        die Pauschalreise, -n"
+    },
+    {
+      "german": "die Individualreise, -n",
+      "persian": "ﺳﻔﺮ اﻧﻔﺮادی )ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﺷﺨﺼﯽ ﺗﻮﺳﻂ ﺧﻮد ﻣﺴﺎﻓﺮ(",
+      "sourceLine": "ﺳﻔﺮ اﻧﻔﺮادی )ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﺷﺨﺼﯽ ﺗﻮﺳﻂ ﺧﻮد ﻣﺴﺎﻓﺮ(           die Individualreise, -n"
+    },
+    {
+      "german": "der Campingurlaub, -e",
+      "persian": "ﺗﻌﻄﯿﻼت در ﮐﻤﭗ /ﺳﻔﺮ ﺑﺎ ﭼﺎدر ﯾﺎ ﮐﺎروان",
+      "sourceLine": "ﺗﻌﻄﯿﻼت در ﮐﻤﭗ  /ﺳﻔﺮ ﺑﺎ ﭼﺎدر ﯾﺎ ﮐﺎروان      der Campingurlaub, -e"
+    },
+    {
+      "german": "die Städtereise, -n",
+      "persian": "ﺳﻔﺮ ﺷﻬﺮی )ﺳﻔﺮ ﮐﻮﺗﺎه ﺑﺮای ﺑﺎزدﯾﺪ از ﺟﺎذﺑﻬﻬﺎی ﯾﮏ ﺷﻬﺮ(",
+      "sourceLine": "ﺳﻔﺮ ﺷﻬﺮی )ﺳﻔﺮ ﮐﻮﺗﺎه ﺑﺮای ﺑﺎزدﯾﺪ از ﺟﺎذﺑﻬﻬﺎی ﯾﮏ ﺷﻬﺮ(       die Städtereise, -n"
+    },
+    {
+      "german": "die Fahrradtour, -en",
+      "persian": "ﺗﻮر ﯾﺎ ﺳﻔﺮ ﺑﺎ دوﭼﺮﺧﻪ",
+      "sourceLine": "ﺗﻮر ﯾﺎ ﺳﻔﺮ ﺑﺎ دوﭼﺮﺧﻪ     die Fahrradtour, -en"
+    },
+    {
+      "german": "der Kundenwunsch, \"-e",
+      "persian": "ﺧﻮاﺳﺘﻪ ﯾﺎ آرزوی ﻣﺸﺘﺮی",
+      "sourceLine": "ﺧﻮاﺳﺘﻪ ﯾﺎ آرزوی ﻣﺸﺘﺮی       der Kundenwunsch, \"-e"
+    },
+    {
+      "german": "die Reiseerfahrung, -en",
+      "persian": "ﺗﺠﺮﺑﻪ ﺳﻔﺮ",
+      "sourceLine": "ﺗﺠﺮﺑﻪ ﺳﻔﺮ     die Reiseerfahrung, -en"
+    },
+    {
+      "german": "die Hotelanlage, -n",
+      "persian": "ﻣﺤﻮﻃﻪ ﯾﺎ ﻣﺠﺘﻤﻊ ﻫﺘﻞ",
+      "sourceLine": "ﻣﺤﻮﻃﻪ ﯾﺎ ﻣﺠﺘﻤﻊ ﻫﺘﻞ       die Hotelanlage, -n"
+    },
+    {
+      "german": "die Vollpension",
+      "persian": "ﻫﺘﻞ ﺑﺎ ﺳﻪ وﻋﺪه ﻏﺬاﯾﯽ ﮐﺎﻣﻞ )ﺻﺒﺤﺎﻧﻪ ،ﻧﺎﻫﺎر ،ﺷﺎم(",
+      "sourceLine": "ﻫﺘﻞ ﺑﺎ ﺳﻪ وﻋﺪه ﻏﺬاﯾﯽ ﮐﺎﻣﻞ )ﺻﺒﺤﺎﻧﻪ ،ﻧﺎﻫﺎر ،ﺷﺎم(      die Vollpension"
+    },
+    {
+      "german": "die Reisegruppe, -n",
+      "persian": "ﮔﺮوه ﻣﺴﺎﻓﺮﺗﯽ /ﺗﻮر ﻣﺴﺎﻓﺮﺗﯽ",
+      "sourceLine": "ﮔﺮوه ﻣﺴﺎﻓﺮﺗﯽ  /ﺗﻮر ﻣﺴﺎﻓﺮﺗﯽ        die Reisegruppe, -n"
+    },
+    {
+      "german": "der Reiseleiter, - / die Reiseleiterin, -",
+      "persian": "راﻫﻨﻤﺎی ﺗﻮر /ﻟﯿﺪر ﺳﻔﺮ",
+      "sourceLine": "راﻫﻨﻤﺎی ﺗﻮر  /ﻟﯿﺪر ﺳﻔﺮ     der Reiseleiter, - / die Reiseleiterin, -"
+    },
+    {
+      "german": ")alles inklusive (All-inclusive",
+      "persian": "ﻫﻤﻪ ﺧﺪﻣﺎت ﺷﺎﻣ ِ",
+      "sourceLine": "ﻫﻤﻪ ﺧﺪﻣﺎت ﺷﺎﻣ ِ          )alles inklusive (All-inclusive"
+    },
+    {
+      "german": "organisiert",
+      "persian": "ﺳﺎزﻣﺎﻧﺪﻫﯽ ﺷﺪه /ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﺷﺪه",
+      "sourceLine": "ﺳﺎزﻣﺎﻧﺪﻫﯽ ﺷﺪه  /ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﺷﺪه        organisiert"
+    },
+    {
+      "german": "beruflich",
+      "persian": "ﺷﻐﻠﯽ /ﺣﺮﻓﻬﺎی",
+      "sourceLine": "ﺷﻐﻠﯽ  /ﺣﺮﻓﻬﺎی       beruflich"
+    },
+    {
+      "german": "meistens",
+      "persian": "اﻏﻠﺐ /ﺑﯿﺸﺘﺮ اوﻗﺎت",
+      "sourceLine": "اﻏﻠﺐ  /ﺑﯿﺸﺘﺮ اوﻗﺎت      meistens"
+    },
+    {
+      "german": "spontan",
+      "persian": "ﺧﻮدﺟﻮش /ﺑﺪون ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﻗﺒﻠﯽ",
+      "sourceLine": "ﺧﻮدﺟﻮش  /ﺑﺪون ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﻗﺒﻠﯽ        spontan"
+    },
+    {
+      "german": "das Reiseangebot, -e",
+      "persian": "ﭘﯿﺸﻨﻬﺎد ﻣﺴﺎﻓﺮﺗﯽ /آﮔﻬﯽ ﺳﻔﺮ",
+      "sourceLine": "ﭘﯿﺸﻨﻬﺎد ﻣﺴﺎﻓﺮﺗﯽ  /آﮔﻬﯽ ﺳﻔﺮ        das Reiseangebot, -e"
+    },
+    {
+      "german": "das Mittelmeer",
+      "persian": "درﯾﺎی ﻣﺪﯾﺘﺮاﻧﻪ",
+      "sourceLine": "درﯾﺎی ﻣﺪﯾﺘﺮاﻧﻪ     das Mittelmeer"
+    },
+    {
+      "german": "die Entspannung",
+      "persian": "آراﻣﺶ /اﺳﺘﺮاﺣﺖ /ﺗﻨﺸﺰداﯾﯽ",
+      "sourceLine": "آراﻣﺶ  /اﺳﺘﺮاﺣﺖ  /ﺗﻨﺸﺰداﯾﯽ         die Entspannung"
+    },
+    {
+      "german": "die Strandnähe",
+      "persian": "ﻧﺰدﯾﮑﯽ ﺑﻪ ﺳﺎﺣﻞ",
+      "sourceLine": "ﻧﺰدﯾﮑﯽ ﺑﻪ ﺳﺎﺣﻞ       die Strandnähe"
+    },
+    {
+      "german": "der Pool, -s",
+      "persian": "اﺳﺘﺨﺮ",
+      "sourceLine": "اﺳﺘﺨﺮ     der Pool, -s"
+    },
+    {
+      "german": "die Anzahlung, -en",
+      "persian": "ﭘﯿﺸﭙﺮداﺧﺖ /ﺑﯿﻌﺎﻧﻪ",
+      "sourceLine": "ﭘﯿﺸﭙﺮداﺧﺖ  /ﺑﯿﻌﺎﻧﻪ     die Anzahlung, -en"
+    },
+    {
+      "german": "das Reisebüro, -s",
+      "persian": "آژاﻧﺲ ﻣﺴﺎﻓﺮﺗﯽ",
+      "sourceLine": "آژاﻧﺲ ﻣﺴﺎﻓﺮﺗﯽ        das Reisebüro, -s"
+    },
+    {
+      "german": "der Frühbucherrabatt, -e",
+      "persian": "ﺗﺨﻔﯿﻒ رزرو زودﻫﻨﮕﺎم",
+      "sourceLine": "ﺗﺨﻔﯿﻒ رزرو زودﻫﻨﮕﺎم        der Frühbucherrabatt, -e"
+    },
+    {
+      "german": "der Reiseberater, - / die",
+      "persian": "ﻣﺸﺎور ﺳﻔﺮ /ﮐﺎرﻣﻨﺪ آژاﻧﺲ ﻣﺴﺎﻓﺮﺗﯽ",
+      "sourceLine": "ﻣﺸﺎور ﺳﻔﺮ  /ﮐﺎرﻣﻨﺪ آژاﻧﺲ ﻣﺴﺎﻓﺮﺗﯽ          der Reiseberater, - / die"
+    },
+    {
+      "german": "das Unterhaltungsprogramm, -e",
+      "persian": "ﺑﺮﻧﺎﻣﻪ ﺗﻔﺮﯾﺤﯽ /ﺑﺮﻧﺎﻣﻪ ﺳﺮﮔﺮﻣﯽ",
+      "sourceLine": "ﺑﺮﻧﺎﻣﻪ ﺗﻔﺮﯾﺤﯽ  /ﺑﺮﻧﺎﻣﻪ ﺳﺮﮔﺮﻣﯽ        das Unterhaltungsprogramm, -e"
+    },
+    {
+      "german": "der Transfer, -s",
+      "persian": "ﺗﺮاﻧﺴﻔﺮ )ﺳﺮوﯾﺲ ﺟﺎﺑﻬﺠﺎﯾﯽ ﻣﺴﺎﻓﺮ ﻣﺜﻼ ً از ﻓﺮودﮔﺎه ﺑﻪ ﻫﺘﻞ(",
+      "sourceLine": "ﺗﺮاﻧﺴﻔﺮ )ﺳﺮوﯾﺲ ﺟﺎﺑﻬﺠﺎﯾﯽ ﻣﺴﺎﻓﺮ ﻣﺜﻼ ً از ﻓﺮودﮔﺎه ﺑﻪ ﻫﺘﻞ(       der Transfer, -s"
+    },
+    {
+      "german": "der Haken, -",
+      "persian": "ﻗﻼب )اﺻﻄﻼح keinen Haken gibt :ﯾﻌﻨﯽ ﮐﻠﮏ ﯾﺎ ﻫﺰﯾﻨﻪ ﭘﻨﻬﺎﻧﯽ در ﮐﺎر ﻧﯿﺴﺖ(",
+      "sourceLine": "ﻗﻼب )اﺻﻄﻼح keinen Haken gibt :ﯾﻌﻨﯽ ﮐﻠﮏ ﯾﺎ ﻫﺰﯾﻨﻪ ﭘﻨﻬﺎﻧﯽ در ﮐﺎر ﻧﯿﺴﺖ(          der Haken, -"
+    },
+    {
+      "german": "konkret",
+      "persian": "ﻣﺸﺨﺺ /دﻗﯿﻖ /ﻣﻠﻤﻮس",
+      "sourceLine": "ﻣﺸﺨﺺ  /دﻗﯿﻖ  /ﻣﻠﻤﻮس           konkret"
+    },
+    {
+      "german": "flexibel",
+      "persian": "اﻧﻌﻄﺎﻓﭙﺬﯾﺮ",
+      "sourceLine": "اﻧﻌﻄﺎﻓﭙﺬﯾﺮ    flexibel"
+    },
+    {
+      "german": "derzeit",
+      "persian": "در ﺣﺎل ﺣﺎﺿﺮ /اﮐﻨﻮن",
+      "sourceLine": "در ﺣﺎل ﺣﺎﺿﺮ  /اﮐﻨﻮن       derzeit"
+    },
+    {
+      "german": ")weitaus (günstiger",
+      "persian": "ﺑﻪ ﻣﺮاﺗﺐ /ﺑﺴﯿﺎر زﯾﺎد )ارزاﻧﺘﺮ(",
+      "sourceLine": "ﺑﻪ ﻣﺮاﺗﺐ  /ﺑﺴﯿﺎر زﯾﺎد )ارزاﻧﺘﺮ(    )weitaus (günstiger"
+    },
+    {
+      "german": "bzgl. (bezüglich) + Genitiv",
+      "persian": "در راﺑﻄﻪ ﺑﺎ /ﭘﯿﺮوِ",
+      "sourceLine": "در راﺑﻄﻪ ﺑﺎ  /ﭘﯿﺮوِ   bzgl. (bezüglich) + Genitiv"
+    },
+    {
+      "german": "der Vertrag, \"-e",
+      "persian": "ﻗﺮارداد",
+      "sourceLine": "ﻗﺮارداد    der Vertrag, \"-e"
+    },
+    {
+      "german": "die Reiserücktrittsversicherung, -en",
+      "persian": "ﺑﯿﻤﻪ ﮐﻨﺴﻠﯽ ﺳﻔﺮ )ﺟﺒﺮان ﺧﺴﺎرت در ﺻﻮرت ﻧﺮﻓﺘﻦ ﺑﻪ ﺳﻔﺮ(",
+      "sourceLine": "ﺑﯿﻤﻪ ﮐﻨﺴﻠﯽ ﺳﻔﺮ )ﺟﺒﺮان ﺧﺴﺎرت در ﺻﻮرت ﻧﺮﻓﺘﻦ ﺑﻪ ﺳﻔﺮ(             die Reiserücktrittsversicherung, -en"
+    },
+    {
+      "german": ")die Geschäftsbedingungen (AGB",
+      "persian": "ﺷﺮاﯾﻂ و ﻣﻘﺮرات ﻋﻤﻮﻣﯽ ﻗﺮارداد /ﺑﻨﺪﻫﺎی ﻗﺮارداد",
+      "sourceLine": "ﺷﺮاﯾﻂ و ﻣﻘﺮرات ﻋﻤﻮﻣﯽ ﻗﺮارداد  /ﺑﻨﺪﻫﺎی ﻗﺮارداد         )die Geschäftsbedingungen (AGB"
+    },
+    {
+      "german": "der Reiseveranstalter, -",
+      "persian": "ﺑﺮﮔﺰارﮐﻨﻨﺪه ﺗﻮر /آژاﻧﺲ ﻣﺴﺎﻓﺮﺗﯽ اﺻﻠﯽ",
+      "sourceLine": "ﺑﺮﮔﺰارﮐﻨﻨﺪه ﺗﻮر  /آژاﻧﺲ ﻣﺴﺎﻓﺮﺗﯽ اﺻﻠﯽ        der Reiseveranstalter, -"
+    },
+    {
+      "german": "das Übergepäck",
+      "persian": "اﺿﺎﻓﻬﺒﺎر",
+      "sourceLine": "اﺿﺎﻓﻬﺒﺎر    das Übergepäck"
+    },
+    {
+      "german": "der Abflug, \"-e",
+      "persian": "ﭘﺮواز ﻫﻮاﭘﯿﻤﺎ /ﺗﯿﮑﺂف",
+      "sourceLine": "ﭘﺮواز ﻫﻮاﭘﯿﻤﺎ  /ﺗﯿﮑﺂف    der Abflug, \"-e"
+    },
+    {
+      "german": "sowieso",
+      "persian": "ﺑﻪ ﻫﺮ ﺣﺎل /در ﻫﺮ ﺻﻮرت /ﺧﻮد ﺑﻪ ﺧﻮد",
+      "sourceLine": "ﺑﻪ ﻫﺮ ﺣﺎل  /در ﻫﺮ ﺻﻮرت  /ﺧﻮد ﺑﻪ ﺧﻮد        sowieso"
+    },
+    {
+      "german": "an deiner Stelle",
+      "persian": "اﮔﺮ ﻣﻦ ﺟﺎی ﺗﻮ ﺑﻮدم...",
+      "sourceLine": "اﮔﺮ ﻣﻦ ﺟﺎی ﺗﻮ ﺑﻮدم...      an deiner Stelle"
+    },
+    {
+      "german": "zu spät",
+      "persian": "ﺧﯿﻠﯽ دﯾﺮ",
+      "sourceLine": "ﺧﯿﻠﯽ دﯾﺮ     zu spät"
+    },
+    {
+      "german": "der Stadtführer, - / die Stadtführerin, -",
+      "persian": "راﻫﻨﻤﺎی ﺷﻬﺮ /ﺗﻮر ﻟﯿﺪر ﺷﻬﺮی",
+      "sourceLine": "راﻫﻨﻤﺎی ﺷﻬﺮ  /ﺗﻮر ﻟﯿﺪر ﺷﻬﺮی        der Stadtführer, - / die Stadtführerin, -"
+    },
+    {
+      "german": "die Rezeptionistin, -nen / der",
+      "persian": "ﻣﺴﺌﻮل ﭘﺬﯾﺮش",
+      "sourceLine": "ﻣﺴﺌﻮل ﭘﺬﯾﺮش        die Rezeptionistin, -nen / der"
+    },
+    {
+      "german": "die Visitenkarte, -n",
+      "persian": "ﮐﺎرت وﯾﺰﯾﺖ /ﻧﻤﺎد ﻣﻌﺮﻓﯽ",
+      "sourceLine": "ﮐﺎرت وﯾﺰﯾﺖ  /ﻧﻤﺎد ﻣﻌﺮﻓﯽ        die Visitenkarte, -n"
+    },
+    {
+      "german": "die Geschäftsleitung, -en",
+      "persian": "ﻣﺪﯾﺮﯾﺖ ﺷﺮﮐﺖ /ﻣﺪﯾﺮﯾﺖ ﺑﺎزرﮔﺎﻧﯽ",
+      "sourceLine": "ﻣﺪﯾﺮﯾﺖ ﺷﺮﮐﺖ  /ﻣﺪﯾﺮﯾﺖ ﺑﺎزرﮔﺎﻧﯽ         die Geschäftsleitung, -en"
+    },
+    {
+      "german": "die Koordination, -en",
+      "persian": "ﻫﻤﺎﻫﻨﮕﯽ /ﺳﺎزﻣﺎﻧﺪﻫﯽ",
+      "sourceLine": "ﻫﻤﺎﻫﻨﮕﯽ  /ﺳﺎزﻣﺎﻧﺪﻫﯽ        die Koordination, -en"
+    },
+    {
+      "german": "die Gästebetreuung",
+      "persian": "رﺳﯿﺪﮔﯽ و ﺧﺪﻣﺎﺗﺮﺳﺎﻧﯽ ﺑﻪ ﻣﻬﻤﺎﻧﺎن",
+      "sourceLine": "رﺳﯿﺪﮔﯽ و ﺧﺪﻣﺎﺗﺮﺳﺎﻧﯽ ﺑﻪ ﻣﻬﻤﺎﻧﺎن         die Gästebetreuung"
+    },
+    {
+      "german": "die Kinderanimateurin, -nen / der",
+      "persian": "ﻣﺴﺌﻮل ﺳﺮﮔﺮﻣﯽ ﮐﻮدﮐﺎن در ﻫﺘﻞ",
+      "sourceLine": "ﻣﺴﺌﻮل ﺳﺮﮔﺮﻣﯽ ﮐﻮدﮐﺎن در ﻫﺘﻞ           die Kinderanimateurin, -nen / der"
+    },
+    {
+      "german": "die Betreuung",
+      "persian": "ﺳﺮﭘﺮﺳﺘﯽ /ﻣﺮاﻗﺒﺖ /ﻫﺪاﯾﺖ",
+      "sourceLine": "ﺳﺮﭘﺮﺳﺘﯽ  /ﻣﺮاﻗﺒﺖ  /ﻫﺪاﯾﺖ         die Betreuung"
+    },
+    {
+      "german": "die Anerkennung, -en",
+      "persian": "ﻗﺪرداﻧﯽ /ﺑﻪ رﺳﻤﯿﺖ ﺷﻨﺎﺧﺘﻦ",
+      "sourceLine": "ﻗﺪرداﻧﯽ  /ﺑﻪ رﺳﻤﯿﺖ ﺷﻨﺎﺧﺘﻦ         die Anerkennung, -en"
+    },
+    {
+      "german": "das Einkommen, -",
+      "persian": "درآﻣﺪ",
+      "sourceLine": "درآﻣﺪ    das Einkommen, -"
+    },
+    {
+      "german": "das Grundgehalt, \"-er",
+      "persian": "ﺣﻘﻮق ﭘﺎﯾ",
+      "sourceLine": "ﺣﻘﻮق ﭘﺎﯾ      das Grundgehalt, \"-er"
+    },
+    {
+      "german": "die Aufstiegsmöglichkeit, -en",
+      "persian": "اﻣﮑﺎن ﯾﺎ ﻓﺮﺻﺖ ارﺗﻘﺎی ﺷﻐﻠ",
+      "sourceLine": "اﻣﮑﺎن ﯾﺎ ﻓﺮﺻﺖ ارﺗﻘﺎی ﺷﻐﻠ          die Aufstiegsmöglichkeit, -en"
+    },
+    {
+      "german": "das Privatleben",
+      "persian": "زﻧﺪﮔﯽ ﺧﺼﻮﺻﯽ",
+      "sourceLine": "زﻧﺪﮔﯽ ﺧﺼﻮﺻﯽ         das Privatleben"
+    },
+    {
+      "german": "der Aufenthalt, -e",
+      "persian": "اﻗﺎﻣﺖ /ﻣﺪت زﻣﺎن ﻣﺎﻧﺪن در ﯾﮏ ﻣﮑﺎ",
+      "sourceLine": "اﻗﺎﻣﺖ  /ﻣﺪت زﻣﺎن ﻣﺎﻧﺪن در ﯾﮏ ﻣﮑﺎ          der Aufenthalt, -e"
+    },
+    {
+      "german": "die Qualifikation, -en",
+      "persian": "ﺻﻼﺣﯿﺖ /ﻣﺪرک /ﺷﺎﯾﺴﺘﮕﯽ ﺷﻐﻠﯽ",
+      "sourceLine": "ﺻﻼﺣﯿﺖ  /ﻣﺪرک  /ﺷﺎﯾﺴﺘﮕﯽ ﺷﻐﻠﯽ            die Qualifikation, -en"
+    },
+    {
+      "german": "die Stärke, -n",
+      "persian": "ﻧﻘﻄﻪ ﻗﻮت",
+      "sourceLine": "ﻧﻘﻄﻪ ﻗﻮت      die Stärke, -n"
+    },
+    {
+      "german": "das Organisationstalent, -e",
+      "persian": "اﺳﺘﻌﺪاد ﺳﺎزﻣﺎﻧﺪﻫﯽ و ﺑﺮﻧﺎﻣﻬﺮﯾﺰی",
+      "sourceLine": "اﺳﺘﻌﺪاد ﺳﺎزﻣﺎﻧﺪﻫﯽ و ﺑﺮﻧﺎﻣﻬﺮﯾﺰی        das Organisationstalent, -e"
+    },
+    {
+      "german": "die Kompetenz, -en",
+      "persian": "ﻣﻬﺎرت /ﺷﺎﯾﺴﺘﮕﯽ /ﺗﻮاﻧﻤﻨﺪی",
+      "sourceLine": "ﻣﻬﺎرت  /ﺷﺎﯾﺴﺘﮕﯽ  /ﺗﻮاﻧﻤﻨﺪی        die Kompetenz, -en"
+    },
+    {
+      "german": "das Aufgabengebiet, -e",
+      "persian": "ﺣﻮزه وﻇﺎﯾﻒ ﮐﺎری /ﻣﺤﺪوده ﻣﺴﺌﻮﻟﯿﺘﻬﺎ",
+      "sourceLine": "ﺣﻮزه وﻇﺎﯾﻒ ﮐﺎری  /ﻣﺤﺪوده ﻣﺴﺌﻮﻟﯿﺘﻬﺎ         das Aufgabengebiet, -e"
+    },
+    {
+      "german": "die Ausflugsabrechnung, -en",
+      "persian": "ﺻﻮرﺗﺤﺴﺎب ﻣﺎﻟﯽ ﺗﻮرﻫﺎ و ﮔﺸﺘﻮﮔﺬارﻫﺎ",
+      "sourceLine": "ﺻﻮرﺗﺤﺴﺎب ﻣﺎﻟﯽ ﺗﻮرﻫﺎ و ﮔﺸﺘﻮﮔﺬارﻫﺎ          die Ausflugsabrechnung, -en"
+    },
+    {
+      "german": "die Ablage, -n",
+      "persian": "ﺑﺎﯾﮕﺎﻧﯽ ﻣﺪارک /زوﻧﮑﻦ اداری",
+      "sourceLine": "ﺑﺎﯾﮕﺎﻧﯽ ﻣﺪارک  /زوﻧﮑﻦ اداری      die Ablage, -n"
+    },
+    {
+      "german": "die Anforderung, -en",
+      "persian": "ﺗﻘﺎﺿﺎ /ﺷﺮط اﻟﺰاﻣﯽ",
+      "sourceLine": "ﺗﻘﺎﺿﺎ  /ﺷﺮط اﻟﺰاﻣﯽ       die Anforderung, -en"
+    },
+    {
+      "german": "das Auftreten",
+      "persian": "رﻓﺘﺎر /ﺑﺮﺧﻮرد /ﻇﺎﻫﺮ ﺷﺪن",
+      "sourceLine": "رﻓﺘﺎر  /ﺑﺮﺧﻮرد  /ﻇﺎﻫﺮ ﺷﺪن       das Auftreten"
+    },
+    {
+      "german": "die Erscheinung, -en",
+      "persian": "ﻇﺎﻫﺮ /ﻗﯿﺎﻓﻪ ) :ansprechende Erscheinungﻇﺎﻫﺮ آراﺳﺘﻪ(",
+      "sourceLine": "ﻇﺎﻫﺮ  /ﻗﯿﺎﻓﻪ ) :ansprechende Erscheinungﻇﺎﻫﺮ آراﺳﺘﻪ(           die Erscheinung, -en"
+    },
+    {
+      "german": "die Kommunikationsfähigkeit",
+      "persian": "ﺗﻮاﻧﺎﯾﯽ ﺑﺮﻗﺮاری ارﺗﺒﺎط /ﻣﻬﺎرت ارﺗﺒﺎﻃﯽ",
+      "sourceLine": "ﺗﻮاﻧﺎﯾﯽ ﺑﺮﻗﺮاری ارﺗﺒﺎط  /ﻣﻬﺎرت ارﺗﺒﺎﻃﯽ      die Kommunikationsfähigkeit"
+    },
+    {
+      "german": "die Bewerbungsunterlagen",
+      "persian": "ﻣﺪارک ﮐﺎﻣﻞ درﺧﻮاﺳﺖ ﮐﺎر",
+      "sourceLine": "ﻣﺪارک ﮐﺎﻣﻞ درﺧﻮاﺳﺖ ﮐﺎر          die Bewerbungsunterlagen"
+    },
+    {
+      "german": "das Zielland, \"-er",
+      "persian": "ﮐﺸﻮر ﻣﻘﺼﺪ",
+      "sourceLine": "ﮐﺸﻮر ﻣﻘﺼﺪ       das Zielland, \"-er"
+    },
+    {
+      "german": "das Auswahlverfahren, -",
+      "persian": "ﻓﺮآﯾﻨﺪ ﮔﺰﯾﻨﺶ /ﻓﺮآﯾﻨﺪ ﻣﺼﺎﺣﺒﻪ و اﻧﺘﺨﺎب ﮐﺎرﻣﻨﺪ",
+      "sourceLine": "ﻓﺮآﯾﻨﺪ ﮔﺰﯾﻨﺶ  /ﻓﺮآﯾﻨﺪ ﻣﺼﺎﺣﺒﻪ و اﻧﺘﺨﺎب ﮐﺎرﻣﻨﺪ      das Auswahlverfahren, -"
+    },
+    {
+      "german": "anspruchsvoll",
+      "persian": "ﺳﺨﺘﮕﯿﺮ /ﭘﺮﺗﻮﻗﻊ /ﺑﺎاﺳﺘﺎﻧﺪارد ﺑﺎﻻ",
+      "sourceLine": "ﺳﺨﺘﮕﯿﺮ  /ﭘﺮﺗﻮﻗﻊ  /ﺑﺎاﺳﺘﺎﻧﺪارد ﺑﺎﻻ    anspruchsvoll"
+    },
+    {
+      "german": "reibungslos",
+      "persian": "ﺑﯿﺎﺻﻄﮑﺎک /روان /ﺑﺪون ﻣﺸﮑﻞ",
+      "sourceLine": "ﺑﯿﺎﺻﻄﮑﺎک  /روان  /ﺑﺪون ﻣﺸﮑﻞ          reibungslos"
+    },
+    {
+      "german": "abwechslungsreich",
+      "persian": "ﻣﺘﻨﻮع /ﮔﻮﻧﺎﮔﻮن )ﻣﺘﻀﺎد ﮐﺴﻠﮑﻨﻨﺪه(",
+      "sourceLine": "ﻣﺘﻨﻮع  /ﮔﻮﻧﺎﮔﻮن )ﻣﺘﻀﺎد ﮐﺴﻠﮑﻨﻨﺪه(       abwechslungsreich"
+    },
+    {
+      "german": "vielseitig",
+      "persian": "ﭼﻨﺪﺟﺎﻧﺒﻪ /ﻫﻤﻬﻔﻨﺤﺮﯾﻒ",
+      "sourceLine": "ﭼﻨﺪﺟﺎﻧﺒﻪ  /ﻫﻤﻬﻔﻨﺤﺮﯾﻒ       vielseitig"
+    },
+    {
+      "german": "todmüde",
+      "persian": "ﺧﺴﺘﻪ و ﮐﻮﻓﺘﻪ",
+      "sourceLine": "ﺧﺴﺘﻪ و ﮐﻮﻓﺘﻪ      todmüde"
+    },
+    {
+      "german": "netto",
+      "persian": "ﺧﺎﻟﺺ )ﺣﻘﻮق ﭘﺲ از ﮐﺴﺮ ﻣﺎﻟﯿﺎت و ﺑﯿﻤﻪ(",
+      "sourceLine": "ﺧﺎﻟﺺ )ﺣﻘﻮق ﭘﺲ از ﮐﺴﺮ ﻣﺎﻟﯿﺎت و ﺑﯿﻤﻪ(          netto"
+    },
+    {
+      "german": "unterwegs",
+      "persian": "در ﺳﻔﺮ /در راه /در ﻣﺴﯿﺮ",
+      "sourceLine": "در ﺳﻔﺮ  /در راه  /در ﻣﺴﯿﺮ      unterwegs"
+    },
+    {
+      "german": "einschlägig",
+      "persian": "ﻣﺮﺑﻮﻃﻪ /ﺗﺨﺼﺼﯽ",
+      "sourceLine": "ﻣﺮﺑﻮﻃﻪ  /ﺗﺨﺼﺼﯽ         einschlägig"
+    },
+    {
+      "german": "weitgehend",
+      "persian": "ﺗﺎ ﺣﺪ زﯾﺎدی /ﺑﻪ ﻃﻮر ﮔﺴﺘﺮده",
+      "sourceLine": "ﺗﺎ ﺣﺪ زﯾﺎدی  /ﺑﻪ ﻃﻮر ﮔﺴﺘﺮده       weitgehend"
+    },
+    {
+      "german": "von Vorteil sein",
+      "persian": "ﻣﺰﯾﺖ ﻣﺤﺴﻮب ﺷﺪن /اﻣﺘﯿﺎز داﺷﺘﻦ",
+      "sourceLine": "ﻣﺰﯾﺖ ﻣﺤﺴﻮب ﺷﺪن  /اﻣﺘﯿﺎز داﺷﺘﻦ           von Vorteil sein"
+    },
+    {
+      "german": "sofort",
+      "persian": "ﻓﻮرا ً /از ﻫﻤﯿﻦ ﺣﺎﻻ",
+      "sourceLine": "ﻓﻮرا ً  /از ﻫﻤﯿﻦ ﺣﺎﻻ   sofort"
+    },
+    {
+      "german": "die Satire, -n",
+      "persian": "ﻃﻨﺰ /ﻫﺠﻮﯾﻪ /اﺛﺮ اﻧﺘﻘﺎدی ﻃﻨﺰآﻣﯿﺰ",
+      "sourceLine": "ﻃﻨﺰ  /ﻫﺠﻮﯾﻪ  /اﺛﺮ اﻧﺘﻘﺎدی ﻃﻨﺰآﻣﯿﺰ     die Satire, -n"
+    },
+    {
+      "german": "das Berufsbild, -er",
+      "persian": "ﺗﺼﻮﯾﺮ ﺷﻐﻠﯽ /ﺗﻮﺻﯿﻒ ﮐﻠﯽ ﯾﮏ ﺣﺮﻓﻪ",
+      "sourceLine": "ﺗﺼﻮﯾﺮ ﺷﻐﻠﯽ  /ﺗﻮﺻﯿﻒ ﮐﻠﯽ ﯾﮏ ﺣﺮﻓﻪ           das Berufsbild, -er"
+    },
+    {
+      "german": "die Umbuchung, -en",
+      "persian": "ﺗﻐﯿﯿﺮ رزرو )زﻣﺎن ﯾﺎ ﻣﮑﺎن ﺑﻠﯿﺖ و ﻫﺘﻞ(",
+      "sourceLine": "ﺗﻐﯿﯿﺮ رزرو )زﻣﺎن ﯾﺎ ﻣﮑﺎن ﺑﻠﯿﺖ و ﻫﺘﻞ(      die Umbuchung, -en"
+    },
+    {
+      "german": "die Sehenswürdigkeit, -en",
+      "persian": "ﺟﺎذﺑﻪ ﮔﺮدﺷﮕﺮی /ﻣﮑﺎن دﯾﺪﻧﯽ",
+      "sourceLine": "ﺟﺎذﺑﻪ ﮔﺮدﺷﮕﺮی  /ﻣﮑﺎن دﯾﺪﻧﯽ         die Sehenswürdigkeit, -en"
+    },
+    {
+      "german": "der Doktortitel, -",
+      "persian": "ﻣﺪرک ﯾﺎ ﻋﻨﻮان دﮐﺘﺮی",
+      "sourceLine": "ﻣﺪرک ﯾﺎ ﻋﻨﻮان دﮐﺘﺮی       der Doktortitel, -"
+    },
+    {
+      "german": "der Spitzenkoch, \"-e",
+      "persian": "ﺳﺮآﺷﭙﺰ درﺟﻬﯿﮏ و ﺣﺮﻓﻬﺎی",
+      "sourceLine": "ﺳﺮآﺷﭙﺰ درﺟﻬﯿﮏ و ﺣﺮﻓﻬﺎی          der Spitzenkoch, \"-e"
+    },
+    {
+      "german": "der Verkehrsexperte, -n",
+      "persian": "ﮐﺎرﺷﻨﺎس ﺗﺮاﻓﯿﮏ و ﺣﻤﻠﻮﻧﻘﻞ",
+      "sourceLine": "ﮐﺎرﺷﻨﺎس ﺗﺮاﻓﯿﮏ و ﺣﻤﻠﻮﻧﻘﻞ         der Verkehrsexperte, -n"
+    },
+    {
+      "german": "der Verkehrsstau, -s",
+      "persian": "راﻫﺒﻨﺪان /ﺗﺮاﻓﯿﮏ ﺳﻨﮕﯿﻦ",
+      "sourceLine": "راﻫﺒﻨﺪان  /ﺗﺮاﻓﯿﮏ ﺳﻨﮕﯿﻦ      der Verkehrsstau, -s"
+    },
+    {
+      "german": "die Anreise, -n",
+      "persian": "زﻣﺎن ﯾﺎ ﻣﺴﯿﺮ رﺳﯿﺪن ﺑﻪ ﻣﻘﺼﺪ /ورود ﻣﺴﺎﻓﺮان",
+      "sourceLine": "زﻣﺎن ﯾﺎ ﻣﺴﯿﺮ رﺳﯿﺪن ﺑﻪ ﻣﻘﺼﺪ  /ورود ﻣﺴﺎﻓﺮان          die Anreise, -n"
+    },
+    {
+      "german": "die Fähigkeit, -en",
+      "persian": "ﺗﻮاﻧﺎﯾﯽ /اﺳﺘﻌﺪاد /ﻣﻬﺎرت",
+      "sourceLine": "ﺗﻮاﻧﺎﯾﯽ  /اﺳﺘﻌﺪاد  /ﻣﻬﺎرت    die Fähigkeit, -en"
+    },
+    {
+      "german": "die Unfähigkeit, -en",
+      "persian": "ﻧﺎﺗﻮاﻧﯽ /ﺑﯿﮑﻔﺎﯾﺘﯽ",
+      "sourceLine": "ﻧﺎﺗﻮاﻧﯽ  /ﺑﯿﮑﻔﺎﯾﺘﯽ   die Unfähigkeit, -en"
+    },
+    {
+      "german": "die Rückkehr",
+      "persian": "ﺑﺎزﮔﺸﺖ",
+      "sourceLine": "ﺑﺎزﮔﺸﺖ      die Rückkehr"
+    },
+    {
+      "german": "die Presse",
+      "persian": "ﻣﻄﺒﻮﻋﺎت /رﺳﺎﻧﻬﻬﺎ",
+      "sourceLine": "ﻣﻄﺒﻮﻋﺎت  /رﺳﺎﻧﻬﻬﺎ      die Presse"
+    },
+    {
+      "german": "die Gebühr, -en",
+      "persian": "ﮐﺎرﻣﺰد /ﻫﺰﯾﻨﻪ ﺧﺪﻣﺎت /ﺷﻬﺮﯾﻪ",
+      "sourceLine": "ﮐﺎرﻣﺰد  /ﻫﺰﯾﻨﻪ ﺧﺪﻣﺎت  /ﺷﻬﺮﯾﻪ      die Gebühr, -en"
+    },
+    {
+      "german": "die Lebensgeschichte, -n",
+      "persian": "داﺳﺘﺎن زﻧﺪﮔﯽ /ﺑﯿﻮﮔﺮاﻓﯽ",
+      "sourceLine": "داﺳﺘﺎن زﻧﺪﮔﯽ  /ﺑﯿﻮﮔﺮاﻓﯽ      die Lebensgeschichte, -n"
+    },
+    {
+      "german": "das Beziehungsproblem, -e",
+      "persian": "ﻣﺸﮑﻞ در راﺑﻄﻪ ﻋﺎﻃﻔﯽ ﯾﺎ زﻧﺎﺷﻮﯾﯽ",
+      "sourceLine": "ﻣﺸﮑﻞ در راﺑﻄﻪ ﻋﺎﻃﻔﯽ ﯾﺎ زﻧﺎﺷﻮﯾﯽ        das Beziehungsproblem, -e"
+    },
+    {
+      "german": "der Sinn, -e",
+      "persian": "ﻣﻌﻨﺎ /ﻣﻔﻬﻮم /ﻫﺪف",
+      "sourceLine": "ﻣﻌﻨﺎ  /ﻣﻔﻬﻮم  /ﻫﺪف     der Sinn, -e"
+    },
+    {
+      "german": ")hoffnungslos (überbucht",
+      "persian": "ﺑﻪ ﻃﻮر ﻧﺎاﻣﯿﺪﮐﻨﻨﺪﻫﺎی /ﺑﻪ ﺷﺪت )ﺑﯿﺶ از ﻇﺮﻓﯿﺖ رزرو ﺷﺪه(",
+      "sourceLine": "ﺑﻪ ﻃﻮر ﻧﺎاﻣﯿﺪﮐﻨﻨﺪﻫﺎی  /ﺑﻪ ﺷﺪت )ﺑﯿﺶ از ﻇﺮﻓﯿﺖ رزرو ﺷﺪه(       )hoffnungslos (überbucht"
+    },
+    {
+      "german": "hellseherisch",
+      "persian": "ﻏﯿﺒﮕﻮﯾﺎﻧﻪ /دارای ﻗﺪرت ﭘﯿﺸﺒﯿﻨﯽ آﯾﻨﺪه",
+      "sourceLine": "ﻏﯿﺒﮕﻮﯾﺎﻧﻪ  /دارای ﻗﺪرت ﭘﯿﺸﺒﯿﻨﯽ آﯾﻨﺪه    hellseherisch"
+    },
+    {
+      "german": "locker",
+      "persian": "ﺧﻮﻧﺴﺮد /ﺑﯿﺨﯿﺎل /راﺣﺖ",
+      "sourceLine": "ﺧﻮﻧﺴﺮد  /ﺑﯿﺨﯿﺎل  /راﺣﺖ      locker"
+    },
+    {
+      "german": "bedingungslos",
+      "persian": "ﺑﺪون ﻗﯿﺪ و ﺷﺮط /ﻣﻄﻠﻖ",
+      "sourceLine": "ﺑﺪون ﻗﯿﺪ و ﺷﺮط  /ﻣﻄﻠﻖ        bedingungslos"
+    },
+    {
+      "german": "körperlich",
+      "persian": "ﺟﺴﻤﯽ /ﺑﺪﻧﯽ",
+      "sourceLine": "ﺟﺴﻤﯽ  /ﺑﺪﻧﯽ      körperlich"
+    },
+    {
+      "german": "psychisch",
+      "persian": "روﺣﯽ /رواﻧﯽ",
+      "sourceLine": "روﺣﯽ  /رواﻧﯽ     psychisch"
+    },
+    {
+      "german": "die Präsentation, -en",
+      "persian": "اراﺋﻪ /ﮐﻨﻔﺮاﻧﺲ",
+      "sourceLine": "اراﺋﻪ  /ﮐﻨﻔﺮاﻧﺲ    die Präsentation, -en"
+    },
+    {
+      "german": "der Vortrag, \"-e",
+      "persian": "ﺳﺨﻨﺮاﻧﯽ /ﮐﻨﻔﺮاﻧﺲ",
+      "sourceLine": "ﺳﺨﻨﺮاﻧﯽ  /ﮐﻨﻔﺮاﻧﺲ       der Vortrag, \"-e"
+    },
+    {
+      "german": "das Reiseziel, -e",
+      "persian": "ﻣﻘﺼﺪ ﺳﻔﺮ",
+      "sourceLine": "ﻣﻘﺼﺪ ﺳﻔﺮ       das Reiseziel, -e"
+    },
+    {
+      "german": "das Reisedatum, -daten",
+      "persian": "ﺗﺎرﯾﺦ ﺳﻔﺮ",
+      "sourceLine": "ﺗﺎرﯾﺦ ﺳﻔﺮ     das Reisedatum, -daten"
+    },
+    {
+      "german": "das Vertrauen",
+      "persian": "اﻋﺘﻤﺎد /اﻃﻤﯿﻨﺎن",
+      "sourceLine": "اﻋﺘﻤﺎد  /اﻃﻤﯿﻨﺎن    das Vertrauen"
+    },
+    {
+      "german": "die Aufmerksamkeit",
+      "persian": "ﺗﻮﺟﻪ /ﺗﻤﺮﮐﺰ",
+      "sourceLine": "ﺗﻮﺟﻪ  /ﺗﻤﺮﮐﺰ    die Aufmerksamkeit"
+    },
+    {
+      "german": "befriedigend",
+      "persian": "رﺿﺎﯾﺘﺒﺨﺶ /ﻗﺎﻧﻌﮑﻨﻨﺪه",
+      "sourceLine": "رﺿﺎﯾﺘﺒﺨﺶ  /ﻗﺎﻧﻌﮑﻨﻨﺪه      befriedigend"
+    },
+    {
+      "german": "abschließend",
+      "persian": "در ﭘﺎﯾﺎن /ﺑﻪ ﻋﻨﻮان ﻧﺘﯿﺠﻬﮕﯿﺮ",
+      "sourceLine": "در ﭘﺎﯾﺎن  /ﺑﻪ ﻋﻨﻮان ﻧﺘﯿﺠﻬﮕﯿﺮ     abschließend"
+    },
+    {
+      "german": "die Kündigungsfrist, -en",
+      "persian": "ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ ﻓﺴﺦ ﻗﺮارداد",
+      "sourceLine": "ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ ﻓﺴﺦ ﻗﺮارداد       die Kündigungsfrist, -en"
+    },
+    {
+      "german": "der Arbeitgeber, -",
+      "persian": "ﮐﺎرﻓﺮﻣﺎ",
+      "sourceLine": "ﮐﺎرﻓﺮﻣﺎ    der Arbeitgeber, -"
+    },
+    {
+      "german": "das Arbeitszeitgesetz",
+      "persian": "ﻗﺎﻧﻮن ﺳﺎﻋﺎت ﮐﺎر",
+      "sourceLine": "ﻗﺎﻧﻮن ﺳﺎﻋﺎت ﮐﺎر      das Arbeitszeitgesetz"
+    },
+    {
+      "german": "die Gewerkschaft, -en",
+      "persian": "اﺗﺤﺎدﯾﻪ ﮐﺎرﮔﺮی /ﺳﻨﺪﯾﮑﺎ",
+      "sourceLine": "اﺗﺤﺎدﯾﻪ ﮐﺎرﮔﺮی  /ﺳﻨﺪﯾﮑﺎ    die Gewerkschaft, -en"
+    },
+    {
+      "german": "die Entschädigung, -en",
+      "persian": "ﻏﺮاﻣﺖ /ﺧﺴﺎرت ﻣﺎﻟﯽ",
+      "sourceLine": "ﻏﺮاﻣﺖ  /ﺧﺴﺎرت ﻣﺎﻟﯽ        die Entschädigung, -en"
+    },
+    {
+      "german": "der Anschlusszug, \"-e",
+      "persian": "ﻗﻄﺎر اﺗﺼﺎﻟﯽ )ﻗﻄﺎر ﺗﻌﻮﯾﻀﯽ در ﻣﺴﯿﺮ(",
+      "sourceLine": "ﻗﻄﺎر اﺗﺼﺎﻟﯽ )ﻗﻄﺎر ﺗﻌﻮﯾﻀﯽ در ﻣﺴﯿﺮ(        der Anschlusszug, \"-e"
+    },
+    {
+      "german": "das Catering-Unternehmen, -",
+      "persian": "ﺷﺮﮐﺖ ﺗﻬﯿﻪ ﻏﺬا و ﺧﺪﻣﺎت ﭘﺬﯾﺮاﯾﯽ",
+      "sourceLine": "ﺷﺮﮐﺖ ﺗﻬﯿﻪ ﻏﺬا و ﺧﺪﻣﺎت ﭘﺬﯾﺮاﯾﯽ       das Catering-Unternehmen, -"
+    },
+    {
+      "german": "der Rechtshilfeverein, -e",
+      "persian": "اﻧﺠﻤﻦ ﯾﺎ ﮐﺎﻧﻮن ﺣﻤﺎﯾﺖ ﺣﻘﻮﻗﯽ",
+      "sourceLine": "اﻧﺠﻤﻦ ﯾﺎ ﮐﺎﻧﻮن ﺣﻤﺎﯾﺖ ﺣﻘﻮﻗﯽ       der Rechtshilfeverein, -e"
+    },
+    {
+      "german": "die Grundvoraussetzung, -en",
+      "persian": "ﭘﯿﺸﺸﺮط اﺻﻠﯽ /ﺷﺮط اوﻟﯿﻪ و اﺳﺎﺳﯽ",
+      "sourceLine": "ﭘﯿﺸﺸﺮط اﺻﻠﯽ  /ﺷﺮط اوﻟﯿﻪ و اﺳﺎﺳﯽ          die Grundvoraussetzung, -en"
+    },
+    {
+      "german": "die Kündigung, -en",
+      "persian": "اﺧﺮاج /ﻓﺴﺦ ﻗﺮارداد",
+      "sourceLine": "اﺧﺮاج  /ﻓﺴﺦ ﻗﺮارداد     die Kündigung, -en"
+    },
+    {
+      "german": "die Arbeitsfähigkeit, -en",
+      "persian": "ﺗﻮاﻧﺎﯾﯽ ﮐﺎر /ﻇﺮﻓﯿﺖ اﻧﺠﺎم ﮐﺎر",
+      "sourceLine": "ﺗﻮاﻧﺎﯾﯽ ﮐﺎر  /ﻇﺮﻓﯿﺖ اﻧﺠﺎم ﮐﺎر    die Arbeitsfähigkeit, -en"
+    },
+    {
+      "german": "das Einsatzgebiet, -e",
+      "persian": "ﺣﻮزه ﻓﻌﺎﻟﯿﺖ /ﻣﻨﻄﻘﻪ ﯾﺎ ﺑﺨﺶ ﻋﻤﻠﯿﺎﺗﯽ ﮐﺎر",
+      "sourceLine": "ﺣﻮزه ﻓﻌﺎﻟﯿﺖ  /ﻣﻨﻄﻘﻪ ﯾﺎ ﺑﺨﺶ ﻋﻤﻠﯿﺎﺗﯽ ﮐﺎر      das Einsatzgebiet, -e"
+    },
+    {
+      "german": "die Teamfähigkeit",
+      "persian": "روﺣﯿﻪ ﮐﺎر ﺗﯿﻤﯽ /ﺗﻮاﻧﺎﯾﯽ ﻫﻤﮑﺎری در ﮔﺮوه",
+      "sourceLine": "روﺣﯿﻪ ﮐﺎر ﺗﯿﻤﯽ  /ﺗﻮاﻧﺎﯾﯽ ﻫﻤﮑﺎری در ﮔﺮوه     die Teamfähigkeit"
+    },
+    {
+      "german": "die Personalabteilung, -en",
+      "persian": "دﭘﺎرﺗﻤﺎن ﻣﻨﺎﺑﻊ اﻧﺴﺎﻧﯽ /ﺑﺨﺶ ﮐﺎرﮔﺰﯾﻨﯽ",
+      "sourceLine": "دﭘﺎرﺗﻤﺎن ﻣﻨﺎﺑﻊ اﻧﺴﺎﻧﯽ  /ﺑﺨﺶ ﮐﺎرﮔﺰﯾﻨﯽ     die Personalabteilung, -en"
+    },
+    {
+      "german": "die Serviceorientierung",
+      "persian": "ﺧﺪﻣﺎﺗﻤﺤﻮر ﺑﻮدن /ﻣﺸﺘﺮﯾﻤﺪاری",
+      "sourceLine": "ﺧﺪﻣﺎﺗﻤﺤﻮر ﺑﻮدن  /ﻣﺸﺘﺮﯾﻤﺪاری       die Serviceorientierung"
+    },
+    {
+      "german": "das Arbeitsverhältnis, -se",
+      "persian": "راﺑﻄﻪ ﮐﺎری /وﺿﻌﯿﺖ ﻗﺎﻧﻮﻧﯽ اﺷﺘﻐﺎل",
+      "sourceLine": "راﺑﻄﻪ ﮐﺎری  /وﺿﻌﯿﺖ ﻗﺎﻧﻮﻧﯽ اﺷﺘﻐﺎل       das Arbeitsverhältnis, -se"
+    },
+    {
+      "german": "der Tarifvertrag, \"-e",
+      "persian": "ﻗﺮارداد دﺳﺘﻬﺠﻤﻌﯽ ﮐﺎر )ﻗﺮاردادﻫﺎی ﮐﻼن ﺻﻨﻒ(",
+      "sourceLine": "ﻗﺮارداد دﺳﺘﻬﺠﻤﻌﯽ ﮐﺎر )ﻗﺮاردادﻫﺎی ﮐﻼن ﺻﻨﻒ(        der Tarifvertrag, \"-e"
+    },
+    {
+      "german": "der Mindestlohn, \"-e",
+      "persian": "ﺣﺪاﻗﻞ دﺳﺘﻤﺰد ﻗﺎﻧﻮﻧﯽ",
+      "sourceLine": "ﺣﺪاﻗﻞ دﺳﺘﻤﺰد ﻗﺎﻧﻮﻧﯽ      der Mindestlohn, \"-e"
+    },
+    {
+      "german": "die Schwarzarbeit",
+      "persian": "ﮐﺎر ﺳﯿﺎه /ﮐﺎر ﻏﯿﺮﻗﺎﻧﻮﻧﯽ و ﺑﺪون ﭘﺮداﺧﺖ ﻣﺎﻟﯿﺎت و ﺑﯿﻤﻪ",
+      "sourceLine": "ﮐﺎر ﺳﯿﺎه  /ﮐﺎر ﻏﯿﺮﻗﺎﻧﻮﻧﯽ و ﺑﺪون ﭘﺮداﺧﺖ ﻣﺎﻟﯿﺎت و ﺑﯿﻤﻪ    die Schwarzarbeit"
+    },
+    {
+      "german": "Vollzeit/Teilzeit",
+      "persian": "ﺗﻤﺎﻣﻮﻗﺖ /ﭘﺎرﻫﻮﻗﺖ",
+      "sourceLine": "ﺗﻤﺎﻣﻮﻗﺖ  /ﭘﺎرﻫﻮﻗﺖ     Vollzeit/Teilzeit"
+    },
+    {
+      "german": "Saisonarbeit",
+      "persian": "ﮐﺎر ﻓﺼﻠﯽ )ﻣﺜﻼ ً ﮐﺸﺎورزی ﯾﺎ رﺳﺘﻮراﻧﻬﺎی ﺗﺎﺑﺴﺘﺎﻧﯽ(",
+      "sourceLine": "ﮐﺎر ﻓﺼﻠﯽ )ﻣﺜﻼ ً ﮐﺸﺎورزی ﯾﺎ رﺳﺘﻮراﻧﻬﺎی ﺗﺎﺑﺴﺘﺎﻧﯽ(    Saisonarbeit"
+    },
+    {
+      "german": "Zeitarbeit",
+      "persian": "ﮐﺎر از ﻃﺮﯾﻖ آژاﻧﺴﻬﺎی ﺗﺎﻣﯿﻦ ﻧﯿﺮو )اﻋﺰام ﮐﺎرﻣﻨﺪ ﺑﻪ ﺷﺮﮐﺘﻬﺎی دﯾﮕﺮ(",
+      "sourceLine": "ﮐﺎر از ﻃﺮﯾﻖ آژاﻧﺴﻬﺎی ﺗﺎﻣﯿﻦ ﻧﯿﺮو )اﻋﺰام ﮐﺎرﻣﻨﺪ ﺑﻪ ﺷﺮﮐﺘﻬﺎی دﯾﮕﺮ(    Zeitarbeit"
+    },
+    {
+      "german": "Minijob",
+      "persian": "ﻣﯿﻨﯿﺠﺎب /ﮐﺎر ﺑﺎ درآﻣﺪ ﻣﺤﺪود و ﻣﻌﺎف از ﻣﺎﻟﯿﺎت",
+      "sourceLine": "ﻣﯿﻨﯿﺠﺎب  /ﮐﺎر ﺑﺎ درآﻣﺪ ﻣﺤﺪود و ﻣﻌﺎف از ﻣﺎﻟﯿﺎت    Minijob"
+    },
+    {
+      "german": "befristeter Vertrag",
+      "persian": "ﻗﺮارداد دارای ﻣﺪت ﻣﻌﯿﻦ /ﻣﻮﻗﺖ",
+      "sourceLine": "ﻗﺮارداد دارای ﻣﺪت ﻣﻌﯿﻦ  /ﻣﻮﻗﺖ      befristeter Vertrag"
+    },
+    {
+      "german": "fristlos",
+      "persian": "ﻓﻮری /ﺑﺪون ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ ) :fristlos entlassenاﺧﺮاج آﻧﯽ(",
+      "sourceLine": "ﻓﻮری  /ﺑﺪون ﻣﻬﻠﺖ ﻗﺎﻧﻮﻧﯽ ) :fristlos entlassenاﺧﺮاج آﻧﯽ(       fristlos"
+    },
+    {
+      "german": "verzweifelt",
+      "persian": "ﻣﺴﺘﺄﺻﻞ /ﻧﺎاﻣﯿﺪ /درﻣﺎﻧﺪ",
+      "sourceLine": "ﻣﺴﺘﺄﺻﻞ  /ﻧﺎاﻣﯿﺪ  /درﻣﺎﻧﺪ     verzweifelt"
+    },
+    {
+      "german": "überdurchschnittlich",
+      "persian": "ﺑﯿﺶ از ﺣﺪ ﻣﺘﻮﺳﻂ /ﺑﺎﻻﺗﺮ از ﻣﯿﺎﻧﮕﯿﻦ",
+      "sourceLine": "ﺑﯿﺶ از ﺣﺪ ﻣﺘﻮﺳﻂ  /ﺑﺎﻻﺗﺮ از ﻣﯿﺎﻧﮕﯿﻦ     überdurchschnittlich"
+    },
+    {
+      "german": "legal",
+      "persian": "ﻗﺎﻧﻮﻧﯽ /ﻣﺸﺮوع",
+      "sourceLine": "ﻗﺎﻧﻮﻧﯽ  /ﻣﺸﺮوع     legal"
+    },
+    {
+      "german": "teilnehmen an + Dativ",
+      "persian": "ﺷﺮﮐﺖ ﮐﺮدن در )ﺟﻠﺴﻪ ،دوره ،ﻣﺴﺎﺑﻘﻪ(",
+      "sourceLine": "ﺷﺮﮐﺖ ﮐﺮدن در )ﺟﻠﺴﻪ ،دوره ،ﻣﺴﺎﺑﻘﻪ(        teilnehmen an + Dativ"
+    },
+    {
+      "german": "berichten über + Akkusativ",
+      "persian": "درﺑﺎره ﭼﯿﺰی ﮔﺰارش داد",
+      "sourceLine": "درﺑﺎره ﭼﯿﺰی ﮔﺰارش داد       berichten über + Akkusativ"
+    },
+    {
+      "german": "berichten von + Dativ",
+      "persian": "از ﭼﯿﺰی ﺣﮑﺎﯾﺖ ﮐﺮدن /ﮔﺰارش دادن",
+      "sourceLine": "از ﭼﯿﺰی ﺣﮑﺎﯾﺖ ﮐﺮدن  /ﮔﺰارش دادن       berichten von + Dativ"
+    },
+    {
+      "german": "informieren (sich) über + Akkusativ",
+      "persian": "ﮐﺴﺐ اﻃﻼﻋﺎت ﮐﺮدن درﺑﺎره ﭼﯿﺰی",
+      "sourceLine": "ﮐﺴﺐ اﻃﻼﻋﺎت ﮐﺮدن درﺑﺎره ﭼﯿﺰی         informieren (sich) über + Akkusativ"
+    },
+    {
+      "german": "leiten + Akkusativ",
+      "persian": "ﻣﺪﯾﺮﯾﺖ ﮐﺮدن /ﻫﺪاﯾﺖ ﮐﺮدن )ﺟﻠﺴﻪ ﯾﺎ ﯾﮏ ﺑﺨﺶ(",
+      "sourceLine": "ﻣﺪﯾﺮﯾﺖ ﮐﺮدن  /ﻫﺪاﯾﺖ ﮐﺮدن )ﺟﻠﺴﻪ ﯾﺎ ﯾﮏ ﺑﺨﺶ(         leiten + Akkusativ"
+    },
+    {
+      "german": "verschieben + Akkusativ (auf +",
+      "persian": "ﺑﻪ ﺗﻌﻮﯾﻖ اﻧﺪاﺧﺘﻦ )ﺑﻪ زﻣﺎ ِ",
+      "sourceLine": "ﺑﻪ ﺗﻌﻮﯾﻖ اﻧﺪاﺧﺘﻦ )ﺑﻪ زﻣﺎ ِ     verschieben + Akkusativ (auf +"
+    },
+    {
+      "german": "absagen + Dativ / Akkusativ",
+      "persian": "ﮐﻨﺴﻞ ﮐﺮدن /ﻟﻐﻮ ﮐﺮدن",
+      "sourceLine": "ﮐﻨﺴﻞ ﮐﺮدن  /ﻟﻐﻮ ﮐﺮدن      absagen + Dativ / Akkusativ"
+    },
+    {
+      "german": ")reisen (mit + Dativ / in + Akkusativ",
+      "persian": "ﺳﻔﺮ ﮐﺮدن )ﺑﺎ وﺳﯿﻠﻬﺎی /ﺑﻪ ﺟﺎﯾﯽ(",
+      "sourceLine": "ﺳﻔﺮ ﮐﺮدن )ﺑﺎ وﺳﯿﻠﻬﺎی  /ﺑﻪ ﺟﺎﯾﯽ(     )reisen (mit + Dativ / in + Akkusativ"
+    },
+    {
+      "german": ")einholen + Akkusativ (für + Akkusativ",
+      "persian": "ﮐﺴﺐ اﻃﻼﻋﺎت ﮐﺮدن /اﺳﺘﻌﻼم ﮔﺮﻓﺘﻦ ﺑﺮای ﭼﯿﺰی",
+      "sourceLine": "ﮐﺴﺐ اﻃﻼﻋﺎت ﮐﺮدن  /اﺳﺘﻌﻼم ﮔﺮﻓﺘﻦ ﺑﺮای ﭼﯿﺰی           )einholen + Akkusativ (für + Akkusativ"
+    },
+    {
+      "german": "nennen + Akkusativ",
+      "persian": "ﻧﺎم ﺑﺮدن /ذﮐﺮ ﮐﺮدن",
+      "sourceLine": "ﻧﺎم ﺑﺮدن  /ذﮐﺮ ﮐﺮدن    nennen + Akkusativ"
+    },
+    {
+      "german": "passen zu + Dativ",
+      "persian": "ﺟﻮر ﺑﻮدن ﺑﺎ /ﻣﺘﻨﺎﺳﺐ ﺑﻮدن ﺑﺎ ﭼﯿﺰی",
+      "sourceLine": "ﺟﻮر ﺑﻮدن ﺑﺎ  /ﻣﺘﻨﺎﺳﺐ ﺑﻮدن ﺑﺎ ﭼﯿﺰی     passen zu + Dativ"
+    },
+    {
+      "german": "erholen (sich) von + Dativ",
+      "persian": "اﺳﺘﺮاﺣﺖ ﮐﺮدن /رﯾﮑﺎوری ﺷﺪن از )ﮐﺎر ،ﺧﺴﺘﮕﯽ(",
+      "sourceLine": "اﺳﺘﺮاﺣﺖ ﮐﺮدن  /رﯾﮑﺎوری ﺷﺪن از )ﮐﺎر ،ﺧﺴﺘﮕﯽ(         erholen (sich) von + Dativ"
+    },
+    {
+      "german": "hinweisen auf + Akkusativ",
+      "persian": "اﺷﺎره ﮐﺮدن ﺑﻪ /ﻣﺘﻮﺟﻪ ﺳﺎﺧﺘ ِ",
+      "sourceLine": "اﺷﺎره ﮐﺮدن ﺑﻪ  /ﻣﺘﻮﺟﻪ ﺳﺎﺧﺘ ِ       hinweisen auf + Akkusativ"
+    },
+    {
+      "german": "Wert legen auf + Akkusativ",
+      "persian": "ارزش ﻗﺎﺋﻞ ﺷﺪن /اﻫﻤﯿﺖ دادن ﺑﻪ ﭼﯿﺰی",
+      "sourceLine": "ارزش ﻗﺎﺋﻞ ﺷﺪن  /اﻫﻤﯿﺖ دادن ﺑﻪ ﭼﯿﺰی        Wert legen auf + Akkusativ"
+    },
+    {
+      "german": "zukommen lassen + Dativ + Akkusativ",
+      "persian": "ﻓﺮﺳﺘﺎدن /ارﺳﺎل ﮐﺮدن /ﺑﻪ دﺳﺖ ﮐﺴﯽ رﺳﺎﻧﺪن",
+      "sourceLine": "ﻓﺮﺳﺘﺎدن  /ارﺳﺎل ﮐﺮدن  /ﺑﻪ دﺳﺖ ﮐﺴﯽ رﺳﺎﻧﺪن          zukommen lassen + Dativ + Akkusativ"
+    },
+    {
+      "german": "überweisen + Akkusativ (auf +",
+      "persian": "ﺣﻮاﻟﻪ ﮐﺮدن /وارﯾﺰ ﮐﺮدن ﭘﻮل ﺑﻪ ﺣﺴﺎب",
+      "sourceLine": "ﺣﻮاﻟﻪ ﮐﺮدن  /وارﯾﺰ ﮐﺮدن ﭘﻮل ﺑﻪ ﺣﺴﺎب      überweisen + Akkusativ (auf +"
+    },
+    {
+      "german": "beziehen (sich) auf + Akkusativ",
+      "persian": "اﺳﺘﻨﺎد ﮐﺮدن ﺑﻪ /ﭘﯿﺮوِ ﭼﯿﺰی ﺑﻮدن",
+      "sourceLine": "اﺳﺘﻨﺎد ﮐﺮدن ﺑﻪ  /ﭘﯿﺮوِ ﭼﯿﺰی ﺑﻮدن   beziehen (sich) auf + Akkusativ"
+    },
+    {
+      "german": "aufkommen für + Akkusativ",
+      "persian": "ﺗﻘﺒﻞ ﮐﺮدن /ﭘﺮداﺧﺖ ﮐﺮدن ﻫﺰﯾﻨﻪ ﭼﯿﺰی",
+      "sourceLine": "ﺗﻘﺒﻞ ﮐﺮدن  /ﭘﺮداﺧﺖ ﮐﺮدن ﻫﺰﯾﻨﻪ ﭼﯿﺰی       aufkommen für + Akkusativ"
+    },
+    {
+      "german": "schließen / abschließen + Akkusativ",
+      "persian": "ﻗﺮارداد ﺑﺴﺘﻦ /ﺑﯿﻤﻪ ﻣﻨﻌﻘﺪ ﮐﺮدن",
+      "sourceLine": "ﻗﺮارداد ﺑﺴﺘﻦ  /ﺑﯿﻤﻪ ﻣﻨﻌﻘﺪ ﮐﺮدن    schließen / abschließen + Akkusativ"
+    },
+    {
+      "german": "stornieren + Akkusativ",
+      "persian": "ﮐﻨﺴﻞ ﮐﺮدن /ﻟﻐﻮ ﮐﺮدن )رزرو ﻫﺘﻞ ﯾﺎ ﺑﻠﯿﺖ(",
+      "sourceLine": "ﮐﻨﺴﻞ ﮐﺮدن  /ﻟﻐﻮ ﮐﺮدن )رزرو ﻫﺘﻞ ﯾﺎ ﺑﻠﯿﺖ(      stornieren + Akkusativ"
+    },
+    {
+      "german": "verpassen + Akkusativ",
+      "persian": "از دﺳﺖ دادن /ﻧﺮﺳﯿﺪن ﺑﻪ )ﭘﺮواز ،ﻗﻄﺎر(",
+      "sourceLine": "از دﺳﺖ دادن  /ﻧﺮﺳﯿﺪن ﺑﻪ )ﭘﺮواز ،ﻗﻄﺎر(     verpassen + Akkusativ"
+    },
+    {
+      "german": "spezialisieren (sich) auf + Akkusativ",
+      "persian": "ﻣﺘﺨﺼﺺ ﺷﺪن در /ﺗﻤﺮﮐﺰ ﺗﺨﺼﺼﯽ ﮐﺮدن روی ﭼﯿﺰی",
+      "sourceLine": "ﻣﺘﺨﺼﺺ ﺷﺪن در  /ﺗﻤﺮﮐﺰ ﺗﺨﺼﺼﯽ ﮐﺮدن روی ﭼﯿﺰی             spezialisieren (sich) auf + Akkusativ"
+    },
+    {
+      "german": "zuständig sein für + Akkusativ",
+      "persian": "ﻣﺴﺌﻮل ﭼﯿﺰی ﺑﻮدن /ﻋﻬﺪﻫﺪار ﺑﻮدن",
+      "sourceLine": "ﻣﺴﺌﻮل ﭼﯿﺰی ﺑﻮدن  /ﻋﻬﺪﻫﺪار ﺑﻮدن       zuständig sein für + Akkusativ"
+    },
+    {
+      "german": "zur Verfügung stehen + Dativ",
+      "persian": "در اﺧﺘﯿﺎرِ ﮐﺴﯽ ﺑﻮدن /در دﺳﺘﺮس ﺑﻮدن",
+      "sourceLine": "در اﺧﺘﯿﺎرِ ﮐﺴﯽ ﺑﻮدن  /در دﺳﺘﺮس ﺑﻮدن      zur Verfügung stehen + Dativ"
+    },
+    {
+      "german": "unterhalten + Akkusativ",
+      "persian": "ﺳﺮﮔﺮم ﮐﺮدن ﮐﺴﯽ",
+      "sourceLine": "ﺳﺮﮔﺮم ﮐﺮدن ﮐﺴﯽ        unterhalten + Akkusativ"
+    },
+    {
+      "german": ")weiterkommen (beruflich",
+      "persian": "ﭘﯿﺸﺮﻓﺖ ﮐﺮدن )در ﺷﻐﻞ( /ارﺗﻘﺎ ﯾﺎﻓﺘﻦ",
+      "sourceLine": "ﭘﯿﺸﺮﻓﺖ ﮐﺮدن )در ﺷﻐﻞ(  /ارﺗﻘﺎ ﯾﺎﻓﺘﻦ      )weiterkommen (beruflich"
+    },
+    {
+      "german": "bewerben (sich) bei + Dativ / um +",
+      "persian": "درﺧﻮاﺳﺖ ﮐﺎر ﻓﺮﺳﺘﺎدن ﻧﺰد ﯾﮏ ﺷﺮﮐﺖ /ﺑﺮای ﯾﮏ ﻣﻮﻗﻌﯿﺖ ﺷﻐﻠﯽ",
+      "sourceLine": "درﺧﻮاﺳﺖ ﮐﺎر ﻓﺮﺳﺘﺎدن ﻧﺰد ﯾﮏ ﺷﺮﮐﺖ  /ﺑﺮای ﯾﮏ ﻣﻮﻗﻌﯿﺖ ﺷﻐﻠﯽ            bewerben (sich) bei + Dativ / um +"
+    },
+    {
+      "german": ")hinterlassen + Akkusativ (bei + Dativ",
+      "persian": "ﺑﻪ ﺟﺎ ﮔﺬاﺷﺘﻦ )ﺗﺄﺛﯿﺮ ﯾﺎ ذﻫﻨﯿﺖ( ﻧﺰد ﮐﺴﯽ",
+      "sourceLine": "ﺑﻪ ﺟﺎ ﮔﺬاﺷﺘﻦ )ﺗﺄﺛﯿﺮ ﯾﺎ ذﻫﻨﯿﺖ( ﻧﺰد ﮐﺴﯽ    )hinterlassen + Akkusativ (bei + Dativ"
+    },
+    {
+      "german": "fehlen + Dativ",
+      "persian": "ﮐﻢ ﺑﻮدن /ﻣﻔﻘﻮد ﺑﻮدن /ﻧﺪاﺷﺘ ِ",
+      "sourceLine": "ﮐﻢ ﺑﻮدن  /ﻣﻔﻘﻮد ﺑﻮدن  /ﻧﺪاﺷﺘ ِ    fehlen + Dativ"
+    },
+    {
+      "german": "auszeichnen + Akkusativ",
+      "persian": "ﻣﺘﻤﺎﯾﺰ ﮐﺮدن /وﯾﮋﮔ ِ",
+      "sourceLine": "ﻣﺘﻤﺎﯾﺰ ﮐﺮدن  /وﯾﮋﮔ ِ     auszeichnen + Akkusativ"
+    },
+    {
+      "german": "wenden (sich) an + Akkusativ",
+      "persian": "رﺟﻮع ﮐﺮدن ﺑﻪ /ﻣﺘﻮﺳﻞ ﺷﺪن ﺑﻪ )ﺷﺨﺺ ﯾﺎ رﺳﺎﻧﻬﻬﺎ(",
+      "sourceLine": "رﺟﻮع ﮐﺮدن ﺑﻪ  /ﻣﺘﻮﺳﻞ ﺷﺪن ﺑﻪ )ﺷﺨﺺ ﯾﺎ رﺳﺎﻧﻬﻬﺎ(        wenden (sich) an + Akkusativ"
+    },
+    {
+      "german": "beschweren (sich) über + Akkusativ /",
+      "persian": "ﺷﮑﺎﯾﺖ ﮐﺮدن درﺑﺎره ﭼﯿﺰی /ﻧﺰد ﮐﺴﯽ",
+      "sourceLine": "ﺷﮑﺎﯾﺖ ﮐﺮدن درﺑﺎره ﭼﯿﺰی  /ﻧﺰد ﮐﺴﯽ       beschweren (sich) über + Akkusativ /"
+    },
+    {
+      "german": "trösten + Akkusativ",
+      "persian": "ﺗﺴﻠﯽ دادن /آرام ﮐﺮدن ﺷﺨﺺ ﻏﻤﮕﯿ",
+      "sourceLine": "ﺗﺴﻠﯽ دادن  /آرام ﮐﺮدن ﺷﺨﺺ ﻏﻤﮕﯿ          trösten + Akkusativ"
+    },
+    {
+      "german": "umgehen mit + Dativ",
+      "persian": "رﻓﺘﺎر ﮐﺮدن ﺑﺎ /ﮐﻨﺎر آﻣﺪن ﺑﺎ ﮐﺴﯽ ﯾﺎ ﭼﯿﺰی",
+      "sourceLine": "رﻓﺘﺎر ﮐﺮدن ﺑﺎ  /ﮐﻨﺎر آﻣﺪن ﺑﺎ ﮐﺴﯽ ﯾﺎ ﭼﯿﺰی   umgehen mit + Dativ"
+    },
+    {
+      "german": "auskennen (sich) mit + Dativ",
+      "persian": "ﺳﺮدرآوردن از ﭼﯿﺰی /ﻣﻬﺎرت داﺷﺘﻦ در زﻣﯿﻨﻬﺎی",
+      "sourceLine": "ﺳﺮدرآوردن از ﭼﯿﺰی  /ﻣﻬﺎرت داﺷﺘﻦ در زﻣﯿﻨﻬﺎی      auskennen (sich) mit + Dativ"
+    },
+    {
+      "german": "zurechtkommen mit + Dativ",
+      "persian": "ﮐﻨﺎر آﻣﺪن ﺑﺎ /از ﭘ ِ",
+      "sourceLine": "ﮐﻨﺎر آﻣﺪن ﺑﺎ  /از ﭘ ِ   zurechtkommen mit + Dativ"
+    },
+    {
+      "german": "unternehmen + Akkusativ",
+      "persian": "ﺗﺪارک دﯾﺪن /اﻧﺠﺎم دادن )ﺳﻔﺮ ،اﻗﺪام(",
+      "sourceLine": "ﺗﺪارک دﯾﺪن  /اﻧﺠﺎم دادن )ﺳﻔﺮ ،اﻗﺪام(    unternehmen + Akkusativ"
+    },
+    {
+      "german": "erwähnen + Akkusativ",
+      "persian": "ذﮐﺮ ﮐﺮدن /ﻣﺘﺬﮐﺮ ﺷﺪن /اﺷﺎره ﮐﺮدن ﺑﻪ ﭼﯿﺰی",
+      "sourceLine": "ذﮐﺮ ﮐﺮدن  /ﻣﺘﺬﮐﺮ ﺷﺪن  /اﺷﺎره ﮐﺮدن ﺑﻪ ﭼﯿﺰی       erwähnen + Akkusativ"
+    },
+    {
+      "german": "verhandeln mit + Dativ / über +",
+      "persian": "ﻣﺬاﮐﺮه ﮐﺮدن ﺑﺎ ﮐﺴﯽ /درﺑﺎره ﭼﯿﺰی",
+      "sourceLine": "ﻣﺬاﮐﺮه ﮐﺮدن ﺑﺎ ﮐﺴﯽ  /درﺑﺎره ﭼﯿﺰی      verhandeln mit + Dativ / über +"
+    },
+    {
+      "german": "vorschlagen + Dativ + Akkusativ",
+      "persian": "ﭘﯿﺸﻨﻬﺎد دادن /ﻣﻄﺮح ﮐﺮدن ﭼﯿﺰی ﺑﻪ ﮐﺴﯽ",
+      "sourceLine": "ﭘﯿﺸﻨﻬﺎد دادن  /ﻣﻄﺮح ﮐﺮدن ﭼﯿﺰی ﺑﻪ ﮐﺴﯽ       vorschlagen + Dativ + Akkusativ"
+    },
+    {
+      "german": "erreichbar sein unter + Dativ",
+      "persian": "در دﺳﺘﺮس ﺑﻮدن ﺗﻠﻔﻨﯽ ﺑﺎ ﺷﻤﺎرﻫﯽ...",
+      "sourceLine": "در دﺳﺘﺮس ﺑﻮدن ﺗﻠﻔﻨﯽ ﺑﺎ ﺷﻤﺎرﻫﯽ...      erreichbar sein unter + Dativ"
+    },
+    {
+      "german": "gestalten + Akkusativ",
+      "persian": "ﺷﮑﻞ دادن /ﺗﻨﻈﯿﻢ ﮐﺮدن /ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﮐﺮدن",
+      "sourceLine": "ﺷﮑﻞ دادن  /ﺗﻨﻈﯿﻢ ﮐﺮدن  /ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﮐﺮدن      gestalten + Akkusativ"
+    },
+    {
+      "german": "bestehen + Akkusativ",
+      "persian": "ﭘﺎس ﮐﺮدن /ﻗﺒﻮل ﺷﺪن در ﯾﮏ آزﻣﻮن",
+      "sourceLine": "ﭘﺎس ﮐﺮدن  /ﻗﺒﻮل ﺷﺪن در ﯾﮏ آزﻣﻮن        bestehen + Akkusativ"
+    },
+    {
+      "german": "abnehmen / zunehmen",
+      "persian": "وزن ﮐﻢ ﮐﺮدن /وزن اﺿﺎﻓﻪ ﮐﺮدن",
+      "sourceLine": "وزن ﮐﻢ ﮐﺮدن  /وزن اﺿﺎﻓﻪ ﮐﺮدن       abnehmen / zunehmen"
+    },
+    {
+      "german": "tätig sein als + Beruf / in + Dativ",
+      "persian": "ﺑﻪ ﻋﻨﻮان ﯾﮏ ﺷﻐﻞ ﺷﺎﻏﻞ ﺑﻮدن /در ﯾﮏ ﻣﮑﺎن ﮐﺎر ﮐﺮدن",
+      "sourceLine": "ﺑﻪ ﻋﻨﻮان ﯾﮏ ﺷﻐﻞ ﺷﺎﻏﻞ ﺑﻮدن  /در ﯾﮏ ﻣﮑﺎن ﮐﺎر ﮐﺮدن       tätig sein als + Beruf / in + Dativ"
+    },
+    {
+      "german": "verantwortlich sein für + Akkusativ",
+      "persian": "ﻣﺴﺌﻮل ﭼﯿﺰی ﯾﺎ ﮐﺴﯽ ﺑﻮدن",
+      "sourceLine": "ﻣﺴﺌﻮل ﭼﯿﺰی ﯾﺎ ﮐﺴﯽ ﺑﻮدن       verantwortlich sein für + Akkusativ"
+    },
+    {
+      "german": "Kontakt aufnehmen mit + Dativ",
+      "persian": "ارﺗﺒﺎط ﺑﺮﻗﺮار ﮐﺮدن ﺑﺎ ﮐﺴﯽ /ﺗﻤﺎس ﮔﺮﻓﺘﻦ",
+      "sourceLine": "ارﺗﺒﺎط ﺑﺮﻗﺮار ﮐﺮدن ﺑﺎ ﮐﺴﯽ  /ﺗﻤﺎس ﮔﺮﻓﺘﻦ      Kontakt aufnehmen mit + Dativ"
+    },
+    {
+      "german": "entlassen + Akkusativ",
+      "persian": "اﺧﺮاج ﮐﺮدن ﮐﺎرﻣﻨﺪ",
+      "sourceLine": "اﺧﺮاج ﮐﺮدن ﮐﺎرﻣﻨﺪ    entlassen + Akkusativ"
+    },
+    {
+      "german": "beantragen + Akkusativ",
+      "persian": "درﺧﻮاﺳﺖ رﺳﻤﯽ دادن )ﺑﺮای ﻏﺮاﻣﺖ ،وام(",
+      "sourceLine": "درﺧﻮاﺳﺖ رﺳﻤﯽ دادن )ﺑﺮای ﻏﺮاﻣﺖ ،وام(         beantragen + Akkusativ"
+    },
+    {
+      "german": "beraten lassen (sich) von + Dativ",
+      "persian": "ﻣﺸﺎوره ﮔﺮﻓﺘﻦ از ﮐﺴﯽ",
+      "sourceLine": "ﻣﺸﺎوره ﮔﺮﻓﺘﻦ از ﮐﺴﯽ       beraten lassen (sich) von + Dativ"
+    },
+    {
+      "german": "reinfallen auf + Akkusativ",
+      "persian": "ﮔﻮل ﺧﻮردن /ﻓﺮﯾﺐ ﺧﻮردن در ﯾﮏ ﻣﻌﺎﻣﻠﻪ",
+      "sourceLine": "ﮔﻮل ﺧﻮردن  /ﻓﺮﯾﺐ ﺧﻮردن در ﯾﮏ ﻣﻌﺎﻣﻠﻪ       reinfallen auf + Akkusativ"
+    },
+    {
+      "german": "schätzen + Akkusativ",
+      "persian": "ارزش ﻗﺎﺋﻞ ﺷﺪن /ﻗﺪرداﻧﯽ ﮐﺮدن از ﭼﯿﺰی",
+      "sourceLine": "ارزش ﻗﺎﺋﻞ ﺷﺪن  /ﻗﺪرداﻧﯽ ﮐﺮدن از ﭼﯿﺰی       schätzen + Akkusativ"
+    }
+  ]
+}

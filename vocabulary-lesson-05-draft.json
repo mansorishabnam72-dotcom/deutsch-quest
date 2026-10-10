@@ -1,0 +1,1613 @@
+{
+  "lesson": 5,
+  "source": "PDF user supplied",
+  "status": "automatic draft; verify every entry before claiming completeness",
+  "candidateCount": 321,
+  "entries": [
+    {
+      "german": ":۸۵ﮐﺎرﻫﺎی ﻓﻨﯽ و ﻣﺸﺎﻏﻞ دﺳﺘﯽ )(Handwerkliche Tätigkeiten",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۸۵ﮐﺎرﻫﺎی ﻓﻨﯽ و ﻣﺸﺎﻏﻞ دﺳﺘﯽ )(Handwerkliche Tätigkeiten"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( das Handwerk",
+      "persian": "ﮐﺎر ﻓﻨﯽ ،دﺳﺘﯽ ،ﭘﯿﺸﻬﻮری",
+      "sourceLine": "ﮐﺎر ﻓﻨﯽ ،دﺳﺘﯽ ،ﭘﯿﺸﻬﻮری       )ﺑﺪون ﺟﻤﻊ( das Handwerk"
+    },
+    {
+      "german": "das Waschbecken, -",
+      "persian": "ﺳﯿﻨﮏ روﺷﻮﯾﯽ ،دﺳﺘﺸﻮﯾﯽ",
+      "sourceLine": "ﺳﯿﻨﮏ روﺷﻮﯾﯽ ،دﺳﺘﺸﻮﯾﯽ          das Waschbecken, -"
+    },
+    {
+      "german": "die Dichtung, -en",
+      "persian": "واﺷﺮ ،ﻋﺎﯾﻖ ،آﺑﺒﻨﺪ",
+      "sourceLine": "واﺷﺮ ،ﻋﺎﯾﻖ ،آﺑﺒﻨﺪ    die Dichtung, -en"
+    },
+    {
+      "german": "das Metallstück, -e",
+      "persian": "ﻗﻄﻌﻪ ﻓﻠﺰی",
+      "sourceLine": "ﻗﻄﻌﻪ ﻓﻠﺰی      das Metallstück, -e"
+    },
+    {
+      "german": "die Steckdose, -n",
+      "persian": "ﭘﺮﯾﺰ ﺑﺮق",
+      "sourceLine": "ﭘﺮﯾﺰ ﺑﺮق    die Steckdose, -n"
+    },
+    {
+      "german": "die Stromleitung, -en",
+      "persian": "ﺳﯿﻤﮑﺸﯽ ،ﺧﻂ اﻧﺘﻘﺎل ﺑﺮق",
+      "sourceLine": "ﺳﯿﻤﮑﺸﯽ ،ﺧﻂ اﻧﺘﻘﺎل ﺑﺮق         die Stromleitung, -en"
+    },
+    {
+      "german": "der Abfluss, ¨e",
+      "persian": "راه آب ،ﻟﻮﻟﻪ ﻓﺎﺿﻼب",
+      "sourceLine": "راه آب ،ﻟﻮﻟﻪ ﻓﺎﺿﻼب      der Abfluss, ¨e"
+    },
+    {
+      "german": "das Dach, ¨er",
+      "persian": "ﺳﻘﻒ ،ﭘﺸﺘﺒﺎم",
+      "sourceLine": "ﺳﻘﻒ ،ﭘﺸﺘﺒﺎم      das Dach, ¨er"
+    },
+    {
+      "german": "die Wand, ¨e",
+      "persian": "دﯾﻮار",
+      "sourceLine": "دﯾﻮار   die Wand, ¨e"
+    },
+    {
+      "german": "der Eimer, -",
+      "persian": "ﺳﻄﻞ",
+      "sourceLine": "ﺳﻄﻞ      der Eimer, -"
+    },
+    {
+      "german": "der Pinsel, -",
+      "persian": "ﻗﻠﻤﻤﻮ",
+      "sourceLine": "ﻗﻠﻤﻤﻮ    der Pinsel, -"
+    },
+    {
+      "german": "die Farbe, -n",
+      "persian": "رﻧﮓ",
+      "sourceLine": "رﻧﮓ    die Farbe, -n"
+    },
+    {
+      "german": ")Böden verlegen (+ Akkusativ",
+      "persian": "ﮐﻔﭙﻮش زدن ،ﭘﺎرﮐﺖ ﯾﺎ ﻟﻤﯿﻨﺖ ﮐﻒ را ﭘﻬﻦ ﮐﺮدن",
+      "sourceLine": "ﮐﻔﭙﻮش زدن ،ﭘﺎرﮐﺖ ﯾﺎ ﻟﻤﯿﻨﺖ ﮐﻒ را ﭘﻬﻦ ﮐﺮدن        )Böden verlegen (+ Akkusativ"
+    },
+    {
+      "german": "Möbel aufbauen (+ Akkusativ /",
+      "persian": "ﻣﺒﻠﻬﺎ و اﺛﺎﺛﯿﻪ را ﺳﺮ ﻫﻢ ﮐﺮدن )ﻣﻮﻧﺘﺎژ ﮐﺮدن(",
+      "sourceLine": "ﻣﺒﻠﻬﺎ و اﺛﺎﺛﯿﻪ را ﺳﺮ ﻫﻢ ﮐﺮدن )ﻣﻮﻧﺘﺎژ ﮐﺮدن(    Möbel aufbauen (+ Akkusativ /"
+    },
+    {
+      "german": "neue Steckdosen anbringen (+",
+      "persian": "ﻧﺼﺐ ﮐﺮدن ﭘﺮﯾﺰﻫﺎی ﺑﺮق ﺟﺪﯾﺪ",
+      "sourceLine": "ﻧﺼﺐ ﮐﺮدن ﭘﺮﯾﺰﻫﺎی ﺑﺮق ﺟﺪﯾﺪ        neue Steckdosen anbringen (+"
+    },
+    {
+      "german": "Stromleitungen verlegen (+",
+      "persian": "ﺳﯿﻤﮑﺸﯽ ﮐﺮدن ،ﮐﺎﺑﻠﮑﺸﯽ ﺑﺮق اﻧﺠﺎم دادن",
+      "sourceLine": "ﺳﯿﻤﮑﺸﯽ ﮐﺮدن ،ﮐﺎﺑﻠﮑﺸﯽ ﺑﺮق اﻧﺠﺎم دادن          Stromleitungen verlegen (+"
+    },
+    {
+      "german": ")Wände tapezieren (+ Akkusativ",
+      "persian": "ﮐﺎﻏﺬ دﯾﻮاری ﮐﺮدن دﯾﻮارﻫﺎ",
+      "sourceLine": "ﮐﺎﻏﺬ دﯾﻮاری ﮐﺮدن دﯾﻮارﻫﺎ     )Wände tapezieren (+ Akkusativ"
+    },
+    {
+      "german": ")Fenster streichen (+ Akkusativ",
+      "persian": "رﻧﮕﺂﻣﯿﺰی ﮐﺮدن ﭘﻨﺠﺮﻫﻬﺎ",
+      "sourceLine": "رﻧﮕﺂﻣﯿﺰی ﮐﺮدن ﭘﻨﺠﺮﻫﻬﺎ      )Fenster streichen (+ Akkusativ"
+    },
+    {
+      "german": "elektrische Geräte reparieren (+",
+      "persian": "ﺗﻌﻤﯿﺮ ﮐﺮدن دﺳﺘﮕﺎﻫﻬﺎی اﻟﮑﺘﺮﯾﮑﯽ",
+      "sourceLine": "ﺗﻌﻤﯿﺮ ﮐﺮدن دﺳﺘﮕﺎﻫﻬﺎی اﻟﮑﺘﺮﯾﮑﯽ       elektrische Geräte reparieren (+"
+    },
+    {
+      "german": "einen verstopften Abfluss reinigen (+",
+      "persian": "ﺗﻤﯿﺰ ﮐﺮدن و ﺑﺎز ﮐﺮدن ﯾﮏ راه آب ﮔﺮﻓﺘﻬﺸﺪه",
+      "sourceLine": "ﺗﻤﯿﺰ ﮐﺮدن و ﺑﺎز ﮐﺮدن ﯾﮏ راه آب ﮔﺮﻓﺘﻬﺸﺪه       einen verstopften Abfluss reinigen (+"
+    },
+    {
+      "german": "Dichtungen auswechseln (+ Akkusativ",
+      "persian": "ﺗﻌﻮﯾﺾ ﮐﺮدن واﺷﺮﻫﺎ و ﻋﺎﯾﻘﻬﺎ",
+      "sourceLine": "ﺗﻌﻮﯾﺾ ﮐﺮدن واﺷﺮﻫﺎ و ﻋﺎﯾﻘﻬﺎ       Dichtungen auswechseln (+ Akkusativ"
+    },
+    {
+      "german": "Metallstücke zusammenschweißen (+",
+      "persian": "ﺟﻮﺷﮑﺎری ﮐﺮدن و ﭼﺴﺒﺎﻧﺪن ﻗﻄﻌﺎت ﻓﻠﺰی ﺑﻪ ﻫﻢ",
+      "sourceLine": "ﺟﻮﺷﮑﺎری ﮐﺮدن و ﭼﺴﺒﺎﻧﺪن ﻗﻄﻌﺎت ﻓﻠﺰی ﺑﻪ ﻫﻢ           Metallstücke zusammenschweißen (+"
+    },
+    {
+      "german": ")das Dach decken (+ Akkusativ",
+      "persian": "ﺳﻘﻒ زدن ،ﭘﻮﺷﺎﻧﺪن ﭘﺸﺘﺒﺎم )ﺑﺎ ﺳﻔﺎل ﯾﺎ ﻋﺎﯾﻖ(",
+      "sourceLine": "ﺳﻘﻒ زدن ،ﭘﻮﺷﺎﻧﺪن ﭘﺸﺘﺒﺎم )ﺑﺎ ﺳﻔﺎل ﯾﺎ ﻋﺎﯾﻖ(       )das Dach decken (+ Akkusativ"
+    },
+    {
+      "german": ")Waschbecken montieren (+ Akkusativ",
+      "persian": "ﻧﺼﺐ ﮐﺮدن ﺳﯿﻨﮏ روﺷﻮﯾﯽ",
+      "sourceLine": "ﻧﺼﺐ ﮐﺮدن ﺳﯿﻨﮏ روﺷﻮﯾﯽ          )Waschbecken montieren (+ Akkusativ"
+    },
+    {
+      "german": ")schweißen (+ Akkusativ",
+      "persian": "ﺟﻮﺷﮑﺎری ﮐﺮدن",
+      "sourceLine": "ﺟﻮﺷﮑﺎری ﮐﺮدن       )schweißen (+ Akkusativ"
+    },
+    {
+      "german": ")brauchen (+ Akkusativ",
+      "persian": "ﻧﯿﺎز داﺷﺘﻦ ﺑﻪ ﭼﯿﺰی",
+      "sourceLine": "ﻧﯿﺎز داﺷﺘﻦ ﺑﻪ ﭼﯿﺰی     )brauchen (+ Akkusativ"
+    },
+    {
+      "german": "handwerklich",
+      "persian": "ﻓﻨﯽ ،دﺳﺘﯽ ،ﻣﺮﺑﻮط ﺑﻪ ﮐﺎرﻫﺎی ﭘﯿﺸﻬﻮری",
+      "sourceLine": "ﻓﻨﯽ ،دﺳﺘﯽ ،ﻣﺮﺑﻮط ﺑﻪ ﮐﺎرﻫﺎی ﭘﯿﺸﻬﻮری         handwerklich"
+    },
+    {
+      "german": "erledigt",
+      "persian": "اﻧﺠﺎﻣﺸﺪه ،ﺧﺎﺗﻤﻬﯿﺎﻓﺘﻪ",
+      "sourceLine": "اﻧﺠﺎﻣﺸﺪه ،ﺧﺎﺗﻤﻬﯿﺎﻓﺘﻪ     erledigt"
+    },
+    {
+      "german": ")اﺳﻢ ﺟﻤﻊ( berufliche Abläufe",
+      "persian": "ﻓﺮآﯾﻨﺪﻫﺎی ﮐﺎری ،رواﻟﻬﺎی ﺷﻐﻠﯽ",
+      "sourceLine": "ﻓﺮآﯾﻨﺪﻫﺎی ﮐﺎری ،رواﻟﻬﺎی ﺷﻐﻠﯽ       )اﺳﻢ ﺟﻤﻊ( berufliche Abläufe"
+    },
+    {
+      "german": "der Notdienst, -e",
+      "persian": "ﺧﺪﻣﺎت اﺿﻄﺮاری و اورژاﻧﺴﯽ )ﻟﻮﻟﻬﮑﺸﯽ ﯾﺎ ﺑﺮﻗﮑﺸﯽ ﺷﺒﺎﻧﻬﺮوزی (",
+      "sourceLine": "ﺧﺪﻣﺎت اﺿﻄﺮاری و اورژاﻧﺴﯽ )ﻟﻮﻟﻬﮑﺸﯽ ﯾﺎ ﺑﺮﻗﮑﺸﯽ ﺷﺒﺎﻧﻬﺮوزی (         der Notdienst, -e"
+    },
+    {
+      "german": "der Verbesserungsvorschlag, ¨e",
+      "persian": "ﭘﯿﺸﻨﻬﺎد اﺻﻼﺣﯽ ،ﻃﺮح ﭘﯿﺸﻨﻬﺎدی ﺑﺮای ﺑﻬﺒﻮد اوﺿﺎع",
+      "sourceLine": "ﭘﯿﺸﻨﻬﺎد اﺻﻼﺣﯽ ،ﻃﺮح ﭘﯿﺸﻨﻬﺎدی ﺑﺮای ﺑﻬﺒﻮد اوﺿﺎع       der Verbesserungsvorschlag, ¨e"
+    },
+    {
+      "german": ":۸۶در ﻓﺮوﺷﮕﺎه ﻟﻮازم ﺳﺎﺧﺘﻤﺎﻧﯽ و ﻣﺸﺎﻏﻞ )(Im Baumarkt",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۸۶در ﻓﺮوﺷﮕﺎه ﻟﻮازم ﺳﺎﺧﺘﻤﺎﻧﯽ و ﻣﺸﺎﻏﻞ )(Im Baumarkt"
+    },
+    {
+      "german": "der Baumarkt, ¨e",
+      "persian": "ﻓﺮوﺷﮕﺎه اﺑﺰارآﻻت و ﻟﻮازم ﺳﺎﺧﺘﻤﺎﻧﯽ",
+      "sourceLine": "ﻓﺮوﺷﮕﺎه اﺑﺰارآﻻت و ﻟﻮازم ﺳﺎﺧﺘﻤﺎﻧﯽ       der Baumarkt, ¨e"
+    },
+    {
+      "german": "das Werkzeug, -e",
+      "persian": "اﺑﺰار ،وﺳﯿﻠﻪ ﮐﺎر",
+      "sourceLine": "اﺑﺰار ،وﺳﯿﻠﻪ ﮐﺎر    das Werkzeug, -e"
+    },
+    {
+      "german": "das Baumaterial, -ien",
+      "persian": "ﻣﺼﺎﻟﺢ ﺳﺎﺧﺘﻤﺎﻧ",
+      "sourceLine": "ﻣﺼﺎﻟﺢ ﺳﺎﺧﺘﻤﺎﻧ        das Baumaterial, -ien"
+    },
+    {
+      "german": "der Handwerkerservice, -s",
+      "persian": "ﺧﺪﻣﺎت ﻓﻨﯽ و ﺗﻌﻤﯿﺮاﺗﯽ",
+      "sourceLine": "ﺧﺪﻣﺎت ﻓﻨﯽ و ﺗﻌﻤﯿﺮاﺗﯽ       der Handwerkerservice, -s"
+    },
+    {
+      "german": "die Maßschneiderin, -nen",
+      "persian": "ﺧﯿﺎط زﻧﺎﻧﻪ )ﺷﺨﺼﯿﺪوز(",
+      "sourceLine": "ﺧﯿﺎط زﻧﺎﻧﻪ )ﺷﺨﺼﯿﺪوز(       die Maßschneiderin, -nen"
+    },
+    {
+      "german": "die Goldschmiedin, -nen",
+      "persian": "زرﮔﺮ ،ﻃﻼﺳﺎز )زن (",
+      "sourceLine": "زرﮔﺮ ،ﻃﻼﺳﺎز )زن (      die Goldschmiedin, -nen"
+    },
+    {
+      "german": "die Konditorin, -nen",
+      "persian": "ﻗﻨﺎد ،ﺷﯿﺮﯾﻨﯿﭙﺰ )زن(",
+      "sourceLine": "ﻗﻨﺎد ،ﺷﯿﺮﯾﻨﯿﭙﺰ )زن(    die Konditorin, -nen"
+    },
+    {
+      "german": "der Klempner, - / die Klempnerin, -nen",
+      "persian": "ﻟﻮﻟﻬﮑﺶ",
+      "sourceLine": "ﻟﻮﻟﻬﮑﺶ      der Klempner, - / die Klempnerin, -nen"
+    },
+    {
+      "german": "der Elektriker, - / die Elektrikerin, -nen",
+      "persian": "ﺑﺮﻗﮑﺎر",
+      "sourceLine": "ﺑﺮﻗﮑﺎر    der Elektriker, - / die Elektrikerin, -nen"
+    },
+    {
+      "german": "der Klimatechniker, -",
+      "persian": "ﺗﮑﻨﺴﯿﻦ ﺳﯿﺴﺘﻤﻬﺎی ﺗﻬﻮﯾﻪ و ﺳﺮﻣﺎﯾﺸﯽ",
+      "sourceLine": "ﺗﮑﻨﺴﯿﻦ ﺳﯿﺴﺘﻤﻬﺎی ﺗﻬﻮﯾﻪ و ﺳﺮﻣﺎﯾﺸﯽ          der Klimatechniker, -"
+    },
+    {
+      "german": "der Heizungsbauer, -",
+      "persian": "ﺗﮑﻨﺴﯿﻦ ﺳﯿﺴﺘﻤﻬﺎی ﮔﺮﻣﺎﯾﺸﯽ",
+      "sourceLine": "ﺗﮑﻨﺴﯿﻦ ﺳﯿﺴﺘﻤﻬﺎی ﮔﺮﻣﺎﯾﺸﯽ          der Heizungsbauer, -"
+    },
+    {
+      "german": "der Gerüstbauer, -",
+      "persian": "دارﺑﺴﺘﺒﻨﺪ )ﻧﺼﺎب دارﺑﺴﺖ (",
+      "sourceLine": "دارﺑﺴﺘﺒﻨﺪ )ﻧﺼﺎب دارﺑﺴﺖ (      der Gerüstbauer, -"
+    },
+    {
+      "german": "der Maurer, -",
+      "persian": "ﺑﻨﺎ",
+      "sourceLine": "ﺑﻨﺎ   der Maurer, -"
+    },
+    {
+      "german": "der Mechatroniker, -",
+      "persian": "ﺗﮑﻨﺴﯿﻦ ﻣﮑﺎﺗﺮوﻧﯿﮏ )ﺑﺮق و ﻣﮑﺎﻧﯿﮏ(",
+      "sourceLine": "ﺗﮑﻨﺴﯿﻦ ﻣﮑﺎﺗﺮوﻧﯿﮏ )ﺑﺮق و ﻣﮑﺎﻧﯿﮏ(       der Mechatroniker, -"
+    },
+    {
+      "german": "der Metzger, -",
+      "persian": "ﻗﺼﺎب",
+      "sourceLine": "ﻗﺼﺎب      der Metzger, -"
+    },
+    {
+      "german": "die Radiosendung, -en",
+      "persian": "ﺑﺮﻧﺎﻣﻪ رادﯾﻮﯾﯽ",
+      "sourceLine": "ﺑﺮﻧﺎﻣﻪ رادﯾﻮﯾﯽ    die Radiosendung, -en"
+    },
+    {
+      "german": "die Krise, -n",
+      "persian": "ﺑﺤﺮان",
+      "sourceLine": "ﺑﺤﺮان     die Krise, -n"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( der Vormarsch",
+      "persian": "ﭘﯿﺸﺮوی ،روﻧﻖ ) im Vormarschﯾﻌﻨﯽ در ﺣﺎل اﻓﺰاﯾﺶ (",
+      "sourceLine": "ﭘﯿﺸﺮوی ،روﻧﻖ ) im Vormarschﯾﻌﻨﯽ در ﺣﺎل اﻓﺰاﯾﺶ (          )ﺑﺪون ﺟﻤﻊ( der Vormarsch"
+    },
+    {
+      "german": "die Bundesagentur für Arbeit",
+      "persian": "آژاﻧﺲ ﻓﺪرال ﮐﺎر آﻟﻤﺎن",
+      "sourceLine": "آژاﻧﺲ ﻓﺪرال ﮐﺎر آﻟﻤﺎن      die Bundesagentur für Arbeit"
+    },
+    {
+      "german": "die Stelle, -n",
+      "persian": "ﻣﻮﻗﻌﯿﺖ ﺷﻐﻠﯽ ) offene Stellenﯾﻌﻨﯽ ﻣﻮﻗﻌﯿﺘﻬﺎی ﺷﻐﻠﯽ ﺧﺎﻟﯽ (",
+      "sourceLine": "ﻣﻮﻗﻌﯿﺖ ﺷﻐﻠﯽ ) offene Stellenﯾﻌﻨﯽ ﻣﻮﻗﻌﯿﺘﻬﺎی ﺷﻐﻠﯽ ﺧﺎﻟﯽ (          die Stelle, -n"
+    },
+    {
+      "german": ")der Auszubildende, -n (Azubi",
+      "persian": "ﮐﺎرآﻣﻮز )دوره آﺳﺒﯿﻠﺪوﻧﮓ(",
+      "sourceLine": "ﮐﺎرآﻣﻮز )دوره آﺳﺒﯿﻠﺪوﻧﮓ(      )der Auszubildende, -n (Azubi"
+    },
+    {
+      "german": "der Frauenanteil, -e",
+      "persian": "ﺳﻬﻢ و درﺻﺪ ﺣﻀﻮر زﻧﺎن",
+      "sourceLine": "ﺳﻬﻢ و درﺻﺪ ﺣﻀﻮر زﻧﺎن         der Frauenanteil, -e"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( der Umgang",
+      "persian": "رﻓﺘﺎر ،ﻃﺮز ﮐﺎر ،ﻧﺤﻮه ﻣﻮاﺟﻬﻪ",
+      "sourceLine": "رﻓﺘﺎر ،ﻃﺮز ﮐﺎر ،ﻧﺤﻮه ﻣﻮاﺟﻬﻪ      )ﺑﺪون ﺟﻤﻊ( der Umgang"
+    },
+    {
+      "german": "das Heimatland, ¨er",
+      "persian": "وﻃﻦ ،ﮐﺸﻮر ﻣﺎدری",
+      "sourceLine": "وﻃﻦ ،ﮐﺸﻮر ﻣﺎدری        das Heimatland, ¨er"
+    },
+    {
+      "german": ")berichten über (+ Akkusativ",
+      "persian": "ﮔﺰارش دادن درﺑﺎره ﭼﯿﺰ",
+      "sourceLine": "ﮔﺰارش دادن درﺑﺎره ﭼﯿﺰ         )berichten über (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ durchführen (+ Akkusativ /",
+      "persian": "اﺟﺮا ﮐﺮدن ،اﻧﺠﺎم دادن )ﯾﮏ ﻓﻌﺎﻟﯿﺖ ﯾﺎ ﭘﺮوژه(",
+      "sourceLine": "اﺟﺮا ﮐﺮدن ،اﻧﺠﺎم دادن )ﯾﮏ ﻓﻌﺎﻟﯿﺖ ﯾﺎ ﭘﺮوژه(     )ﺟﺪاﺷﺪﻧﯽ durchführen (+ Akkusativ /"
+    },
+    {
+      "german": ")erlernen (+ Akkusativ",
+      "persian": "آﻣﻮﺧﺘﻦ ،ﯾﺎد ﮔﺮﻓﺘﻦ )ﯾﮏ ﺣﺮﻓﻪ ﺑﻪ ﺻﻮرت اﺳﺎﺳﯽ(",
+      "sourceLine": "آﻣﻮﺧﺘﻦ ،ﯾﺎد ﮔﺮﻓﺘﻦ )ﯾﮏ ﺣﺮﻓﻪ ﺑﻪ ﺻﻮرت اﺳﺎﺳﯽ(          )erlernen (+ Akkusativ"
+    },
+    {
+      "german": ")zu tun haben mit (+ Dativ",
+      "persian": "ﺳﺮ و ﮐﺎر داﺷﺘﻦ ﺑﺎ ﭼﯿﺰی ،ﻣﺮﺗﺒﻂ ﺑﻮدن ﺑﺎ ﭼﯿﺰی",
+      "sourceLine": "ﺳﺮ و ﮐﺎر داﺷﺘﻦ ﺑﺎ ﭼﯿﺰی ،ﻣﺮﺗﺒﻂ ﺑﻮدن ﺑﺎ ﭼﯿﺰی       )zu tun haben mit (+ Dativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ mitbringen (+ Akkusativ /",
+      "persian": "ﻫﻤﺮاه ﺧﻮد آوردن )ﺗﺠﺮﺑﻪ ﯾﺎ ﻣﻬﺎرت(",
+      "sourceLine": "ﻫﻤﺮاه ﺧﻮد آوردن )ﺗﺠﺮﺑﻪ ﯾﺎ ﻣﻬﺎرت(       )ﺟﺪاﺷﺪﻧﯽ mitbringen (+ Akkusativ /"
+    },
+    {
+      "german": ")wählen (+ Akkusativ",
+      "persian": "اﻧﺘﺨﺎب ﮐﺮدن",
+      "sourceLine": "اﻧﺘﺨﺎب ﮐﺮدن      )wählen (+ Akkusativ"
+    },
+    {
+      "german": ")registrieren (+ Akkusativ",
+      "persian": "ﺛﺒﺖ ﮐﺮدن ،آﻣﺎر ﮔﺮﻓﺘﻦ",
+      "sourceLine": "ﺛﺒﺖ ﮐﺮدن ،آﻣﺎر ﮔﺮﻓﺘﻦ      )registrieren (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ ausüben (+ Akkusativ /",
+      "persian": "ﻣﻤﺎرﺳﺖ ﮐﺮدن ،اﻧﺠﺎم دادن ) Berufe ausübenﯾﻌﻨﯽ ﺷﺎﻏﻞ ﺑﻮدن در ﯾﮏ ﺣﺮﻓﻪ (",
+      "sourceLine": "ﻣﻤﺎرﺳﺖ ﮐﺮدن ،اﻧﺠﺎم دادن ) Berufe ausübenﯾﻌﻨﯽ ﺷﺎﻏﻞ ﺑﻮدن در ﯾﮏ ﺣﺮﻓﻪ (          )ﺟﺪاﺷﺪﻧﯽ ausüben (+ Akkusativ /"
+    },
+    {
+      "german": ")beantworten (+ Akkusativ",
+      "persian": "ﭘﺎﺳﺦ دادن ﺑﻪ )ﯾﮏ ﺳﻮال(",
+      "sourceLine": "ﭘﺎﺳﺦ دادن ﺑﻪ )ﯾﮏ ﺳﻮال(       )beantworten (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ auswechseln (+ Akkusativ /",
+      "persian": "ﺗﻌﻮﯾﺾ ﮐﺮدن ،ﻣﺒﺎدﻟﻪ ﮐﺮدن",
+      "sourceLine": "ﺗﻌﻮﯾﺾ ﮐﺮدن ،ﻣﺒﺎدﻟﻪ ﮐﺮدن       )ﺟﺪاﺷﺪﻧﯽ auswechseln (+ Akkusativ /"
+    },
+    {
+      "german": ")bearbeiten (+ Akkusativ",
+      "persian": "ﮐﺎر ﮐﺮدن روی ﭼﯿﺰی ،ﭘﺮدازش ﮐﺮدن )ﭼﻮب ﯾﺎ ﻓﻠﺰ(",
+      "sourceLine": "ﮐﺎر ﮐﺮدن روی ﭼﯿﺰی ،ﭘﺮدازش ﮐﺮدن )ﭼﻮب ﯾﺎ ﻓﻠﺰ(         )bearbeiten (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ ausprobieren (+ Akkusativ /",
+      "persian": "اﻣﺘﺤﺎن ﮐﺮدن ،ﺗﺴﺖ ﮐﺮدن )ﯾﮏ وﺳﯿﻠﻪ(",
+      "sourceLine": "اﻣﺘﺤﺎن ﮐﺮدن ،ﺗﺴﺖ ﮐﺮدن )ﯾﮏ وﺳﯿﻠﻪ(          )ﺟﺪاﺷﺪﻧﯽ ausprobieren (+ Akkusativ /"
+    },
+    {
+      "german": ")sich interessieren für (+ Akkusativ",
+      "persian": "ﻋﻼﻗﻬﻤﻨﺪ ﺑﻮدن ﺑﻪ ﭼﯿﺰی",
+      "sourceLine": "ﻋﻼﻗﻬﻤﻨﺪ ﺑﻮدن ﺑﻪ ﭼﯿﺰی       )sich interessieren für (+ Akkusativ"
+    },
+    {
+      "german": "günstig",
+      "persian": "ارزان ،ﻣﻘﺮوﻧﺒﻬﺼﺮﻓﻪ ،ﻣﻨﺎﺳﺐ",
+      "sourceLine": "ارزان ،ﻣﻘﺮوﻧﺒﻬﺼﺮﻓﻪ ،ﻣﻨﺎﺳﺐ        günstig"
+    },
+    {
+      "german": "weiblich",
+      "persian": "زﻧﺎﻧﻪ ،ﻣﻮﻧﺚ",
+      "sourceLine": "زﻧﺎﻧﻪ ،ﻣﻮﻧﺚ     weiblich"
+    },
+    {
+      "german": "männlich",
+      "persian": "ﻣﺮداﻧﻪ ،ﻣﺬﮐﺮ",
+      "sourceLine": "ﻣﺮداﻧﻪ ،ﻣﺬﮐﺮ     männlich"
+    },
+    {
+      "german": "häufig",
+      "persian": "اﻏﻠﺐ ،ﺑﻬﺪﻓﻌﺎت ،زﯾﺎد",
+      "sourceLine": "اﻏﻠﺐ ،ﺑﻬﺪﻓﻌﺎت ،زﯾﺎد     häufig"
+    },
+    {
+      "german": "kritisch",
+      "persian": "ﺑﺤﺮاﻧﯽ ،ﺣﺴﺎس ،دﻗﯿﻖ",
+      "sourceLine": "ﺑﺤﺮاﻧﯽ ،ﺣﺴﺎس ،دﻗﯿﻖ        kritisch"
+    },
+    {
+      "german": "selten",
+      "persian": "ﺑﻬﻨﺪرت ،ﮐﻤﯿﺎب",
+      "sourceLine": "ﺑﻬﻨﺪرت ،ﮐﻤﯿﺎب      selten"
+    },
+    {
+      "german": "gering",
+      "persian": "ﮐﻢ ،ﻧﺎﭼﯿﺰ ،اﻧﺪک",
+      "sourceLine": "ﮐﻢ ،ﻧﺎﭼﯿﺰ ،اﻧﺪک    gering"
+    },
+    {
+      "german": "offen",
+      "persian": "ﺑﺎز ،ﺧﺎﻟﯽ )ﺑﺮای ﻣﻮﻗﻌﯿﺖ ﺷﻐﻠﯽ (",
+      "sourceLine": "ﺑﺎز ،ﺧﺎﻟﯽ )ﺑﺮای ﻣﻮﻗﻌﯿﺖ ﺷﻐﻠﯽ (     offen"
+    },
+    {
+      "german": ":۸۷ﻣﺠﻬﻮل وﺿﻌﯿﺖ و ﻧﺘﺎﯾﺞ ﮐﺎر )(!Das ist schon erledigt",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۸۷ﻣﺠﻬﻮل وﺿﻌﯿﺖ و ﻧﺘﺎﯾﺞ ﮐﺎر )(!Das ist schon erledigt"
+    },
+    {
+      "german": "der Teppich, -e",
+      "persian": "ﻓﺮش ،ﻣﻮﮐﺖ",
+      "sourceLine": "ﻓﺮش ،ﻣﻮﮐﺖ       der Teppich, -e"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( der Müll",
+      "persian": "زﺑﺎﻟﻪ ،آﺷﻐﺎل",
+      "sourceLine": "زﺑﺎﻟﻪ ،آﺷﻐﺎل    )ﺑﺪون ﺟﻤﻊ( der Müll"
+    },
+    {
+      "german": "das Regal, -e",
+      "persian": "ﻗﻔﺴﻪ ،ﺷﻠﻒ",
+      "sourceLine": "ﻗﻔﺴﻪ ،ﺷﻠﻒ       das Regal, -e"
+    },
+    {
+      "german": "die Lampe, -n",
+      "persian": "ﭼﺮاغ ،ﻻﻣﭗ",
+      "sourceLine": "ﭼﺮاغ ،ﻻﻣﭗ      die Lampe, -n"
+    },
+    {
+      "german": "der Schreibtisch, -e",
+      "persian": "ﻣﯿﺰ ﺗﺤﺮﯾﺮ ،ﻣﯿﺰ ﮐﺎر اداری",
+      "sourceLine": "ﻣﯿﺰ ﺗﺤﺮﯾﺮ ،ﻣﯿﺰ ﮐﺎر اداری    der Schreibtisch, -e"
+    },
+    {
+      "german": "der Drucker, -",
+      "persian": "ﭘﺮﯾﻨﺘﺮ ،ﭼﺎﭘﮕﺮ",
+      "sourceLine": "ﭘﺮﯾﻨﺘﺮ ،ﭼﺎﭘﮕﺮ   der Drucker, -"
+    },
+    {
+      "german": "der Zustand, ¨e",
+      "persian": "وﺿﻌﯿﺖ ،ﺣﺎﻟﺖ ) Zustandspassivﯾﻌﻨﯽ ﻣﺠﻬﻮل وﺿﻌﯿﺖ (",
+      "sourceLine": "وﺿﻌﯿﺖ ،ﺣﺎﻟﺖ ) Zustandspassivﯾﻌﻨﯽ ﻣﺠﻬﻮل وﺿﻌﯿﺖ (           der Zustand, ¨e"
+    },
+    {
+      "german": "das Ergebnis, -se",
+      "persian": "ﻧﺘﯿﺠﻪ ،دﺳﺘﺎورد",
+      "sourceLine": "ﻧﺘﯿﺠﻪ ،دﺳﺘﺎورد    das Ergebnis, -se"
+    },
+    {
+      "german": "die Handlung, -en",
+      "persian": "ﻋﻤﻞ ،اﻗﺪام ،ﮐﺎر",
+      "sourceLine": "ﻋﻤﻞ ،اﻗﺪام ،ﮐﺎر    die Handlung, -en"
+    },
+    {
+      "german": "die Werkstatt, ¨en",
+      "persian": "ﮐﺎرﮔﺎه ،ﺗﻌﻤﯿﺮﮔﺎه",
+      "sourceLine": "ﮐﺎرﮔﺎه ،ﺗﻌﻤﯿﺮﮔﺎه    die Werkstatt, ¨en"
+    },
+    {
+      "german": "der Transporter, -",
+      "persian": "ﺧﻮدروی ون ﺑﺎرﺑﺮی ،ﻣﺎﺷﯿﻦ ﺣﻤﻞ ﺑﺎر",
+      "sourceLine": "ﺧﻮدروی ون ﺑﺎرﺑﺮی ،ﻣﺎﺷﯿﻦ ﺣﻤﻞ ﺑﺎر       der Transporter, -"
+    },
+    {
+      "german": ")اﺳﻢ ﺟﻤﻊ( die Abfälle",
+      "persian": "زﺑﺎﻟﻬﻬﺎ ،ﺿﺎﯾﻌﺎت ،ﭘﺴﻤﺎﻧﺪﻫﺎ",
+      "sourceLine": "زﺑﺎﻟﻬﻬﺎ ،ﺿﺎﯾﻌﺎت ،ﭘﺴﻤﺎﻧﺪﻫﺎ    )اﺳﻢ ﺟﻤﻊ( die Abfälle"
+    },
+    {
+      "german": "die Chefin, -nen",
+      "persian": "رﺋﯿﺲ ،ﻣﺪﯾﺮ )زن(",
+      "sourceLine": "رﺋﯿﺲ ،ﻣﺪﯾﺮ )زن(      die Chefin, -nen"
+    },
+    {
+      "german": "das Rohr, -e",
+      "persian": "ﻟﻮﻟﻪ",
+      "sourceLine": "ﻟﻮﻟﻪ   das Rohr, -e"
+    },
+    {
+      "german": "der Verband, ¨e",
+      "persian": "ﺑﺎﻧﺪ ،ﭘﺎﻧﺴﻤﺎن",
+      "sourceLine": "ﺑﺎﻧﺪ ،ﭘﺎﻧﺴﻤﺎن   der Verband, ¨e"
+    },
+    {
+      "german": "die E-Mail, -s",
+      "persian": "اﯾﻤﯿﻞ ،ﭘﺴﺖ اﻟﮑﺘﺮوﻧﯿﮑﯽ",
+      "sourceLine": "اﯾﻤﯿﻞ ،ﭘﺴﺖ اﻟﮑﺘﺮوﻧﯿﮑﯽ      die E-Mail, -s"
+    },
+    {
+      "german": ")reinigen (+ Akkusativ",
+      "persian": "ﺗﻤﯿﺰ ﮐﺮدن ،ﭘﺎک ﮐﺮدن",
+      "sourceLine": "ﺗﻤﯿﺰ ﮐﺮدن ،ﭘﺎک ﮐﺮدن      )reinigen (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ wegbringen (+ Akkusativ /",
+      "persian": "دور ﺑﺮدن ،ﺑﯿﺮون ﺑﺮدن )زﺑﺎﻟﻪ(",
+      "sourceLine": "دور ﺑﺮدن ،ﺑﯿﺮون ﺑﺮدن )زﺑﺎﻟﻪ(    )ﺟﺪاﺷﺪﻧﯽ wegbringen (+ Akkusativ /"
+    },
+    {
+      "german": ")putzen (+ Akkusativ",
+      "persian": "ﺗﻤﯿﺰ ﮐﺮدن ،ﺳﺎﯾﯿﺪن )ﺷﯿﺸﻪ ﭘﻨﺠﺮه(",
+      "sourceLine": "ﺗﻤﯿﺰ ﮐﺮدن ،ﺳﺎﯾﯿﺪن )ﺷﯿﺸﻪ ﭘﻨﺠﺮه(       )putzen (+ Akkusativ"
+    },
+    {
+      "german": ")streichen (+ Akkusativ",
+      "persian": "رﻧﮕﺂﻣﯿﺰی ﮐﺮدن ،رﻧﮓ زدن )دﯾﻮار(",
+      "sourceLine": "رﻧﮕﺂﻣﯿﺰی ﮐﺮدن ،رﻧﮓ زدن )دﯾﻮار(      )streichen (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ aufhängen (+ Akkusativ /",
+      "persian": "آوﯾﺰان ﮐﺮدن )ﻻﻣﭗ ﯾﺎ ﺗﺎﺑﻠﻮ(",
+      "sourceLine": "آوﯾﺰان ﮐﺮدن )ﻻﻣﭗ ﯾﺎ ﺗﺎﺑﻠﻮ(    )ﺟﺪاﺷﺪﻧﯽ aufhängen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ aufbauen (+ Akkusativ /",
+      "persian": "ﺳﺮ ﻫﻢ ﮐﺮدن ،ﻣﻮﻧﺘﺎژ ﮐﺮدن )ﻣﯿﺰ ﯾﺎ ﮐﻤﺪ(",
+      "sourceLine": "ﺳﺮ ﻫﻢ ﮐﺮدن ،ﻣﻮﻧﺘﺎژ ﮐﺮدن )ﻣﯿﺰ ﯾﺎ ﮐﻤﺪ(     )ﺟﺪاﺷﺪﻧﯽ aufbauen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ anbringen (+ Akkusativ /",
+      "persian": "ﻧﺼﺐ ﮐﺮدن ،ﺗﻌﺒﯿﻪ ﮐﺮدن )ﭘﺮﯾﺰ(",
+      "sourceLine": "ﻧﺼﺐ ﮐﺮدن ،ﺗﻌﺒﯿﻪ ﮐﺮدن )ﭘﺮﯾﺰ(      )ﺟﺪاﺷﺪﻧﯽ anbringen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ anschließen (+ Akkusativ /",
+      "persian": "ﻣﺘﺼﻞ ﮐﺮدن ،وﺻﻞ ﮐﺮدن )ﭘﺮﯾﻨﺘﺮ ﺑﻪ ﮐﺎﻣﭙﯿﻮﺗﺮ ﯾﺎ ﺑﺮق(",
+      "sourceLine": "ﻣﺘﺼﻞ ﮐﺮدن ،وﺻﻞ ﮐﺮدن )ﭘﺮﯾﻨﺘﺮ ﺑﻪ ﮐﺎﻣﭙﯿﻮﺗﺮ ﯾﺎ ﺑﺮق(     )ﺟﺪاﺷﺪﻧﯽ anschließen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ aufräumen (+ Akkusativ /",
+      "persian": "ﻣﺮﺗﺐ ﮐﺮدن ،ﺟﻤﻌﻮﺟﻮر ﮐﺮدن )اﺗﺎق ﯾﺎ ﮐﺎرﮔﺎه(",
+      "sourceLine": "ﻣﺮﺗﺐ ﮐﺮدن ،ﺟﻤﻌﻮﺟﻮر ﮐﺮدن )اﺗﺎق ﯾﺎ ﮐﺎرﮔﺎه(      )ﺟﺪاﺷﺪﻧﯽ aufräumen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ ausschalten (+ Akkusativ /",
+      "persian": "ﺧﺎﻣﻮش ﮐﺮدن )دﺳﺘﮕﺎه ﯾﺎ ﻣﺎﺷﯿﻦ(",
+      "sourceLine": "ﺧﺎﻣﻮش ﮐﺮدن )دﺳﺘﮕﺎه ﯾﺎ ﻣﺎﺷﯿﻦ(        )ﺟﺪاﺷﺪﻧﯽ ausschalten (+ Akkusativ /"
+    },
+    {
+      "german": ")beladen (+ Akkusativ",
+      "persian": "ﺑﺎر زدن ،ﭘﺮ ﮐﺮدن )ون ﺑﺎرﺑﺮی(",
+      "sourceLine": "ﺑﺎر زدن ،ﭘﺮ ﮐﺮدن )ون ﺑﺎرﺑﺮی(     )beladen (+ Akkusativ"
+    },
+    {
+      "german": ")entsorgen (+ Akkusativ",
+      "persian": "دور اﻧﺪاﺧﺘﻦ زﺑﺎﻟﻪ ،اﻣﺤﺎء ﮐﺮدن ﭘﺴﻤﺎﻧﺪ ﻃﺒﻖ اﺻﻮل",
+      "sourceLine": "دور اﻧﺪاﺧﺘﻦ زﺑﺎﻟﻪ ،اﻣﺤﺎء ﮐﺮدن ﭘﺴﻤﺎﻧﺪ ﻃﺒﻖ اﺻﻮل      )entsorgen (+ Akkusativ"
+    },
+    {
+      "german": ")informieren (+ Akkusativ",
+      "persian": "ﻣﻄﻠﻊ ﮐﺮدن ،ﺧﺒﺮ دادن ﺑﻪ ﮐﺴﯽ",
+      "sourceLine": "ﻣﻄﻠﻊ ﮐﺮدن ،ﺧﺒﺮ دادن ﺑﻪ ﮐﺴﯽ       )informieren (+ Akkusativ"
+    },
+    {
+      "german": ")tapezieren (+ Akkusativ",
+      "persian": "ﮐﺎﻏﺬ دﯾﻮاری ﮐﺮدن",
+      "sourceLine": "ﮐﺎﻏﺬ دﯾﻮاری ﮐﺮدن     )tapezieren (+ Akkusativ"
+    },
+    {
+      "german": ")einen Verband anlegen (+ Akkusativ",
+      "persian": "ﺑﺎﻧﺪﭘﯿﭽﯽ ﮐﺮدن ،ﭘﺎﻧﺴﻤﺎن ﮐﺮدن",
+      "sourceLine": "ﺑﺎﻧﺪﭘﯿﭽﯽ ﮐﺮدن ،ﭘﺎﻧﺴﻤﺎن ﮐﺮدن      )einen Verband anlegen (+ Akkusativ"
+    },
+    {
+      "german": ")E-Mails verschicken (+ Akkusativ",
+      "persian": "ﻓﺮﺳﺘﺎدن و ارﺳﺎل ﮐﺮدن اﯾﻤﯿﻠﻬﺎ",
+      "sourceLine": "ﻓﺮﺳﺘﺎدن و ارﺳﺎل ﮐﺮدن اﯾﻤﯿﻠﻬﺎ      )E-Mails verschicken (+ Akkusativ"
+    },
+    {
+      "german": "schon",
+      "persian": "از ﻗﺒﻞ ،ﭘﯿﺶ از اﯾﻦ ،ﺣﺎﻻ دﯾﮕﺮ",
+      "sourceLine": "از ﻗﺒﻞ ،ﭘﯿﺶ از اﯾﻦ ،ﺣﺎﻻ دﯾﮕﺮ    schon"
+    },
+    {
+      "german": "noch nicht",
+      "persian": "ﻫﻨﻮز ﻧﻪ",
+      "sourceLine": "ﻫﻨﻮز ﻧﻪ   noch nicht"
+    },
+    {
+      "german": "neu",
+      "persian": "ﺟﺪﯾﺪ",
+      "sourceLine": "ﺟﺪﯾﺪ    neu"
+    },
+    {
+      "german": "frisch",
+      "persian": "ﺗﺎزه ) Frisch gestrichenﯾﻌﻨﯽ ﺗﺎزه رﻧﮓ ﺷﺪه! (",
+      "sourceLine": "ﺗﺎزه ) Frisch gestrichenﯾﻌﻨﯽ ﺗﺎزه رﻧﮓ ﺷﺪه! (      frisch"
+    },
+    {
+      "german": ":۸۸راﻫﻨﻤﺎی ﻓﻨﯽ و ﻣﺮاﺣﻞ ﻣﺘﻮاﻟﯽ ﮐﺎر )(?Können Sie mir helfen",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۸۸راﻫﻨﻤﺎی ﻓﻨﯽ و ﻣﺮاﺣﻞ ﻣﺘﻮاﻟﯽ ﮐﺎر )(?Können Sie mir helfen"
+    },
+    {
+      "german": "der Heimwerkernotdienst, -e",
+      "persian": "ﺧﺪﻣﺎت اﺿﻄﺮاری و ﻓﻮری ﮐﺎرﻫﺎی ﻓﻨﯽ در ﻣﻨﺰل",
+      "sourceLine": "ﺧﺪﻣﺎت اﺿﻄﺮاری و ﻓﻮری ﮐﺎرﻫﺎی ﻓﻨﯽ در ﻣﻨﺰل             der Heimwerkernotdienst, -e"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( das Heimwerken",
+      "persian": "اﻧﺠﺎم ﮐﺎرﻫﺎی ﻓﻨﯽ و ﺗﻌﻤﯿﺮاﺗﯽ ﺷﺨﺼﯽ در ﺧﺎﻧﻪ",
+      "sourceLine": "اﻧﺠﺎم ﮐﺎرﻫﺎی ﻓﻨﯽ و ﺗﻌﻤﯿﺮاﺗﯽ ﺷﺨﺼﯽ در ﺧﺎﻧﻪ           )ﺑﺪون ﺟﻤﻊ( das Heimwerken"
+    },
+    {
+      "german": "der Geldbeutel, -",
+      "persian": "ﮐﯿﻒ ﭘﻮل",
+      "sourceLine": "ﮐﯿﻒ ﭘﻮل      der Geldbeutel, -"
+    },
+    {
+      "german": "der Festpreis, -e",
+      "persian": "ﻗﯿﻤﺖ ﻣﻘﻄﻮع ،ﻗﯿﻤﺖ ﺛﺎﺑﺖ",
+      "sourceLine": "ﻗﯿﻤﺖ ﻣﻘﻄﻮع ،ﻗﯿﻤﺖ ﺛﺎﺑﺖ           der Festpreis, -e"
+    },
+    {
+      "german": "der Haupthahn, ¨e",
+      "persian": "ﺷﯿﺮ اﺻﻠﯽ )آب ﯾﺎ ﮔﺎز(",
+      "sourceLine": "ﺷﯿﺮ اﺻﻠﯽ )آب ﯾﺎ ﮔﺎز(        der Haupthahn, ¨e"
+    },
+    {
+      "german": "der Deckel, -",
+      "persian": "درﭘﻮش ،ﮐﻼﻫﮏ",
+      "sourceLine": "درﭘﻮش ،ﮐﻼﻫﮏ         der Deckel, -"
+    },
+    {
+      "german": "der Griff, -e",
+      "persian": "دﺳﺘﮕﯿﺮه",
+      "sourceLine": "دﺳﺘﮕﯿﺮه      der Griff, -e"
+    },
+    {
+      "german": "die Schraube, -n",
+      "persian": "ﭘﯿﭻ",
+      "sourceLine": "ﭘﯿﭻ   die Schraube, -n"
+    },
+    {
+      "german": "das Ventil, -e",
+      "persian": "ﺳﻮﭘﺎپ ،ﺷﯿﺮ ﻓﻠﮑﻪ",
+      "sourceLine": "ﺳﻮﭘﺎپ ،ﺷﯿﺮ ﻓﻠﮑﻪ         das Ventil, -e"
+    },
+    {
+      "german": "die Mutter, -n",
+      "persian": "ﻣﻬﺮه )ﭘﯿﭻ(",
+      "sourceLine": "ﻣﻬﺮه )ﭘﯿﭻ(      die Mutter, -n"
+    },
+    {
+      "german": "die Ersatzdichtung, -en",
+      "persian": "واﺷﺮ ﯾﺪﮐﯽ ،ﻋﺎﯾﻖ ﺟﺎﯾﮕﺰﯾﻦ",
+      "sourceLine": "واﺷﺮ ﯾﺪﮐﯽ ،ﻋﺎﯾﻖ ﺟﺎﯾﮕﺰﯾﻦ         die Ersatzdichtung, -en"
+    },
+    {
+      "german": "der Ablauf, ¨e",
+      "persian": "ﻓﺮآﯾﻨﺪ ،روال ،ﺗﻮاﻟﯽ ﻣﺮاﺣﻞ ﮐﺎر",
+      "sourceLine": "ﻓﺮآﯾﻨﺪ ،روال ،ﺗﻮاﻟﯽ ﻣﺮاﺣﻞ ﮐﺎر       der Ablauf, ¨e"
+    },
+    {
+      "german": "das Ding, -e",
+      "persian": "ﭼﯿﺰ ،ﺷﯽء ،وﺳﯿﻠﻪ",
+      "sourceLine": "ﭼﯿﺰ ،ﺷﯽء ،وﺳﯿﻠﻪ         das Ding, -e"
+    },
+    {
+      "german": "die Hose, -n",
+      "persian": "ﺷﻠﻮار",
+      "sourceLine": "ﺷﻠﻮار     die Hose, -n"
+    },
+    {
+      "german": "das 4-Gänge-Menü, -s",
+      "persian": "ﻣﻨﻮی ﻏﺬای ۴ﻣﺮﺣﻠﻬﺎی )از ﭘﯿﺸﻐﺬا ﺗﺎ دﺳﺮ (",
+      "sourceLine": "ﻣﻨﻮی ﻏﺬای  ۴ﻣﺮﺣﻠﻬﺎی )از ﭘﯿﺸﻐﺬا ﺗﺎ دﺳﺮ (         das 4-Gänge-Menü, -s"
+    },
+    {
+      "german": "die Hebamme, -n",
+      "persian": "ﻣﺎﻣﺎ )ﭘﺰﺷﮑﯽ(",
+      "sourceLine": "ﻣﺎﻣﺎ )ﭘﺰﺷﮑﯽ(        die Hebamme, -n"
+    },
+    {
+      "german": ")benötigen (+ Akkusativ",
+      "persian": "ﻧﯿﺎز داﺷﺘﻦ ﺑﻪ ﭼﯿﺰی )رﺳﻤﯽ(",
+      "sourceLine": "ﻧﯿﺎز داﺷﺘﻦ ﺑﻪ ﭼﯿﺰی )رﺳﻤﯽ(          )benötigen (+ Akkusativ"
+    },
+    {
+      "german": ")unterstützen (+ Akkusativ",
+      "persian": "ﺣﻤﺎﯾﺖ ﮐﺮدن ،ﮐﻤﮏ ﮐﺮدن ﺑﻪ ﮐﺴﯽ",
+      "sourceLine": "ﺣﻤﺎﯾﺖ ﮐﺮدن ،ﮐﻤﮏ ﮐﺮدن ﺑﻪ ﮐﺴﯽ             )unterstützen (+ Akkusativ"
+    },
+    {
+      "german": "/ + Akkusativﺑﻪ ﮐﺴﯽ leihen (+ Dativ",
+      "persian": "ﻗﺮض دادن ﯾﺎ ﮐﺮاﯾﻪ دادن ﭼﯿﺰی را",
+      "sourceLine": "ﻗﺮض دادن ﯾﺎ ﮐﺮاﯾﻪ دادن        ﭼﯿﺰی را  / + Akkusativﺑﻪ ﮐﺴﯽ leihen (+ Dativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ klarkommen mit (+ Dativ /",
+      "persian": "از ﭘﺲ ﮐﺎری ﺑﺮآﻣﺪن ،راه آﻣﺪن ﺑﺎ",
+      "sourceLine": "از ﭘﺲ ﮐﺎری ﺑﺮآﻣﺪن ،راه آﻣﺪن ﺑﺎ         )ﺟﺪاﺷﺪﻧﯽ klarkommen mit (+ Dativ /"
+    },
+    {
+      "german": ")übernehmen (+ Akkusativ",
+      "persian": "ﺑﺮ ﻋﻬﺪه ﮔﺮﻓﺘﻦ ،ﺗﻘﺒﻞ ﮐﺮدن )ﺳﻔﺎرش ﯾﺎ ﻫﺰﯾﻨﻪ(",
+      "sourceLine": "ﺑﺮ ﻋﻬﺪه ﮔﺮﻓﺘﻦ ،ﺗﻘﺒﻞ ﮐﺮدن )ﺳﻔﺎرش ﯾﺎ ﻫﺰﯾﻨﻪ(          )übernehmen (+ Akkusativ"
+    },
+    {
+      "german": ")erreichen (+ Akkusativ",
+      "persian": "دﺳﺘﺮﺳﯽ ﭘﯿﺪا ﮐﺮدن ،ﺗﻤﺎس ﮔﺮﻓﺘﻦ و دﺳﺘﺮﺳﯽ داﺷﺘﻦ ﺑﻪ ﮐﺴﯽ",
+      "sourceLine": "دﺳﺘﺮﺳﯽ ﭘﯿﺪا ﮐﺮدن ،ﺗﻤﺎس ﮔﺮﻓﺘﻦ و دﺳﺘﺮﺳﯽ داﺷﺘﻦ ﺑﻪ ﮐﺴﯽ              )erreichen (+ Akkusativ"
+    },
+    {
+      "german": ")schaffen (+ Akkusativ",
+      "persian": "ﻣﻮﻓﻖ ﺷﺪن ،از ﭘﺲ ﮐﺎری ﺑﺮآﻣﺪن ،ﺑﻪ اﺗﻤﺎم رﺳﺎﻧﺪن",
+      "sourceLine": "ﻣﻮﻓﻖ ﺷﺪن ،از ﭘﺲ ﮐﺎری ﺑﺮآﻣﺪن ،ﺑﻪ اﺗﻤﺎم رﺳﺎﻧﺪن           )schaffen (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ zudrehen (+ Akkusativ /",
+      "persian": "ﺑﺴﺘﻦ )ﺷﯿﺮ آب ﯾﺎ ﮔﺎز ﺑﺎ ﭼﺮﺧﺎﻧﺪن(",
+      "sourceLine": "ﺑﺴﺘﻦ )ﺷﯿﺮ آب ﯾﺎ ﮔﺎز ﺑﺎ ﭼﺮﺧﺎﻧﺪن(         )ﺟﺪاﺷﺪﻧﯽ zudrehen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ aufdrehen (+ Akkusativ /",
+      "persian": "ﺑﺎز ﮐﺮدن )ﺷﯿﺮ آب ﯾﺎ ﮔﺎز ﺑﺎ ﭼﺮﺧﺎﻧﺪن(",
+      "sourceLine": "ﺑﺎز ﮐﺮدن )ﺷﯿﺮ آب ﯾﺎ ﮔﺎز ﺑﺎ ﭼﺮﺧﺎﻧﺪن(        )ﺟﺪاﺷﺪﻧﯽ aufdrehen (+ Akkusativ /"
+    },
+    {
+      "german": ")entfernen (+ Akkusativ",
+      "persian": "ﺑﺮداﺷﺘﻦ ،ﭘﺎک ﮐﺮدن ،زدودن",
+      "sourceLine": "ﺑﺮداﺷﺘﻦ ،ﭘﺎک ﮐﺮدن ،زدودن         )entfernen (+ Akkusativ"
+    },
+    {
+      "german": ")lösen (+ Akkusativ",
+      "persian": "ﺷﻞ ﮐﺮدن )ﭘﯿﭻ( ،ﺣﻞ ﮐﺮدن )ﻣﺴﺌﻠﻪ(",
+      "sourceLine": "ﺷﻞ ﮐﺮدن )ﭘﯿﭻ( ،ﺣﻞ ﮐﺮدن )ﻣﺴﺌﻠﻪ(           )lösen (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ abnehmen (+ Akkusativ /",
+      "persian": "ﺑﺮداﺷﺘﻦ ،ﺟﺪا ﮐﺮدن )دﺳﺘﮕﯿﺮه(",
+      "sourceLine": "ﺑﺮداﺷﺘﻦ ،ﺟﺪا ﮐﺮدن )دﺳﺘﮕﯿﺮه(          )ﺟﺪاﺷﺪﻧﯽ abnehmen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ aufschrauben (+ Akkusativ /",
+      "persian": "ﭘﯿﭽﺎﻧﺪن و ﺑﺎز ﮐﺮدن )ﭘﯿﭻ ﯾﺎ ﻣﻬﺮه(",
+      "sourceLine": "ﭘﯿﭽﺎﻧﺪن و ﺑﺎز ﮐﺮدن )ﭘﯿﭻ ﯾﺎ ﻣﻬﺮه(      )ﺟﺪاﺷﺪﻧﯽ aufschrauben (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ zuschrauben (+ Akkusativ /",
+      "persian": "ﭘﯿﭽﺎﻧﺪن و ﺑﺴﺘﻦ ﯾﺎ ﻣﺤﮑﻢ ﮐﺮدن )ﭘﯿﭻ(",
+      "sourceLine": "ﭘﯿﭽﺎﻧﺪن و ﺑﺴﺘﻦ ﯾﺎ ﻣﺤﮑﻢ ﮐﺮدن )ﭘﯿﭻ(         )ﺟﺪاﺷﺪﻧﯽ zuschrauben (+ Akkusativ /"
+    },
+    {
+      "german": "herausnehmen (+ Akkusativ /",
+      "persian": "ﺑﯿﺮون آوردن ،ﺧﺎرج ﮐﺮدن ﭼﯿﺰی از ﺟﺎﯾﯽ",
+      "sourceLine": "ﺑﯿﺮون آوردن ،ﺧﺎرج ﮐﺮدن ﭼﯿﺰی از ﺟﺎﯾﯽ          herausnehmen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ einsetzen (+ Akkusativ /",
+      "persian": "ﺟﺎ اﻧﺪاﺧﺘﻦ ،ﻗﺮار دادن )واﺷﺮ ﺟﺪﯾﺪ در ﻣﺤﻞ ﺧﻮد(",
+      "sourceLine": "ﺟﺎ اﻧﺪاﺧﺘﻦ ،ﻗﺮار دادن )واﺷﺮ ﺟﺪﯾﺪ در ﻣﺤﻞ ﺧﻮد(         )ﺟﺪاﺷﺪﻧﯽ einsetzen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ ausführen (+ Akkusativ /",
+      "persian": "اﺟﺮا ﮐﺮدن ،اﻧﺠﺎم دادن )ﻣﺮاﺣﻞ ﯾﺎ دﺳﺘﻮرات(",
+      "sourceLine": "اﺟﺮا ﮐﺮدن ،اﻧﺠﺎم دادن )ﻣﺮاﺣﻞ ﯾﺎ دﺳﺘﻮرات(         )ﺟﺪاﺷﺪﻧﯽ ausführen (+ Akkusativ /"
+    },
+    {
+      "german": ")eine Hose kürzen (+ Akkusativ",
+      "persian": "ﮐﻮﺗﺎه ﮐﺮدن ﯾﮏ ﺷﻠﻮار",
+      "sourceLine": "ﮐﻮﺗﺎه ﮐﺮدن ﯾﮏ ﺷﻠﻮار        )eine Hose kürzen (+ Akkusativ"
+    },
+    {
+      "german": ")ein Baby wickeln (+ Akkusativ",
+      "persian": "ﭘﻮﺷﮏ ﯾﮏ ﻧﻮزاد را ﺗﻌﻮﯾﺾ ﮐﺮدن",
+      "sourceLine": "ﭘﻮﺷﮏ ﯾﮏ ﻧﻮزاد را ﺗﻌﻮﯾﺾ ﮐﺮدن           )ein Baby wickeln (+ Akkusativ"
+    },
+    {
+      "german": ")ein Bett frisch beziehen (+ Akkusativ",
+      "persian": "ﻣﻼﻓﻪ ﺗﺨﺖ را ﺗﻌﻮﯾﺾ و ﺗﺎزه ﮐﺮدن",
+      "sourceLine": "ﻣﻼﻓﻪ ﺗﺨﺖ را ﺗﻌﻮﯾﺾ و ﺗﺎزه ﮐﺮدن          )ein Bett frisch beziehen (+ Akkusativ"
+    },
+    {
+      "german": "unverständlicher",
+      "persian": "ﻧﺎﻣﻔﻬﻮﻣﺘﺮ ،ﻏﯿﺮﻗﺎﺑﻠﺪرﮐﺘﺮ",
+      "sourceLine": "ﻧﺎﻣﻔﻬﻮﻣﺘﺮ ،ﻏﯿﺮﻗﺎﺑﻠﺪرﮐﺘﺮ      unverständlicher"
+    },
+    {
+      "german": "fair",
+      "persian": "ﻣﻨﺼﻔﺎﻧﻪ ) faire Preiseﯾﻌﻨﯽ ﻗﯿﻤﺘﻬﺎی ﻣﻨﺼﻔﺎﻧﻪ (",
+      "sourceLine": "ﻣﻨﺼﻔﺎﻧﻪ ) faire Preiseﯾﻌﻨﯽ ﻗﯿﻤﺘﻬﺎی ﻣﻨﺼﻔﺎﻧﻪ (        fair"
+    },
+    {
+      "german": "zuerst",
+      "persian": "در اﺑﺘﺪا ،اول از ﻫﻤﻪ",
+      "sourceLine": "در اﺑﺘﺪا ،اول از ﻫﻤﻪ     zuerst"
+    },
+    {
+      "german": "danach / dann",
+      "persian": "ﭘﺲ از آن ،ﺳﭙﺲ",
+      "sourceLine": "ﭘﺲ از آن ،ﺳﭙﺲ          danach / dann"
+    },
+    {
+      "german": "anschließend",
+      "persian": "ﻣﺘﻌﺎﻗﺒﺎ ً ،در اداﻣﻪ",
+      "sourceLine": "ﻣﺘﻌﺎﻗﺒﺎ ً ،در اداﻣﻪ   anschließend"
+    },
+    {
+      "german": "als Nächstes",
+      "persian": "ﺑﻪ ﻋﻨﻮان ﻗﺪم ﺑﻌﺪی",
+      "sourceLine": "ﺑﻪ ﻋﻨﻮان ﻗﺪم ﺑﻌﺪی        als Nächstes"
+    },
+    {
+      "german": "zum Schluss",
+      "persian": "در ﭘﺎﯾﺎن ،در ﻧﻬﺎﯾﺖ",
+      "sourceLine": "در ﭘﺎﯾﺎن ،در ﻧﻬﺎﯾﺖ   zum Schluss"
+    },
+    {
+      "german": ":۸۹اﯾﺪﻫﭙﺮدازی و ﭘﯿﺸﻨﻬﺎدﻫﺎی اﺻﻼﺣﯽ )(Das kann man besser machen",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۸۹اﯾﺪﻫﭙﺮدازی و ﭘﯿﺸﻨﻬﺎدﻫﺎی اﺻﻼﺣﯽ )(Das kann man besser machen"
+    },
+    {
+      "german": "die Personenbeförderung, -en",
+      "persian": "ﺟﺎﺑﺠﺎﯾﯽ و ﺣﻤﻠﻮﻧﻘﻞ ﻣﺴﺎﻓﺮان",
+      "sourceLine": "ﺟﺎﺑﺠﺎﯾﯽ و ﺣﻤﻠﻮﻧﻘﻞ ﻣﺴﺎﻓﺮان       die Personenbeförderung, -en"
+    },
+    {
+      "german": "die Steckerleiste, -n",
+      "persian": "ﭼﻨﺪراﻫﯽ ﺑﺮق",
+      "sourceLine": "ﭼﻨﺪراﻫﯽ ﺑﺮق     die Steckerleiste, -n"
+    },
+    {
+      "german": ")اﺳﻢ ﺟﻤﻊ( die Energiekosten",
+      "persian": "ﻫﺰﯾﻨﻬﻬﺎی اﻧﺮژی",
+      "sourceLine": "ﻫﺰﯾﻨﻬﻬﺎی اﻧﺮژی     )اﺳﻢ ﺟﻤﻊ( die Energiekosten"
+    },
+    {
+      "german": "die Erfindung, -en",
+      "persian": "اﺧﺘﺮاع",
+      "sourceLine": "اﺧﺘﺮاع   die Erfindung, -en"
+    },
+    {
+      "german": "die Grundlage, -n",
+      "persian": "ﭘﺎﯾﻪ ،اﺳﺎس ،ﺷﺎﻟﻮده",
+      "sourceLine": "ﭘﺎﯾﻪ ،اﺳﺎس ،ﺷﺎﻟﻮده     die Grundlage, -n"
+    },
+    {
+      "german": "das Ingenieurbüro, -s",
+      "persian": "دﻓﺘﺮ ﻣﻬﻨﺪﺳﯽ",
+      "sourceLine": "دﻓﺘﺮ ﻣﻬﻨﺪﺳﯽ      das Ingenieurbüro, -s"
+    },
+    {
+      "german": "das Arbeitsmittel, -",
+      "persian": "اﺑﺰار ﮐﺎر ،وﺳﺎﯾﻞ ﺗﻮﻟﯿﺪ و ﮐﺎر",
+      "sourceLine": "اﺑﺰار ﮐﺎر ،وﺳﺎﯾﻞ ﺗﻮﻟﯿﺪ و ﮐﺎر   das Arbeitsmittel, -"
+    },
+    {
+      "german": "die Arbeitsorganisation, -en",
+      "persian": "ﺳﺎزﻣﺎﻧﺪﻫﯽ و ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﮐﺎ ر",
+      "sourceLine": "ﺳﺎزﻣﺎﻧﺪﻫﯽ و ﺑﺮﻧﺎﻣﻬﺮﯾﺰی ﮐﺎ ر     die Arbeitsorganisation, -en"
+    },
+    {
+      "german": "die soziale Beziehung, -en",
+      "persian": "راﺑﻄﻪ اﺟﺘﻤﺎﻋﯽ و اﻧﺴﺎﻧﯽ )در ﻣﺤﯿﻂ ﮐﺎر(",
+      "sourceLine": "راﺑﻄﻪ اﺟﺘﻤﺎﻋﯽ و اﻧﺴﺎﻧﯽ )در ﻣﺤﯿﻂ ﮐﺎر(       die soziale Beziehung, -en"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( das Mobbing",
+      "persian": "آزار و اذﯾﺖ ﮐﻼﻣﯽ ﯾﺎ رواﻧﯽ ﺳﯿﺴﺘﻤﺎﺗﯿﮏ در ﻣﺤﻞ ﮐﺎر",
+      "sourceLine": "آزار و اذﯾﺖ ﮐﻼﻣﯽ ﯾﺎ رواﻧﯽ ﺳﯿﺴﺘﻤﺎﺗﯿﮏ در ﻣﺤﻞ ﮐﺎر       )ﺑﺪون ﺟﻤﻊ( das Mobbing"
+    },
+    {
+      "german": "der Meister, -",
+      "persian": "اﺳﺘﺎدﮐﺎر ،ﺳﺮﭘﺮﺳﺖ ﻓﻨﯽ",
+      "sourceLine": "اﺳﺘﺎدﮐﺎر ،ﺳﺮﭘﺮﺳﺖ ﻓﻨﯽ        der Meister, -"
+    },
+    {
+      "german": "die lange Schlange, -n",
+      "persian": "ﺻﻒ ﻃﻮﻻﻧﯽ ) lange Schlangen am Kopiererﯾﻌﻨﯽ ﺻﻒ ﻃﻮﻻﻧﯽ ﺟﻠﻮی دﺳﺘﮕﺎه ﮐﭙﯽ(",
+      "sourceLine": "ﺻﻒ ﻃﻮﻻﻧﯽ ) lange Schlangen am Kopiererﯾﻌﻨﯽ ﺻﻒ ﻃﻮﻻﻧﯽ ﺟﻠﻮی دﺳﺘﮕﺎه ﮐﭙﯽ(                 die lange Schlange, -n"
+    },
+    {
+      "german": "der Kopierer, -",
+      "persian": "دﺳﺘﮕﺎه ﻓﺘﻮﮐﭙﯽ",
+      "sourceLine": "دﺳﺘﮕﺎه ﻓﺘﻮﮐﭙﯽ     der Kopierer, -"
+    },
+    {
+      "german": "der Druckauftrag, ¨e",
+      "persian": "ﺳﻔﺎرش ﭼﺎپ ،دﺳﺘﻮر ﭘﺮﯾﻨﺖ",
+      "sourceLine": "ﺳﻔﺎرش ﭼﺎپ ،دﺳﺘﻮر ﭘﺮﯾﻨﺖ         der Druckauftrag, ¨e"
+    },
+    {
+      "german": "die hauseigene Druckerei, -en",
+      "persian": "ﭼﺎﭘﺨﺎﻧﻪ اﺧﺘﺼﺎﺻﯽ و داﺧﻠﯽ ﺧﻮد ِ ﺷﺮﮐﺖ",
+      "sourceLine": "ﭼﺎﭘﺨﺎﻧﻪ اﺧﺘﺼﺎﺻﯽ و داﺧﻠﯽ ﺧﻮد ِ ﺷﺮﮐﺖ        die hauseigene Druckerei, -en"
+    },
+    {
+      "german": "der Sachbearbeiter, - / die",
+      "persian": "ﮐﺎرﺷﻨﺎس اداری ،ﻣﺴﺌﻮل اﻣﻮر اﺟﺮاﯾﯽ ،ﻣﺘﺼﺪی ﭘﺮوﻧﺪه",
+      "sourceLine": "ﮐﺎرﺷﻨﺎس اداری ،ﻣﺴﺌﻮل اﻣﻮر اﺟﺮاﯾﯽ ،ﻣﺘﺼﺪی ﭘﺮوﻧﺪه         der Sachbearbeiter, - / die"
+    },
+    {
+      "german": "der Arbeitsbereich, -e",
+      "persian": "ﺣﻮزه ﮐﺎری ،ﺑﺨﺶ ﻓﻌﺎﻟﯿﺖ ﺷﻐﻠﯽ",
+      "sourceLine": "ﺣﻮزه ﮐﺎری ،ﺑﺨﺶ ﻓﻌﺎﻟﯿﺖ ﺷﻐﻠﯽ         der Arbeitsbereich, -e"
+    },
+    {
+      "german": ")senken (+ Akkusativ",
+      "persian": "ﮐﺎﻫﺶ دادن ،ﭘﺎﯾﯿﻦ آوردن )ﻫﺰﯾﻨﻬﻬﺎ(",
+      "sourceLine": "ﮐﺎﻫﺶ دادن ،ﭘﺎﯾﯿﻦ آوردن )ﻫﺰﯾﻨﻬﻬﺎ(     )senken (+ Akkusativ"
+    },
+    {
+      "german": ")ﺑﯿﻘﺎﻋﺪه helfen (+ Dativ /",
+      "persian": "ﮐﻤﮏ ﮐﺮدن ﺑﻪ ﮐﺴﯽ ﯾﺎ ﭼﯿﺰی",
+      "sourceLine": "ﮐﻤﮏ ﮐﺮدن ﺑﻪ ﮐﺴﯽ ﯾﺎ ﭼﯿﺰی        )ﺑﯿﻘﺎﻋﺪه helfen (+ Dativ /"
+    },
+    {
+      "german": ")stören (+ Akkusativ",
+      "persian": "ﻣﺰاﺣﻢ ﺷﺪن ،آزار دادن ،ﻣﺨﻞ ﺷﺪ",
+      "sourceLine": "ﻣﺰاﺣﻢ ﺷﺪن ،آزار دادن ،ﻣﺨﻞ ﺷﺪ          )stören (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ vorschlagen (+ Akkusativ /",
+      "persian": "ﭘﯿﺸﻨﻬﺎد دادن",
+      "sourceLine": "ﭘﯿﺸﻨﻬﺎد دادن    )ﺟﺪاﺷﺪﻧﯽ vorschlagen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ hinweisen auf (+ Akkusativ /",
+      "persian": "اﺷﺎره ﮐﺮدن ﺑﻪ ﭼﯿﺰی ،ﻣﺘﺬﮐﺮ ﺷﺪن ﻣﺸﮑﻠﯽ",
+      "sourceLine": "اﺷﺎره ﮐﺮدن ﺑﻪ ﭼﯿﺰی ،ﻣﺘﺬﮐﺮ ﺷﺪن ﻣﺸﮑﻠﯽ          )ﺟﺪاﺷﺪﻧﯽ hinweisen auf (+ Akkusativ /"
+    },
+    {
+      "german": ")ändern / verändern (+ Akkusativ",
+      "persian": "ﺗﻐﯿﯿﺮ دادن ،اﺻﻼح ﮐﺮدن",
+      "sourceLine": "ﺗﻐﯿﯿﺮ دادن ،اﺻﻼح ﮐﺮدن      )ändern / verändern (+ Akkusativ"
+    },
+    {
+      "german": ")verbessern (+ Akkusativ",
+      "persian": "ﺑﻬﺒﻮد ﺑﺨﺸﯿﺪن ،ﺑﻬﺘﺮ ﮐﺮدن",
+      "sourceLine": "ﺑﻬﺒﻮد ﺑﺨﺸﯿﺪن ،ﺑﻬﺘﺮ ﮐﺮدن      )verbessern (+ Akkusativ"
+    },
+    {
+      "german": "bahnbrechend",
+      "persian": "ﺧﻼﻗﺎﻧﻪ ،ﭘﯿﺸﮕﺎﻣﺎﻧﻪ ،اﻧﻘﻼﺑﯽ )ﺑﺮای اﺧﺘﺮاﻋﺎت(",
+      "sourceLine": "ﺧﻼﻗﺎﻧﻪ ،ﭘﯿﺸﮕﺎﻣﺎﻧﻪ ،اﻧﻘﻼﺑﯽ )ﺑﺮای اﺧﺘﺮاﻋﺎت(     bahnbrechend"
+    },
+    {
+      "german": "wachsend",
+      "persian": "در ﺣﺎل رﺷﺪ ،رو ﺑﻪ ﺗﻮﺳﻌﻪ",
+      "sourceLine": "در ﺣﺎل رﺷﺪ ،رو ﺑﻪ ﺗﻮﺳﻌﻪ      wachsend"
+    },
+    {
+      "german": "heutig",
+      "persian": "اﻣﺮوزی ،ﻓﻌﻠﯽ ) der heutige Informationsflussﯾﻌﻨﯽ ﺟﺮﯾﺎن اﻃﻼﻋﺎﺗﯽ اﻣﺮوزی (",
+      "sourceLine": "اﻣﺮوزی ،ﻓﻌﻠﯽ ) der heutige Informationsflussﯾﻌﻨﯽ ﺟﺮﯾﺎن اﻃﻼﻋﺎﺗﯽ اﻣﺮوزی (         heutig"
+    },
+    {
+      "german": "intern",
+      "persian": "داﺧﻠﯽ )دروﻧﺴﺎزﻣﺎﻧﯽ(",
+      "sourceLine": "داﺧﻠﯽ )دروﻧﺴﺎزﻣﺎﻧﯽ(      intern"
+    },
+    {
+      "german": "ausgerechnet",
+      "persian": "دﻗﯿﻘﺎ ً ،از ﺷﺎﻧﺲ ﺑﺪ )ﻗﯿﺪ ﺑﯿﺎن ﺗﻌﺠﺐ ﯾﺎ ﺷﮑﺎﯾﺖ(",
+      "sourceLine": "دﻗﯿﻘﺎ ً ،از ﺷﺎﻧﺲ ﺑﺪ )ﻗﯿﺪ ﺑﯿﺎن ﺗﻌﺠﺐ ﯾﺎ ﺷﮑﺎﯾﺖ(    ausgerechnet"
+    },
+    {
+      "german": "hauseigen",
+      "persian": "اﺧﺘﺼﺎﺻ ِ",
+      "sourceLine": "اﺧﺘﺼﺎﺻ ِ     hauseigen"
+    },
+    {
+      "german": ":۹۰آﯾﻨﺪه اﺻﻨﺎف و ﮐﺎرﻫﺎی ﻓﻨﯽ )(Die Zukunft des Handwerks",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۹۰آﯾﻨﺪه اﺻﻨﺎف و ﮐﺎرﻫﺎی ﻓﻨﯽ )(Die Zukunft des Handwerks"
+    },
+    {
+      "german": "die Herausforderung, -en",
+      "persian": "ﭼﺎﻟﺶ",
+      "sourceLine": "ﭼﺎﻟﺶ     die Herausforderung, -en"
+    },
+    {
+      "german": "die Chance, -n",
+      "persian": "ﺷﺎﻧﺲ ،ﻓﺮﺻﺖ ،ﻣﻮﻗﻌﯿﺖ",
+      "sourceLine": "ﺷﺎﻧﺲ ،ﻓﺮﺻﺖ ،ﻣﻮﻗﻌﯿﺖ          die Chance, -n"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( der Nachwuchs",
+      "persian": "ﻧﺴﻞ ﺟﺪﯾﺪ ،ﻧﯿﺮوﻫﺎی ﺟﻮان ﺟﺎﯾﮕﺰﯾﻦ",
+      "sourceLine": "ﻧﺴﻞ ﺟﺪﯾﺪ ،ﻧﯿﺮوﻫﺎی ﺟﻮان ﺟﺎﯾﮕﺰﯾﻦ       )ﺑﺪون ﺟﻤﻊ( der Nachwuchs"
+    },
+    {
+      "german": "das Nachwuchsproblem, -e",
+      "persian": "ﻣﺸﮑﻞ ﮐﻤﺒﻮد ﻧﯿﺮوی ﺟﻮان ﺟﺎﯾﮕﺰﯾﻦ",
+      "sourceLine": "ﻣﺸﮑﻞ ﮐﻤﺒﻮد ﻧﯿﺮوی ﺟﻮان ﺟﺎﯾﮕﺰﯾﻦ         das Nachwuchsproblem, -e"
+    },
+    {
+      "german": "der Schulabgänger, -",
+      "persian": "ﻓﺎرﻏﺎﻟﺘﺤﺼﯿﻞ ﻣﺪرﺳﻪ",
+      "sourceLine": "ﻓﺎرﻏﺎﻟﺘﺤﺼﯿﻞ ﻣﺪرﺳﻪ       der Schulabgänger, -"
+    },
+    {
+      "german": "die Werbekampagne, -n",
+      "persian": "ﮐﻤﭙﯿﻦ ﺗﺒﻠﯿﻐﺎﺗﯽ",
+      "sourceLine": "ﮐﻤﭙﯿﻦ ﺗﺒﻠﯿﻐﺎﺗﯽ   die Werbekampagne, -n"
+    },
+    {
+      "german": "der Geflüchtete, -n",
+      "persian": "ﭘﻨﺎﻫﺠﻮ ،ﭘﻨﺎﻫﻨﺪه",
+      "sourceLine": "ﭘﻨﺎﻫﺠﻮ ،ﭘﻨﺎﻫﻨﺪه   der Geflüchtete, -n"
+    },
+    {
+      "german": "die Anerkennung, -en",
+      "persian": "ﺗﺄﯾﯿﺪﯾﻪ رﺳﻤﯽ ،ﺑﻪ رﺳﻤﯿﺖ ﺷﻨﺎﺧﺘﻦ )ﻣﺪارک ﺗﺤﺼﯿﻠﯽ(",
+      "sourceLine": "ﺗﺄﯾﯿﺪﯾﻪ رﺳﻤﯽ ،ﺑﻪ رﺳﻤﯿﺖ ﺷﻨﺎﺧﺘﻦ )ﻣﺪارک ﺗﺤﺼﯿﻠﯽ(           die Anerkennung, -en"
+    },
+    {
+      "german": "der Abschluss, ¨e",
+      "persian": "ﻣﺪرک ﺗﺤﺼﯿﻠﯽ ﯾﺎ ﻓﺎرﻏﺎﻟﺘﺤﺼﯿﻠﯽ",
+      "sourceLine": "ﻣﺪرک ﺗﺤﺼﯿﻠﯽ ﯾﺎ ﻓﺎرﻏﺎﻟﺘﺤﺼﯿﻠﯽ         der Abschluss, ¨e"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( die Mobilität",
+      "persian": "ﺗﺤﺮک ،ﺗﻮاﻧﺎﯾﯽ ﺣﺮﮐﺖ",
+      "sourceLine": "ﺗﺤﺮک ،ﺗﻮاﻧﺎﯾﯽ ﺣﺮﮐﺖ       )ﺑﺪون ﺟﻤﻊ( die Mobilität"
+    },
+    {
+      "german": "der Treppenlift, -e",
+      "persian": "ﺻﻨﺪﻟﯽ ﭘﻠﻬﺮو ،آﺳﺎﻧﺴﻮر ﭘﻠﻪ",
+      "sourceLine": "ﺻﻨﺪﻟﯽ ﭘﻠﻬﺮو ،آﺳﺎﻧﺴﻮر ﭘﻠﻪ       der Treppenlift, -e"
+    },
+    {
+      "german": "der Haltegriff, -e",
+      "persian": "دﺳﺘﮕﯿﺮه ﺣﻔﺎﻇﺘﯽ )اﺗﮑﺎﯾﯽ در ﺣﻤﺎم(",
+      "sourceLine": "دﺳﺘﮕﯿﺮه ﺣﻔﺎﻇﺘﯽ )اﺗﮑﺎﯾﯽ در ﺣﻤﺎم(        der Haltegriff, -e"
+    },
+    {
+      "german": "der Installateur, -e",
+      "persian": "ﻟﻮﻟﻬﮑﺶ ،ﻧﺼﺎب ﺗﺎﺳﯿﺴﺎت",
+      "sourceLine": "ﻟﻮﻟﻬﮑﺶ ،ﻧﺼﺎب ﺗﺎﺳﯿﺴﺎت          der Installateur, -e"
+    },
+    {
+      "german": "der Spruch, ¨e",
+      "persian": "ﺿﺮﺑﺎﻟﻤﺜﻞ ،ﺳﺨﻦ ،ﮐﻼم",
+      "sourceLine": "ﺿﺮﺑﺎﻟﻤﺜﻞ ،ﺳﺨﻦ ،ﮐﻼم        der Spruch, ¨e"
+    },
+    {
+      "german": "/ +ﺑﺮای ﺷﺨﺺ überzeugen von (+ Akkusativ",
+      "persian": "ﻗﺎﻧﻊ ﮐﺮدن ﮐﺴﯽ درﺑﺎره ﭼﯿﺰی",
+      "sourceLine": "ﻗﺎﻧﻊ ﮐﺮدن ﮐﺴﯽ درﺑﺎره ﭼﯿﺰی         / +ﺑﺮای ﺷﺨﺺ überzeugen von (+ Akkusativ"
+    },
+    {
+      "german": "/ + Akkusativﺑﻪ ﮐﺴﯽ ermöglichen (+ Dativ",
+      "persian": "اﻣﮑﺎﻧﭙﺬﯾﺮ ﺳﺎﺧﺘﻦ ،ﻓﺮاﻫﻢ ﮐﺮدن ﺷﺮاﯾﻂ",
+      "sourceLine": "اﻣﮑﺎﻧﭙﺬﯾﺮ ﺳﺎﺧﺘﻦ ،ﻓﺮاﻫﻢ ﮐﺮدن ﺷﺮاﯾﻂ          / + Akkusativﺑﻪ ﮐﺴﯽ ermöglichen (+ Dativ"
+    },
+    {
+      "german": ")erleichtern (+ Akkusativ",
+      "persian": "آﺳﺎن ﮐﺮدن ،ﺗﺴﻬﯿﻞ ﻧﻤﻮدن",
+      "sourceLine": "آﺳﺎن ﮐﺮدن ،ﺗﺴﻬﯿﻞ ﻧﻤﻮدن         )erleichtern (+ Akkusativ"
+    },
+    {
+      "german": ")sanieren (+ Akkusativ",
+      "persian": "ﺑﺎزﺳﺎزی ﻓﻨﯽ و ﻧﻮﺳﺎزی اﺳﺎﺳﯽ ﺳﺎﺧﺘﺎر ﯾﮏ ﺳﺎﺧﺘﻤﺎن",
+      "sourceLine": "ﺑﺎزﺳﺎزی ﻓﻨﯽ و ﻧﻮﺳﺎزی اﺳﺎﺳﯽ ﺳﺎﺧﺘﺎر ﯾﮏ ﺳﺎﺧﺘﻤﺎن            )sanieren (+ Akkusativ"
+    },
+    {
+      "german": ")widerstehen (+ Dativ",
+      "persian": "ﻣﻘﺎوﻣﺖ ﮐﺮدن در ﺑﺮاﺑﺮ ﭼﯿﺰی ،ﭘﺎﯾﺪاری ﮐﺮدن",
+      "sourceLine": "ﻣﻘﺎوﻣﺖ ﮐﺮدن در ﺑﺮاﺑﺮ ﭼﯿﺰی ،ﭘﺎﯾﺪاری ﮐﺮدن         )widerstehen (+ Dativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ umgehen mit (+ Dativ /",
+      "persian": "رﻓﺘﺎر ﮐﺮدن ﺑﺎ ﮐﺴﯽ ،ﮐﺎر ﮐﺮدن و ﮐﻨﺎر آﻣﺪن ﺑﺎ اﺑﺰار ﯾﺎ ﻣﺸﺘﺮ",
+      "sourceLine": "رﻓﺘﺎر ﮐﺮدن ﺑﺎ ﮐﺴﯽ ،ﮐﺎر ﮐﺮدن و ﮐﻨﺎر آﻣﺪن ﺑﺎ اﺑﺰار ﯾﺎ ﻣﺸﺘﺮ       )ﺟﺪاﺷﺪﻧﯽ umgehen mit (+ Dativ /"
+    },
+    {
+      "german": ")sich umgeben mit (+ Dativ",
+      "persian": "ﺧﻮد را ﺑﺎ ﭼﯿﺰی ﯾﺎ ﮐﺴﯽ اﺣﺎﻃﻪ ﮐﺮدن",
+      "sourceLine": "ﺧﻮد را ﺑﺎ ﭼﯿﺰی ﯾﺎ ﮐﺴﯽ اﺣﺎﻃﻪ ﮐﺮدن        )sich umgeben mit (+ Dativ"
+    },
+    {
+      "german": ")wiederholen (+ Akkusativ",
+      "persian": "ﺗﮑﺮار ﮐﺮدن",
+      "sourceLine": "ﺗﮑﺮار ﮐﺮدن     )wiederholen (+ Akkusativ"
+    },
+    {
+      "german": "klimafreundlich",
+      "persian": "ﺳﺎزﮔﺎر ﺑﺎ اﻗﻠﯿﻢ ،دوﺳﺘﺪار آﺑﻮﻫﻮا",
+      "sourceLine": "ﺳﺎزﮔﺎر ﺑﺎ اﻗﻠﯿﻢ ،دوﺳﺘﺪار آﺑﻮﻫﻮا    klimafreundlich"
+    },
+    {
+      "german": "nachhaltig",
+      "persian": "ﭘﺎﯾﺪار ،ﺳﺎزﮔﺎر ﺑﺎ ﻣﺤﯿﻂ زﯾﺴﺖ",
+      "sourceLine": "ﭘﺎﯾﺪار ،ﺳﺎزﮔﺎر ﺑﺎ ﻣﺤﯿﻂ زﯾﺴﺖ       nachhaltig"
+    },
+    {
+      "german": "kaufkräftig",
+      "persian": "دارای ﻗﺪرت ﺧﺮﯾﺪ ﺑﺎﻻ ،ﭘﻮﻟﺪار",
+      "sourceLine": "دارای ﻗﺪرت ﺧﺮﯾﺪ ﺑﺎﻻ ،ﭘﻮﻟﺪار      kaufkräftig"
+    },
+    {
+      "german": "eingeschränkt",
+      "persian": "ﻣﺤﺪود ،دارای ﻣﺤﺪودﯾﺖ )ﺣﺮﮐﺘﯽ(",
+      "sourceLine": "ﻣﺤﺪود ،دارای ﻣﺤﺪودﯾﺖ )ﺣﺮﮐﺘﯽ(         eingeschränkt"
+    },
+    {
+      "german": "begehbar",
+      "persian": "ﻗﺎﺑﻞ ﻗﺪم ﮔﺬاﺷﺘﻦ ،ﺑﺪون ﭘﻠﻪ و ﻫﻤﺴﻄﺢ )ﻣﺜﻼ ً دوش ﺣﻤﺎم ﻫﻤﺴﻄﺢ زﻣﯿﻦ(",
+      "sourceLine": "ﻗﺎﺑﻞ ﻗﺪم ﮔﺬاﺷﺘﻦ ،ﺑﺪون ﭘﻠﻪ و ﻫﻤﺴﻄﺢ )ﻣﺜﻼ ً دوش ﺣﻤﺎم ﻫﻤﺴﻄﺢ زﻣﯿﻦ(           begehbar"
+    },
+    {
+      "german": "unpraktisch",
+      "persian": "ﻏﯿﺮﮐﺎرﺑﺮدی ،ﻧﺎﻣﻨﺎﺳﺐ",
+      "sourceLine": "ﻏﯿﺮﮐﺎرﺑﺮدی ،ﻧﺎﻣﻨﺎﺳﺐ       unpraktisch"
+    },
+    {
+      "german": "mittlerweile",
+      "persian": "در اﯾﻦ ﻣﯿﺎن ،اﮐﻨﻮن دﯾﮕﺮ",
+      "sourceLine": "در اﯾﻦ ﻣﯿﺎن ،اﮐﻨﻮن دﯾﮕﺮ     mittlerweile"
+    },
+    {
+      "german": "befriedigend",
+      "persian": "رﺿﺎﯾﺘﺒﺨﺶ",
+      "sourceLine": "رﺿﺎﯾﺘﺒﺨﺶ      befriedigend"
+    },
+    {
+      "german": ":۹۱اﻓﻌﺎل ﭘﯿﺸﻮﻧﺪی ﻣﺘﻐﯿﺮ )(Trennbare & untrennbare Präfixe",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۹۱اﻓﻌﺎل ﭘﯿﺸﻮﻧﺪی ﻣﺘﻐﯿﺮ )(Trennbare & untrennbare Präfixe"
+    },
+    {
+      "german": "das Präfix, -e",
+      "persian": "ﭘﯿﺸﻮﻧﺪ",
+      "sourceLine": "ﭘﯿﺸﻮﻧﺪ    das Präfix, -e"
+    },
+    {
+      "german": "die Betonung, -en",
+      "persian": "آﮐﺴﺎن ،ﺗﮑﯿﻪ ﺻﺪا ،اﺳﺘﺮس روی ﮐﻠﻤﻪ",
+      "sourceLine": "آﮐﺴﺎن ،ﺗﮑﯿﻪ ﺻﺪا ،اﺳﺘﺮس روی ﮐﻠﻤﻪ          die Betonung, -en"
+    },
+    {
+      "german": "der Verbstamm, ¨e",
+      "persian": "رﯾﺸﻪ ﻓﻌﻞ",
+      "sourceLine": "رﯾﺸﻪ ﻓﻌﻞ      der Verbstamm, ¨e"
+    },
+    {
+      "german": "der Ausbilder, - / die Ausbilderin, -nen",
+      "persian": "ﻣﺮﺑﯽ دوره ﮐﺎرآﻣﻮزی ،اﺳﺘﺎدﮐﺎر ﻣﺴﺌﻮل آﻣﻮزش",
+      "sourceLine": "ﻣﺮﺑﯽ دوره ﮐﺎرآﻣﻮزی ،اﺳﺘﺎدﮐﺎر ﻣﺴﺌﻮل آﻣﻮزش           der Ausbilder, - / die Ausbilderin, -nen"
+    },
+    {
+      "german": "die Arbeitsanweisung, -en",
+      "persian": "دﺳﺘﻮراﻟﻌﻤﻞ ﮐﺎری ،اﺑﻼﻏﯿﻪ وﻇﺎﯾﻒ ﺷﻐﻠﯽ",
+      "sourceLine": "دﺳﺘﻮراﻟﻌﻤﻞ ﮐﺎری ،اﺑﻼﻏﯿﻪ وﻇﺎﯾﻒ ﺷﻐﻠﯽ          die Arbeitsanweisung, -en"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( der Einbau",
+      "persian": "ﻧﺼﺐ ،ﺗﻌﺒﯿﻪ ﮐﺮدن ،ﺟﺎﺳﺎزی درون ﺳﺎزﻫﺎی",
+      "sourceLine": "ﻧﺼﺐ ،ﺗﻌﺒﯿﻪ ﮐﺮدن ،ﺟﺎﺳﺎزی درون ﺳﺎزﻫﺎی           )ﺑﺪون ﺟﻤﻊ( der Einbau"
+    },
+    {
+      "german": "die Pantomime, -n",
+      "persian": "ﭘﺎﻧﺘﻮﻣﯿﻢ ،ﻧﻤﺎﯾﺶ ﺑﯿﮑﻼ",
+      "sourceLine": "ﭘﺎﻧﺘﻮﻣﯿﻢ ،ﻧﻤﺎﯾﺶ ﺑﯿﮑﻼ      die Pantomime, -n"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ( durch|führen",
+      "persian": "اﺟﺮا ﮐﺮدن ،اﻧﺠﺎم دادن",
+      "sourceLine": "اﺟﺮا ﮐﺮدن ،اﻧﺠﺎم دادن     )ﺟﺪاﺷﺪﻧﯽ( durch|führen"
+    },
+    {
+      "german": ")ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( durchlaufen",
+      "persian": "ﺳﭙﺮی ﮐﺮدن ،ﭘﺸﺖ ﺳﺮ ﮔﺬاﺷﺘﻦ )دوره ﯾﺎ ﻣﺮﺣﻠﻪ(",
+      "sourceLine": "ﺳﭙﺮی ﮐﺮدن ،ﭘﺸﺖ ﺳﺮ ﮔﺬاﺷﺘﻦ )دوره ﯾﺎ ﻣﺮﺣﻠﻪ(            )ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( durchlaufen"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ( über|kochen",
+      "persian": "ﺳﺮ رﻓﺘﻦ )ﻣﺎﯾﻌﺎت روی ﮔﺎز(",
+      "sourceLine": "ﺳﺮ رﻓﺘﻦ )ﻣﺎﯾﻌﺎت روی ﮔﺎز(        )ﺟﺪاﺷﺪﻧﯽ( über|kochen"
+    },
+    {
+      "german": ")ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( überlegen",
+      "persian": "ﻓﮑﺮ ﮐﺮدن ،ﺳﻨﺠﯿﺪن و ﺑﺮرﺳﯽ ﮐﺮدن",
+      "sourceLine": "ﻓﮑﺮ ﮐﺮدن ،ﺳﻨﺠﯿﺪن و ﺑﺮرﺳﯽ ﮐﺮدن           )ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( überlegen"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ( um|ziehen",
+      "persian": "اﺳﺒﺎﺑﮑﺸﯽ ﮐﺮدن ،ﺗﻐﯿﯿﺮ ﻟﺒﺎس دادن",
+      "sourceLine": "اﺳﺒﺎﺑﮑﺸﯽ ﮐﺮدن ،ﺗﻐﯿﯿﺮ ﻟﺒﺎس دادن        )ﺟﺪاﺷﺪﻧﯽ( um|ziehen"
+    },
+    {
+      "german": ")ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( umarmen",
+      "persian": "در آﻏﻮش ﮔﺮﻓﺘﻦ ،ﺑﻐﻞ ﮐﺮدن",
+      "sourceLine": "در آﻏﻮش ﮔﺮﻓﺘﻦ ،ﺑﻐﻞ ﮐﺮدن         )ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( umarmen"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ( unter|bringen",
+      "persian": "اﺳﮑﺎن دادن ،ﺟﺎ دادن",
+      "sourceLine": "اﺳﮑﺎن دادن ،ﺟﺎ دادن      )ﺟﺪاﺷﺪﻧﯽ( unter|bringen"
+    },
+    {
+      "german": ")ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( unterschreiben",
+      "persian": "اﻣﻀﺎ ﮐﺮدن",
+      "sourceLine": "اﻣﻀﺎ ﮐﺮدن      )ﻏﯿﺮﻗﺎﺑﻠﺠﺪاﺷﺪﻧﯽ( unterschreiben"
+    },
+    {
+      "german": "widersprechen (+ Dativ /",
+      "persian": "ﻣﺨﺎﻟﻔﺖ ﮐﺮدن ،ﺿﺪ و ﻧﻘﯿﺾ ﮔﻔﺘﻦ",
+      "sourceLine": "ﻣﺨﺎﻟﻔﺖ ﮐﺮدن ،ﺿﺪ و ﻧﻘﯿﺾ ﮔﻔﺘﻦ           widersprechen (+ Dativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ( wieder|kommen",
+      "persian": "ﺑﺎزﮔﺸﺘﻦ ،دوﺑﺎره آﻣﺪن",
+      "sourceLine": "ﺑﺎزﮔﺸﺘﻦ ،دوﺑﺎره آﻣﺪن       )ﺟﺪاﺷﺪﻧﯽ( wieder|kommen"
+    },
+    {
+      "german": "angesehen",
+      "persian": "ﻣﺤﺘﺮم ،ﺑﺎﭘﺮﺳﺘﯿﮋ ،دارای ﻧﺎم ﻧﯿﮏ و اﻋﺘﺒﺎر",
+      "sourceLine": "ﻣﺤﺘﺮم ،ﺑﺎﭘﺮﺳﺘﯿﮋ ،دارای ﻧﺎم ﻧﯿﮏ و اﻋﺘﺒﺎر     angesehen"
+    },
+    {
+      "german": "ausländisch",
+      "persian": "ﺧﺎرﺟﯽ ،ﻣﺮﺑﻮط ﺑﻪ ﮐﺸﻮرﻫﺎی دﯾﮕﺮ",
+      "sourceLine": "ﺧﺎرﺟﯽ ،ﻣﺮﺑﻮط ﺑﻪ ﮐﺸﻮرﻫﺎی دﯾﮕﺮ           ausländisch"
+    },
+    {
+      "german": "lang",
+      "persian": "ﻃﻮﻻﻧﯽ ،ﺑﻠﻨﺪ",
+      "sourceLine": "ﻃﻮﻻﻧﯽ ،ﺑﻠﻨﺪ      lang"
+    },
+    {
+      "german": "wieder",
+      "persian": "دوﺑﺎره ،ﻣﺠﺪدا ً",
+      "sourceLine": "دوﺑﺎره ،ﻣﺠﺪدا ً   wieder"
+    },
+    {
+      "german": ":۹۲ﮐﻠﻤﺎت ﺗﺮﮐﯿﺒﯽ و ﺳﺎﺧﺘﺎر ﮐﺎرﺑﺮدی )(Übungen & Lassen",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۹۲ﮐﻠﻤﺎت ﺗﺮﮐﯿﺒﯽ و ﺳﺎﺧﺘﺎر ﮐﺎرﺑﺮدی )(Übungen & Lassen"
+    },
+    {
+      "german": "die Küchenmaschine, -n",
+      "persian": "ﻣﺎﺷﯿﻦ آﺷﭙﺰﺧﺎﻧﻪ ،ﻏﺬاﺳﺎز",
+      "sourceLine": "ﻣﺎﺷﯿﻦ آﺷﭙﺰﺧﺎﻧﻪ ،ﻏﺬاﺳﺎز        die Küchenmaschine, -n"
+    },
+    {
+      "german": "die Bohrmaschine, -n",
+      "persian": "دﺳﺘﮕﺎه درﯾﻞ",
+      "sourceLine": "دﺳﺘﮕﺎه درﯾﻞ      die Bohrmaschine, -n"
+    },
+    {
+      "german": "das Gartenmesser, -",
+      "persian": "ﭼﺎﻗﻮی ﺑﺎﻏﺒﺎﻧﯽ",
+      "sourceLine": "ﭼﺎﻗﻮی ﺑﺎﻏﺒﺎﻧﯽ      das Gartenmesser, -"
+    },
+    {
+      "german": "die Gartenschere, -n",
+      "persian": "ﻗﯿﭽﯽ ﺑﺎﻏﺒﺎﻧﯽ",
+      "sourceLine": "ﻗﯿﭽﯽ ﺑﺎﻏﺒﺎﻧﯽ      die Gartenschere, -n"
+    },
+    {
+      "german": "die Nähschere, -n",
+      "persian": "ﻗﯿﭽﯽ ﺧﯿﺎﻃﯽ",
+      "sourceLine": "ﻗﯿﭽﯽ ﺧﯿﺎﻃﯽ        die Nähschere, -n"
+    },
+    {
+      "german": "die Nähmaschine, -n",
+      "persian": "ﭼﺮخ ﺧﯿﺎﻃﯽ",
+      "sourceLine": "ﭼﺮخ ﺧﯿﺎﻃﯽ        die Nähmaschine, -n"
+    },
+    {
+      "german": "das Brotmesser, -",
+      "persian": "ﭼﺎﻗﻮی ﻧﺎن",
+      "sourceLine": "ﭼﺎﻗﻮی ﻧﺎن      das Brotmesser, -"
+    },
+    {
+      "german": "das Geschenkpapier, -e",
+      "persian": "ﮐﺎﻏﺬ ﮐﺎدو",
+      "sourceLine": "ﮐﺎﻏﺬ ﮐﺎدو    das Geschenkpapier, -e"
+    },
+    {
+      "german": "¨ der Teppichboden,",
+      "persian": "ﻣﻮﮐﺖ ﮐﻒ ،ﻓﺮش ﺳﺮاﺳﺮی اﺗﺎق",
+      "sourceLine": "ﻣﻮﮐﺖ ﮐﻒ ،ﻓﺮش ﺳﺮاﺳﺮی اﺗﺎق             ¨ der Teppichboden,"
+    },
+    {
+      "german": ")اﺳﻢ ﺟﻤﻊ( die Gummihandschuhe",
+      "persian": "دﺳﺘﮑﺸﻬﺎی ﻻﺳﺘﯿﮑﯽ و ﭘﻼﺳﺘﯿﮑﯽ",
+      "sourceLine": "دﺳﺘﮑﺸﻬﺎی ﻻﺳﺘﯿﮑﯽ و ﭘﻼﺳﺘﯿﮑﯽ            )اﺳﻢ ﺟﻤﻊ( die Gummihandschuhe"
+    },
+    {
+      "german": "das Packpapier, -e",
+      "persian": "ﮐﺎﻏﺬ ﺑﺴﺘﻬﺒﻨﺪی",
+      "sourceLine": "ﮐﺎﻏﺬ ﺑﺴﺘﻬﺒﻨﺪی      das Packpapier, -e"
+    },
+    {
+      "german": "die Nadel, -n",
+      "persian": "ﺳﻮزن",
+      "sourceLine": "ﺳﻮزن      die Nadel, -n"
+    },
+    {
+      "german": "¨ der Faden,",
+      "persian": "ﻧﺦ",
+      "sourceLine": "ﻧﺦ   ¨ der Faden,"
+    },
+    {
+      "german": "der Stoff, -e",
+      "persian": "ﭘﺎرﭼﻪ",
+      "sourceLine": "ﭘﺎرﭼﻪ    der Stoff, -e"
+    },
+    {
+      "german": "das Maßband, ¨er",
+      "persian": "ﻣﺘﺮ ﺧﯿﺎﻃﯽ ﯾﺎ ﻣﻬﻨﺪﺳﯽ",
+      "sourceLine": "ﻣﺘﺮ ﺧﯿﺎﻃﯽ ﯾﺎ ﻣﻬﻨﺪﺳﯽ        das Maßband, ¨er"
+    },
+    {
+      "german": "das Teppichmesser, -",
+      "persian": "ﮐﺎﺗﺮ ،ﭼﺎﻗﻮی ﻣﻮﮐﺘﺒﺮی",
+      "sourceLine": "ﮐﺎﺗﺮ ،ﭼﺎﻗﻮی ﻣﻮﮐﺘﺒﺮی       das Teppichmesser, -"
+    },
+    {
+      "german": "die Wasserwaage, -n",
+      "persian": "ﺗﺮاز ﺑﻨﺎﯾﯽ",
+      "sourceLine": "ﺗﺮاز ﺑﻨﺎﯾﯽ   die Wasserwaage, -n"
+    },
+    {
+      "german": "der Spachtel, -",
+      "persian": "ﮐﺎردک",
+      "sourceLine": "ﮐﺎردک     der Spachtel, -"
+    },
+    {
+      "german": "der Schraubenzieher, -",
+      "persian": "ﭘﯿﭽﮕﻮﺷﺘﯽ",
+      "sourceLine": "ﭘﯿﭽﮕﻮﺷﺘﯽ      der Schraubenzieher, -"
+    },
+    {
+      "german": "die Farbrolle, -n",
+      "persian": "ﻏﻠﺘﮏ رﻧﮓ",
+      "sourceLine": "ﻏﻠﺘﮏ رﻧﮓ      die Farbrolle, -n"
+    },
+    {
+      "german": "die Leiter, -n",
+      "persian": "ﻧﺮدﺑﺎن",
+      "sourceLine": "ﻧﺮدﺑﺎن    die Leiter, -n"
+    },
+    {
+      "german": "der Tapeziertisch, -e",
+      "persian": "ﻣﯿﺰ ﻣﺨﺼﻮص ﭼﺴﺒﺎﻧﺪن ﮐﺎﻏﺬ دﯾﻮاری",
+      "sourceLine": "ﻣﯿﺰ ﻣﺨﺼﻮص ﭼﺴﺒﺎﻧﺪن ﮐﺎﻏﺬ دﯾﻮاری           der Tapeziertisch, -e"
+    },
+    {
+      "german": "die Tapete, -n",
+      "persian": "ﮐﺎﻏﺬ دﯾﻮاری",
+      "sourceLine": "ﮐﺎﻏﺬ دﯾﻮاری     die Tapete, -n"
+    },
+    {
+      "german": "der Kleister, -",
+      "persian": "ﭼﺴﺐ ﮐﺎﻏﺬ دﯾﻮاری",
+      "sourceLine": "ﭼﺴﺐ ﮐﺎﻏﺬ دﯾﻮاری        der Kleister, -"
+    },
+    {
+      "german": ")besorgen (+ Akkusativ",
+      "persian": "ﺗﻬﯿﻪ ﮐﺮدن ،ﺧﺮﯾﺪن",
+      "sourceLine": "ﺗﻬﯿﻪ ﮐﺮدن ،ﺧﺮﯾﺪن       )besorgen (+ Akkusativ"
+    },
+    {
+      "german": "ﻓﻌﻞ اﺻﻠﯽ در آﺧﺮ ﺑﻪ ﺻﻮرت ﺳﺎده lassen (+ Akkusativ /",
+      "persian": "دادن ﮐﺎری ﺑﻪ ﮐﺴﯽ ﺗﺎ اﻧﺠﺎم دﻫﺪ )ﺳﺎﺧﺘﺎر ﻣﺠﻬﻮﻟﮕﻮﻧﻪ ﺷﺨﺼﯽ ﯾﺎ اﺟﺎزﻫﺪﻫﯽ(",
+      "sourceLine": "دادن ﮐﺎری ﺑﻪ ﮐﺴﯽ ﺗﺎ اﻧﺠﺎم دﻫﺪ )ﺳﺎﺧﺘﺎر ﻣﺠﻬﻮﻟﮕﻮﻧﻪ ﺷﺨﺼﯽ ﯾﺎ اﺟﺎزﻫﺪﻫﯽ(         ﻓﻌﻞ اﺻﻠﯽ در آﺧﺮ ﺑﻪ ﺻﻮرت ﺳﺎده lassen (+ Akkusativ /"
+    },
+    {
+      "german": ":۹۳ﻣﺘﻦ ﺷﺐ ﺑﺎﻧﻮان در ﻓﺮوﺷﮕﺎه اﺑﺰار )(Ladies Night",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۹۳ﻣﺘﻦ ﺷﺐ ﺑﺎﻧﻮان در ﻓﺮوﺷﮕﺎه اﺑﺰار )(Ladies Night"
+    },
+    {
+      "german": "der Erfolg, -e",
+      "persian": "ﻣﻮﻓﻘﯿﺖ",
+      "sourceLine": "ﻣﻮﻓﻘﯿﺖ      der Erfolg, -e"
+    },
+    {
+      "german": "der Veranstalter, -",
+      "persian": "ﺑﺮﮔﺰارﮐﻨﻨﺪه ،ﻣﺪﯾﺮ ﺑﺮﻧﺎﻣﻪ",
+      "sourceLine": "ﺑﺮﮔﺰارﮐﻨﻨﺪه ،ﻣﺪﯾﺮ ﺑﺮﻧﺎﻣﻪ     der Veranstalter, -"
+    },
+    {
+      "german": "das Veranstaltungskonzept, -e",
+      "persian": "ﻃﺮح و اﯾﺪه ﺑﺮﮔﺰاری ﯾﮏ روﯾﺪاد",
+      "sourceLine": "ﻃﺮح و اﯾﺪه ﺑﺮﮔﺰاری ﯾﮏ روﯾﺪاد        das Veranstaltungskonzept, -e"
+    },
+    {
+      "german": "das Laminat, -e",
+      "persian": "ﻟﻤﯿﻨﺖ )ﻧﻮﻋﯽ ﮐﻔﭙﻮش ﭼﻮﺑﯽ(",
+      "sourceLine": "ﻟﻤﯿﻨﺖ )ﻧﻮﻋﯽ ﮐﻔﭙﻮش ﭼﻮﺑﯽ(          das Laminat, -e"
+    },
+    {
+      "german": "die Fliese, -n",
+      "persian": "ﮐﺎﺷﯽ",
+      "sourceLine": "ﮐﺎﺷﯽ     die Fliese, -n"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( das Verputzen",
+      "persian": "ﮔﭽﮑﺎری ،ﺳﯿﻤﺎﻧﮑﺎری دﯾﻮار",
+      "sourceLine": "ﮔﭽﮑﺎری ،ﺳﯿﻤﺎﻧﮑﺎری دﯾﻮار     )ﺑﺪون ﺟﻤﻊ( das Verputzen"
+    },
+    {
+      "german": "der Gartenteich, -e",
+      "persian": "ﺑﺮﮐﻪ ﯾﺎ ﺣﻮﺿﭽﻪ ﮐﻮﭼﮏ داﺧﻞ ﺑﺎﻏﭽ",
+      "sourceLine": "ﺑﺮﮐﻪ ﯾﺎ ﺣﻮﺿﭽﻪ ﮐﻮﭼﮏ داﺧﻞ ﺑﺎﻏﭽ         der Gartenteich, -e"
+    },
+    {
+      "german": "die Unterstützung, -en",
+      "persian": "ﺣﻤﺎﯾﺖ ،ﭘﺸﺘﯿﺒﺎﻧﯽ",
+      "sourceLine": "ﺣﻤﺎﯾﺖ ،ﭘﺸﺘﯿﺒﺎﻧﯽ    die Unterstützung, -en"
+    },
+    {
+      "german": "der Hersteller, -",
+      "persian": "ﺗﻮﻟﯿﺪﮐﻨﻨﺪه ،ﮐﺎرﺧﺎﻧﻪ ﺳﺎزﻧﺪه",
+      "sourceLine": "ﺗﻮﻟﯿﺪﮐﻨﻨﺪه ،ﮐﺎرﺧﺎﻧﻪ ﺳﺎزﻧﺪه   der Hersteller, -"
+    },
+    {
+      "german": "der Händler, -",
+      "persian": "ﻓﺮوﺷﻨﺪه ،ﺗﻮزﯾﻌﮑﻨﻨﺪه ،ﺑﺎزرﮔﺎن",
+      "sourceLine": "ﻓﺮوﺷﻨﺪه ،ﺗﻮزﯾﻌﮑﻨﻨﺪه ،ﺑﺎزرﮔﺎن    der Händler, -"
+    },
+    {
+      "german": "die Win-Win-Situation, -en",
+      "persian": "وﺿﻌﯿﺖ ﺑﺮد-ﺑﺮد )ﻣﻨﻔﻌﺖ دوﺟﺎﻧﺒﻪ(",
+      "sourceLine": "وﺿﻌﯿﺖ ﺑﺮد-ﺑﺮد )ﻣﻨﻔﻌﺖ دوﺟﺎﻧﺒﻪ(      die Win-Win-Situation, -en"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( die Skepsis",
+      "persian": "ﺑﺪﺑﯿﻨﯽ ،ﺗﺮدﯾﺪ ،ﺷﮏ",
+      "sourceLine": "ﺑﺪﺑﯿﻨﯽ ،ﺗﺮدﯾﺪ ،ﺷﮏ    )ﺑﺪون ﺟﻤﻊ( die Skepsis"
+    },
+    {
+      "german": "das Geschlecht, -er",
+      "persian": "ﺟﻨﺴﯿﺖ",
+      "sourceLine": "ﺟﻨﺴﯿﺖ     das Geschlecht, -er"
+    },
+    {
+      "german": "die Vorerfahrung, -en",
+      "persian": "ﺗﺠﺮﺑﻪ ﻗﺒﻠﯽ ،ﺳﺎﺑﻘﻪ ﮐﺎری",
+      "sourceLine": "ﺗﺠﺮﺑﻪ ﻗﺒﻠﯽ ،ﺳﺎﺑﻘﻪ ﮐﺎری     die Vorerfahrung, -en"
+    },
+    {
+      "german": "der Fortbildungsbedarf, -e",
+      "persian": "ﻧﯿﺎز ﺑﻪ آﻣﻮزش ﺗﮑﻤﯿﻠﯽ ،دوره ارﺗﻘﺎء ﻣﻬﺎرت",
+      "sourceLine": "ﻧﯿﺎز ﺑﻪ آﻣﻮزش ﺗﮑﻤﯿﻠﯽ ،دوره ارﺗﻘﺎء ﻣﻬﺎرت     der Fortbildungsbedarf, -e"
+    },
+    {
+      "german": "der Kursanbieter, -",
+      "persian": "اراﺋﻬﺪﻫﻨﺪه ﯾﺎ ﺑﺮﮔﺰارﮐﻨﻨﺪه دوره آﻣﻮزﺷﯽ",
+      "sourceLine": "اراﺋﻬﺪﻫﻨﺪه ﯾﺎ ﺑﺮﮔﺰارﮐﻨﻨﺪه دوره آﻣﻮزﺷﯽ    der Kursanbieter, -"
+    },
+    {
+      "german": ")ﺑﯿﻘﺎﻋﺪه sich halten an (+ Akkusativ /",
+      "persian": "ﭘﺎﯾﺒﻨﺪ ﺑﻮدن ﺑﻪ ﭼﯿﺰی ،رﻋﺎﯾﺖ ﮐﺮدن ﯾﮏ اﻟﮕﻮ ﯾﺎ ﻗﺎﻧﻮن",
+      "sourceLine": "ﭘﺎﯾﺒﻨﺪ ﺑﻮدن ﺑﻪ ﭼﯿﺰی ،رﻋﺎﯾﺖ ﮐﺮدن ﯾﮏ اﻟﮕﻮ ﯾﺎ ﻗﺎﻧﻮن    )ﺑﯿﻘﺎﻋﺪه sich halten an (+ Akkusativ /"
+    },
+    {
+      "german": "sich etablieren",
+      "persian": "ﺟﺎ اﻓﺘﺎدن ،ﺗﺜﺒﯿﺖ ﺷﺪن ،ﻣﺮﺳﻮم ﺷﺪن",
+      "sourceLine": "ﺟﺎ اﻓﺘﺎدن ،ﺗﺜﺒﯿﺖ ﺷﺪن ،ﻣﺮﺳﻮم ﺷﺪن        sich etablieren"
+    },
+    {
+      "german": "sich eintragen für (+ Akkusativ /",
+      "persian": "ﺛﺒﺘﻨﺎم ﮐﺮدن ﺑﺮای ﭼﯿﺰی ،اﺳﻢ ﺧﻮد را در ﻟﯿﺴﺘﯽ ﻧﻮﺷﺘﻦ",
+      "sourceLine": "ﺛﺒﺘﻨﺎم ﮐﺮدن ﺑﺮای ﭼﯿﺰی ،اﺳﻢ ﺧﻮد را در ﻟﯿﺴﺘﯽ ﻧﻮﺷﺘﻦ      sich eintragen für (+ Akkusativ /"
+    },
+    {
+      "german": "/ +ﺑﻪ ﮐﺴﯽ zur Verfügung stellen (+ Dativ",
+      "persian": "در اﺧﺘﯿﺎر ﮔﺬاﺷﺘﻦ ،ﻓﺮاﻫﻢ ﮐﺮدن",
+      "sourceLine": "در اﺧﺘﯿﺎر ﮔﺬاﺷﺘﻦ ،ﻓﺮاﻫﻢ ﮐﺮدن      / +ﺑﻪ ﮐﺴﯽ zur Verfügung stellen (+ Dativ"
+    },
+    {
+      "german": ")profitieren von (+ Dativ",
+      "persian": "ﺳﻮد ﺑﺮدن از ﭼﯿﺰی ،ﻣﻨﻔﻌﺖ ﮐﺴﺐ ﮐﺮدن",
+      "sourceLine": "ﺳﻮد ﺑﺮدن از ﭼﯿﺰی ،ﻣﻨﻔﻌﺖ ﮐﺴﺐ ﮐﺮدن          )profitieren von (+ Dativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ teilnehmen an (+ Dativ /",
+      "persian": "ﺷﺮﮐﺖ ﮐﺮدن در ﭼﯿﺰی",
+      "sourceLine": "ﺷﺮﮐﺖ ﮐﺮدن در ﭼﯿﺰی        )ﺟﺪاﺷﺪﻧﯽ teilnehmen an (+ Dativ /"
+    },
+    {
+      "german": ")beweisen (+ Akkusativ",
+      "persian": "اﺛﺒﺎت ﮐﺮدن ،ﻧﺸﺎن دادن و ﺛﺎﺑﺖ ﮐﺮدن ﭼﯿﺰی",
+      "sourceLine": "اﺛﺒﺎت ﮐﺮدن ،ﻧﺸﺎن دادن و ﺛﺎﺑﺖ ﮐﺮدن ﭼﯿﺰی       )beweisen (+ Akkusativ"
+    },
+    {
+      "german": "freiwillig",
+      "persian": "داوﻃﻠﺒﺎﻧﻪ ،اﺧﺘﯿﺎری",
+      "sourceLine": "داوﻃﻠﺒﺎﻧﻪ ،اﺧﺘﯿﺎری   freiwillig"
+    },
+    {
+      "german": "offensichtlich",
+      "persian": "آﺷﮑﺎرا ،ﻣﺸﺨﺼﺎ ً ،از ﻗﺮار ﻣﻌﻠﻮم",
+      "sourceLine": "آﺷﮑﺎرا ،ﻣﺸﺨﺼﺎ ً ،از ﻗﺮار ﻣﻌﻠﻮم    offensichtlich"
+    },
+    {
+      "german": "gemütlich",
+      "persian": "دﻧﺞ ،راﺣﺖ ،ﮔﺮم و ﺻﻤﯿﻤﯽ",
+      "sourceLine": "دﻧﺞ ،راﺣﺖ ،ﮔﺮم و ﺻﻤﯿﻤﯽ       gemütlich"
+    },
+    {
+      "german": "ausgebucht",
+      "persian": "ﮐﺎﻣﻼ ً رزرو ﺷﺪه ،دارای ﻇﺮﻓﯿﺖ ﺗﮑﻤﯿﻞ",
+      "sourceLine": "ﮐﺎﻣﻼ ً رزرو ﺷﺪه ،دارای ﻇﺮﻓﯿﺖ ﺗﮑﻤﯿﻞ      ausgebucht"
+    },
+    {
+      "german": "bisherig",
+      "persian": "ﻗﺒﻠﯽ ،ﺗﺎ ﺑﻪ اﻣﺮوز",
+      "sourceLine": "ﻗﺒﻠﯽ ،ﺗﺎ ﺑﻪ اﻣﺮوز   bisherig"
+    },
+    {
+      "german": "unberechtigt",
+      "persian": "ﻧﺎﺣﻖ ،ﺑﯿﻤﻮرد ،ﺑﯿﭙﺎﯾﻪ و اﺳﺎس",
+      "sourceLine": "ﻧﺎﺣﻖ ،ﺑﯿﻤﻮرد ،ﺑﯿﭙﺎﯾﻪ و اﺳﺎس    unberechtigt"
+    },
+    {
+      "german": "kostenlos",
+      "persian": "راﯾﮕﺎن",
+      "sourceLine": "راﯾﮕﺎن   kostenlos"
+    },
+    {
+      "german": ":۹۴ﺳﺎﺧﺘﺎر آزﻣﻮﻧﯽ و ﻧﺎﻣﻬﻨﮕﺎری اداری )(Sprachbausteine",
+      "persian": "ﺻﻔﺤﻪ",
+      "sourceLine": "ﺻﻔﺤﻪ  :۹۴ﺳﺎﺧﺘﺎر آزﻣﻮﻧﯽ و ﻧﺎﻣﻬﻨﮕﺎری اداری )(Sprachbausteine"
+    },
+    {
+      "german": "die Prämie, -n",
+      "persian": "ﭘﺎداش ،ﺟﺎﯾﺰه ﻧﻘﺪی",
+      "sourceLine": "ﭘﺎداش ،ﺟﺎﯾﺰه ﻧﻘﺪی     die Prämie, -n"
+    },
+    {
+      "german": "die Mühe, -n",
+      "persian": "زﺣﻤﺖ ،ﺗﻼش",
+      "sourceLine": "زﺣﻤﺖ ،ﺗﻼش       die Mühe, -n"
+    },
+    {
+      "german": "der Unfall, ¨e",
+      "persian": "ﺣﺎدﺛﻪ ،ﺗﺼﺎدف در ﮐﺎر",
+      "sourceLine": "ﺣﺎدﺛﻪ ،ﺗﺼﺎدف در ﮐﺎر     der Unfall, ¨e"
+    },
+    {
+      "german": "die Instandhaltung, -en",
+      "persian": "ﻧﮕﻬﺪاری ،ﻣﺮاﻗﺒﺖ ﻓﻨﯽ )ﭘﯿﺸﮕﯿﺮی از ﺧﺮاﺑﯽ دﺳﺘﮕﺎﻫﻬﺎ(",
+      "sourceLine": "ﻧﮕﻬﺪاری ،ﻣﺮاﻗﺒﺖ ﻓﻨﯽ )ﭘﯿﺸﮕﯿﺮی از ﺧﺮاﺑﯽ دﺳﺘﮕﺎﻫﻬﺎ(       die Instandhaltung, -en"
+    },
+    {
+      "german": "die Wartung, -en",
+      "persian": "ﺳﺮوﯾﺲ ،ﺗﻌﻤﯿﺮ و ﻧﮕﻬﺪاری ﺗﺠﻬﯿﺰات",
+      "sourceLine": "ﺳﺮوﯾﺲ ،ﺗﻌﻤﯿﺮ و ﻧﮕﻬﺪاری ﺗﺠﻬﯿﺰات        die Wartung, -en"
+    },
+    {
+      "german": "das Büromaterial, -ien",
+      "persian": "ﻟﻮازﻣﺎﻟﺘﺤﺮﯾﺮ ،ﻣﻠﺰوﻣﺎت اداری",
+      "sourceLine": "ﻟﻮازﻣﺎﻟﺘﺤﺮﯾﺮ ،ﻣﻠﺰوﻣﺎت اداری     das Büromaterial, -ien"
+    },
+    {
+      "german": "der Ansprechpartner, -",
+      "persian": "ﺷﺨﺺ ﭘﺎﺳﺨﮕﻮ ،ﻣﺴﺌﻮل ﻣﺮﺑﻮﻃﻪ ،ﻃﺮف ﻣﺸﻮرت",
+      "sourceLine": "ﺷﺨﺺ ﭘﺎﺳﺨﮕﻮ ،ﻣﺴﺌﻮل ﻣﺮﺑﻮﻃﻪ ،ﻃﺮف ﻣﺸﻮرت               der Ansprechpartner, -"
+    },
+    {
+      "german": "die Eingangsbestätigung, -en",
+      "persian": "ﺗﺎﯾﯿﺪﯾﻪ درﯾﺎﻓﺖ )ﻧﺎﻣﻪ ﯾﺎ ﺳﻨﺪ رﺳﻤﯽ(",
+      "sourceLine": "ﺗﺎﯾﯿﺪﯾﻪ درﯾﺎﻓﺖ )ﻧﺎﻣﻪ ﯾﺎ ﺳﻨﺪ رﺳﻤﯽ(    die Eingangsbestätigung, -en"
+    },
+    {
+      "german": "die Bearbeitung, -en",
+      "persian": "ﺑﺮرﺳﯽ ،ﭘﺮدازش ،رﺳﯿﺪﮔﯽ ﺑﻪ ﭘﺮوﻧﺪه",
+      "sourceLine": "ﺑﺮرﺳﯽ ،ﭘﺮدازش ،رﺳﯿﺪﮔﯽ ﺑﻪ ﭘﺮوﻧﺪه        die Bearbeitung, -en"
+    },
+    {
+      "german": ")ﺑﺪون ﺟﻤﻊ( die Geduld",
+      "persian": "ﺻﺒﺮ ،ﺷﮑﯿﺒﺎﯾﯽ",
+      "sourceLine": "ﺻﺒﺮ ،ﺷﮑﯿﺒﺎﯾﯽ     )ﺑﺪون ﺟﻤﻊ( die Geduld"
+    },
+    {
+      "german": "die Geschäftsleitung, -en",
+      "persian": "ﻣﺪﯾﺮﯾﺖ ﺷﺮﮐﺖ ،ﻫﯿﺌﺖ ﻣﺪﯾﺮه",
+      "sourceLine": "ﻣﺪﯾﺮﯾﺖ ﺷﺮﮐﺖ ،ﻫﯿﺌﺖ ﻣﺪﯾﺮه        die Geschäftsleitung, -en"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ einreichen (+ Akkusativ /",
+      "persian": "ﺗﺤﻮﯾﻞ دادن ،اراﺋﻪ ﮐﺮدن رﺳﻤﯽ )ﺳﻨﺪ ﯾﺎ ﭘﯿﺸﻨﻬﺎد(",
+      "sourceLine": "ﺗﺤﻮﯾﻞ دادن ،اراﺋﻪ ﮐﺮدن رﺳﻤﯽ )ﺳﻨﺪ ﯾﺎ ﭘﯿﺸﻨﻬﺎد(     )ﺟﺪاﺷﺪﻧﯽ einreichen (+ Akkusativ /"
+    },
+    {
+      "german": ")verhindern (+ Akkusativ",
+      "persian": "ﺟﻠﻮﮔﯿﺮی ﮐﺮدن ،ﻣﺎﻧﻊ ﺷﺪن )از رخ دادن ﺣﺎدﺛﻪ(",
+      "sourceLine": "ﺟﻠﻮﮔﯿﺮی ﮐﺮدن ،ﻣﺎﻧﻊ ﺷﺪن )از رخ دادن ﺣﺎدﺛﻪ(      )verhindern (+ Akkusativ"
+    },
+    {
+      "german": ")vereinfachen (+ Akkusativ",
+      "persian": "ﺳﺎدﻫﺘﺮ ﮐﺮدن ،ﺗﺴﻬﯿﻞ ﻧﻤﻮدن",
+      "sourceLine": "ﺳﺎدﻫﺘﺮ ﮐﺮدن ،ﺗﺴﻬﯿﻞ ﻧﻤﻮدن      )vereinfachen (+ Akkusativ"
+    },
+    {
+      "german": ")verbilligen (+ Akkusativ",
+      "persian": "ارزاﻧﺘﺮ ﮐﺮدن ،ﮐﺎﻫﺶ دادن ﻫﺰﯾﻨﻪ ﺗﻮﻟﯿﺪ",
+      "sourceLine": "ارزاﻧﺘﺮ ﮐﺮدن ،ﮐﺎﻫﺶ دادن ﻫﺰﯾﻨﻪ ﺗﻮﻟﯿﺪ   )verbilligen (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ ausnutzen (+ Akkusativ /",
+      "persian": "ﺑﻬﺮﻫﺒﺮداری ﮐﺮدن ،ﺑﻬﯿﻨﻪ اﺳﺘﻔﺎده ﮐﺮدن از ﻣﻮاد ﯾﺎ ﻓﺮﺻﺘﻬﺎ",
+      "sourceLine": "ﺑﻬﺮﻫﺒﺮداری ﮐﺮدن ،ﺑﻬﯿﻨﻪ اﺳﺘﻔﺎده ﮐﺮدن از ﻣﻮاد ﯾﺎ ﻓﺮﺻﺘﻬﺎ   )ﺟﺪاﺷﺪﻧﯽ ausnutzen (+ Akkusativ /"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ umsetzen (+ Akkusativ /",
+      "persian": "ﻋﻤﻠﯽ ﮐﺮدن ،ﺑﻪ ﻣﺮﺣﻠﻪ اﺟﺮا درآوردن ﯾﮏ اﯾﺪه",
+      "sourceLine": "ﻋﻤﻠﯽ ﮐﺮدن ،ﺑﻪ ﻣﺮﺣﻠﻪ اﺟﺮا درآوردن ﯾﮏ اﯾﺪه     )ﺟﺪاﺷﺪﻧﯽ umsetzen (+ Akkusativ /"
+    },
+    {
+      "german": "/ + Akkusativاز ﮐﺴﯽ bitten um (+ Akkusativ",
+      "persian": "ﺧﻮاﻫﺶ ﮐﺮدن ،ﺗﻘﺎﺿﺎ ﮐﺮدن ﺑﺮای ﭼﯿﺰی",
+      "sourceLine": "ﺧﻮاﻫﺶ ﮐﺮدن ،ﺗﻘﺎﺿﺎ ﮐﺮدن ﺑﺮای ﭼﯿﺰی         / + Akkusativاز ﮐﺴﯽ bitten um (+ Akkusativ"
+    },
+    {
+      "german": ")ﺟﺪاﺷﺪﻧﯽ( feststehen",
+      "persian": "ﻣﺸﺨﺺ ﺷﺪن ،ﻗﻄﻌﯽ ﺷﺪن ،ﻣﻌﻠﻮم ﺷﺪن ﻧﻬﺎﯾﯽ ﻧﺘﺎﯾﺞ",
+      "sourceLine": "ﻣﺸﺨﺺ ﺷﺪن ،ﻗﻄﻌﯽ ﺷﺪن ،ﻣﻌﻠﻮم ﺷﺪن ﻧﻬﺎﯾﯽ ﻧﺘﺎﯾﺞ            )ﺟﺪاﺷﺪﻧﯽ( feststehen"
+    }
+  ]
+}

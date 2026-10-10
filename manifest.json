@@ -1,0 +1,22 @@
+{
+  "name": "Deutsch Quest — DTB B2",
+  "short_name": "Deutsch Quest",
+  "description": "بازی آموزشی آلمانی و آمادگی DTB B2",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#081126",
+  "theme_color": "#0b1530",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "version": "1.0.0"
+}

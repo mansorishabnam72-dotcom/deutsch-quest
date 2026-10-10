@@ -1,0 +1,143 @@
+{
+  "id": 1,
+  "title": "مأموریت آزمایشی: ارتباط در محیط کار",
+  "source": "نمونه آموزشی مستقل؛ محتوای واقعی کتاب Linie 1 Beruf نیست.",
+  "estimatedMinutes": 12,
+  "questions": [
+    {
+      "id": "demo-vocab-01",
+      "type": "mcq",
+      "category": "vocabulary",
+      "prompt": "کدام واژه آلمانی به معنی «جلسه» است؟",
+      "hint": "به واژه‌ای فکر کن که در محیط کار زیاد می‌شنوی.",
+      "options": [
+        {
+          "label": "die Besprechung",
+          "value": "a"
+        },
+        {
+          "label": "die Bewerbung",
+          "value": "b"
+        },
+        {
+          "label": "die Rechnung",
+          "value": "c"
+        },
+        {
+          "label": "die Lieferung",
+          "value": "d"
+        }
+      ],
+      "correct": "a",
+      "explanation": "die Besprechung یعنی جلسه یا نشست کاری. فعل رایج: eine Besprechung haben."
+    },
+    {
+      "id": "demo-vocab-02",
+      "type": "mcq",
+      "category": "vocabulary",
+      "prompt": "جای خالی را کامل کن: Ich nehme ___ Termin morgen wahr.",
+      "hint": "در این عبارت، «Termin» مفعول مستقیم است.",
+      "options": [
+        {
+          "label": "den",
+          "value": "a"
+        },
+        {
+          "label": "dem",
+          "value": "b"
+        },
+        {
+          "label": "der",
+          "value": "c"
+        },
+        {
+          "label": "des",
+          "value": "d"
+        }
+      ],
+      "correct": "a",
+      "explanation": "einen Termin wahrnehmen یعنی در یک قرار حاضر شدن. Termin مذکر است و اینجا Akkusativ می‌گیرد: den Termin."
+    },
+    {
+      "id": "demo-grammar-01",
+      "type": "mcq",
+      "category": "grammar",
+      "prompt": "کدام جمله از نظر جایگاه فعل در جمله وابسته درست است؟",
+      "hint": "پس از weil، فعل صرف‌شده معمولاً به پایان جمله می‌رود.",
+      "options": [
+        {
+          "label": "Ich bleibe hier, weil ich heute arbeite.",
+          "value": "a"
+        },
+        {
+          "label": "Ich bleibe hier, weil arbeite ich heute.",
+          "value": "b"
+        },
+        {
+          "label": "Ich bleibe hier, weil ich arbeite heute.",
+          "value": "c"
+        },
+        {
+          "label": "Ich bleibe hier, weil heute ich arbeite?",
+          "value": "d"
+        }
+      ],
+      "correct": "a",
+      "explanation": "در جمله وابسته با weil، فعل صرف‌شده در پایان بند می‌آید: weil ich heute arbeite."
+    },
+    {
+      "id": "demo-grammar-02",
+      "type": "mcq",
+      "category": "grammar",
+      "prompt": "کدام گزینه برای یک درخواست مؤدبانه مناسب‌تر است؟",
+      "hint": "Konjunktiv II می‌تواند درخواست را نرم‌تر و مؤدبانه‌تر کند.",
+      "options": [
+        {
+          "label": "Könnten Sie mir bitte helfen?",
+          "value": "a"
+        },
+        {
+          "label": "Sie helfen mir jetzt!",
+          "value": "b"
+        },
+        {
+          "label": "Du musst mir helfen!",
+          "value": "c"
+        },
+        {
+          "label": "Helfen Sie mir gestern.",
+          "value": "d"
+        }
+      ],
+      "correct": "a",
+      "explanation": "Könnten Sie mir bitte helfen? یعنی «ممکن است لطفاً به من کمک کنید؟» و برای محیط حرفه‌ای مناسب است."
+    },
+    {
+      "id": "demo-sentence-01",
+      "type": "text",
+      "category": "sentence",
+      "prompt": "کلمات را به ترتیب درست بچین و جمله بساز:",
+      "hint": "جمله را با «Morgen» شروع کن؛ فعل صرف‌شده در جایگاه دوم قرار می‌گیرد.",
+      "tokens": [
+        "Morgen",
+        "besprechen",
+        "wir",
+        "den neuen Plan"
+      ],
+      "accepted": [
+        "Morgen besprechen wir den neuen Plan"
+      ],
+      "explanation": "Morgen besprechen wir den neuen Plan. وقتی قید زمان در جایگاه اول است، فعل صرف‌شده در جایگاه دوم می‌آید."
+    },
+    {
+      "id": "demo-speaking-01",
+      "type": "speaking",
+      "category": "speaking",
+      "prompt": "همکارت می‌پرسد چرا گزارش هنوز آماده نیست. به آلمانی در ۲ تا ۴ جمله پاسخ بده و یک زمان مشخص برای تحویل پیشنهاد کن.",
+      "hint": "می‌توانی از این ساختارها کمک بگیری: Leider ... / Ich brauche noch ... / Ich schicke Ihnen den Bericht bis ...",
+      "minLength": 18,
+      "modelAnswer": "Leider brauche ich noch etwas Zeit, weil mir einige Informationen fehlen. Ich kläre das heute mit dem Team und schicke Ihnen den Bericht bis morgen Mittag.",
+      "explanation": "پاسخ مناسب باید دلیل را روشن کند، جمله‌بندی حرفه‌ای داشته باشد و زمان تحویل مشخصی ارائه کند. پاسخ آزاد به‌صورت خودکار از نظر صحت زبانی نمره‌گذاری قطعی نمی‌شود."
+    }
+  ]
+}

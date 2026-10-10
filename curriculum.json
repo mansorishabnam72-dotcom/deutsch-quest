@@ -1,0 +1,206 @@
+{
+  "title": "Deutsch Quest: DTB B2",
+  "version": "1.0.0",
+  "stages": [
+    {
+      "id": 1,
+      "group": "book",
+      "title": "واژگان محیط کار · تکمیلی",
+      "subtitle": "محتوای تکمیلی مستقل؛ متن کتاب این درس در PDF ارسالی موجود نیست.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 2,
+      "group": "book",
+      "title": "مکاتبات و ارتباط کاری · تکمیلی",
+      "subtitle": "محتوای تکمیلی مستقل؛ متن کتاب این درس در PDF ارسالی موجود نیست.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 3,
+      "group": "book",
+      "title": "جلسه و حل مسئله · تکمیلی",
+      "subtitle": "محتوای تکمیلی مستقل؛ متن کتاب این درس در PDF ارسالی موجود نیست.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 4,
+      "group": "book",
+      "title": "درس ۴ · ارتباطات اداری",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 4؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 5,
+      "group": "book",
+      "title": "درس ۵ · مشاغل و مهارت‌ها",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 5؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 6,
+      "group": "book",
+      "title": "درس ۶ · شهر و محیط زیست",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 6؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 7,
+      "group": "book",
+      "title": "درس ۷ · سلامت",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 7؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 8,
+      "group": "book",
+      "title": "درس ۸ · گفتگو و ارتباط",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 8؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 9,
+      "group": "book",
+      "title": "درس ۹ · تجارت",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 9؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 10,
+      "group": "book",
+      "title": "درس ۱۰ · حقوق و وظایف",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 10؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 11,
+      "group": "book",
+      "title": "درس ۱۱ · رسانه و فناوری",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 11؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 12,
+      "group": "book",
+      "title": "درس ۱۲ · جهانی‌شدن و دیدگاه‌ها",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 12؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 13,
+      "group": "book",
+      "title": "درس ۱۳ · رویدادها و تجربه‌ها",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 13؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 14,
+      "group": "book",
+      "title": "درس ۱۴ · آموزش و گزارش",
+      "subtitle": "واژگان استخراج‌شده از PDF درس 14؛ برخی مدخل‌ها هنوز نیازمند بازبینی انسانی‌اند.",
+      "status": "playable",
+      "icon": "📘"
+    },
+    {
+      "id": 15,
+      "group": "grammar",
+      "title": "افعال با Dativ و Akkusativ",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 16,
+      "group": "grammar",
+      "title": "افعال با حرف اضافه و حالت",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 17,
+      "group": "grammar",
+      "title": "حروف اضافه و Wechselpräpositionen",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 18,
+      "group": "grammar",
+      "title": "افعال جداشدنی و جدانشدنی",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 19,
+      "group": "grammar",
+      "title": "Konjunktiv II",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 20,
+      "group": "grammar",
+      "title": "Passiv",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 21,
+      "group": "grammar",
+      "title": "Nebensätze و Konnektoren",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 22,
+      "group": "grammar",
+      "title": "Infinitiv mit zu و um ... zu",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 23,
+      "group": "grammar",
+      "title": "ohne ... zu و ohne dass",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 24,
+      "group": "grammar",
+      "title": "sodass، indem و dadurch, dass",
+      "subtitle": "تمرین گرامر و کاربرد در محیط کار",
+      "status": "playable",
+      "icon": "⚙️"
+    },
+    {
+      "id": 25,
+      "group": "final",
+      "title": "غول نهایی DTB B2",
+      "subtitle": "ترکیبی از واژگان، گرامر و موقعیت‌های کاری",
+      "status": "playable",
+      "icon": "👑"
+    }
+  ]
+}
